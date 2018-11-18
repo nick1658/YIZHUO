@@ -1,0 +1,18 @@
+Added Component: Designator=P5(niujiaocha20p)
+Added Pin To Net: NetName=VOUT1 Pin=P5-1
+Added Pin To Net: NetName=VOUT1 Pin=P5-2
+Added Pin To Net: NetName=VOUT1 Pin=P5-4
+Added Pin To Net: NetName=VOUT1 Pin=P5-6
+Added Pin To Net: NetName=VOUT1 Pin=P5-8
+Added Pin To Net: NetName=VOUT1 Pin=P5-10
+Added Pin To Net: NetName=GND Pin=P5-11
+Added Pin To Net: NetName=VOUT1 Pin=P5-12
+Added Pin To Net: NetName=GND Pin=P5-13
+Added Pin To Net: NetName=VOUT1 Pin=P5-14
+Added Pin To Net: NetName=GND Pin=P5-15
+Added Pin To Net: NetName=VOUT1 Pin=P5-16
+Added Pin To Net: NetName=GND Pin=P5-17
+Added Pin To Net: NetName=VOUT1 Pin=P5-18
+Added Pin To Net: NetName=VOUT1 Pin=P5-19
+Added Pin To Net: NetName=VOUT1 Pin=P5-20
+Added Member To Class: ClassName=µçÑÛÖ÷°å Member=Component P5 Å£½Ç²å×ù

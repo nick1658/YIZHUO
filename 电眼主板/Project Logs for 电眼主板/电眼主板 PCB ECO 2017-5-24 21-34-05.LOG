@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U8 Old Footprint=mTQFP48 New Footprint=dm9000
+Change Component Footprint: Designator=U8 Old Footprint=dm9000 New Footprint=sop8
+Change Component Footprint: Designator=U8 Old Footprint=sop8 New Footprint=mTQFP48
+Change Component Comment : Designator=U8 Old Comment=DM9000 New Comment=集成电路
+Change Component Comment : Designator=U8 Old Comment=集成电路 New Comment=DM9000

@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=VDD33V Pin=LED7-1
+Removed Pin From Net: NetName=VDD33V Pin=LED8-1
+Removed Pin From Net: NetName=WP_SD_1 Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=485_B Pin=R13-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=R14-2
+Removed Pin From Net: NetName=NetLED8_2 Pin=R15-2
+Removed Pin From Net: NetName=485_B Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R16-2
+Change Component Footprint: Designator=U3 Old Footprint=mTQFP48 New Footprint=sop8
+Change Component Footprint: Designator=U4 Old Footprint=SOP8 New Footprint=mTQFP48
+Change Component Comment : Designator=U3 Old Comment=DM9000 New Comment=集成电路
+Change Component Comment : Designator=U4 Old Comment=集成电路 New Comment=DM9000
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Added Component: Designator=LED3(LED-0805)
+Added Component: Designator=LED9(LED-0805)
+Added Component: Designator=LED10(LED-0805)
+Added Component: Designator=P2(niujiaocha24P)
+Added Component: Designator=R16(0603)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=VDD33V Pin=LED9-1
+Added Pin To Net: NetName=VDD33V Pin=LED10-1
+Added Pin To Net: NetName=A0 Pin=P2-1
+Added Pin To Net: NetName=CH1 Pin=P2-2
+Added Pin To Net: NetName=A1 Pin=P2-3
+Added Pin To Net: NetName=CH2 Pin=P2-4
+Added Pin To Net: NetName=A2 Pin=P2-5
+Added Pin To Net: NetName=CH3 Pin=P2-6
+Added Pin To Net: NetName=EN Pin=P2-7
+Added Pin To Net: NetName=CH4 Pin=P2-8
+Added Pin To Net: NetName=CH5 Pin=P2-10
+Added Pin To Net: NetName=CH6 Pin=P2-12
+Added Pin To Net: NetName=VCC5V Pin=P2-13
+Added Pin To Net: NetName=CH7 Pin=P2-14
+Added Pin To Net: NetName=VCC5V Pin=P2-15
+Added Pin To Net: NetName=CH8 Pin=P2-16
+Added Pin To Net: NetName=GND Pin=P2-17
+Added Pin To Net: NetName=CH9 Pin=P2-18
+Added Pin To Net: NetName=GND Pin=P2-19
+Added Pin To Net: NetName=CH10 Pin=P2-20
+Added Pin To Net: NetName=VCC3.3 Pin=P2-21
+Added Pin To Net: NetName=CH11 Pin=P2-22
+Added Pin To Net: NetName=VCC3.3 Pin=P2-23
+Added Pin To Net: NetName=CH12 Pin=P2-24
+Added Pin To Net: NetName=VDD33V Pin=R12-2
+Added Pin To Net: NetName=485_B Pin=R13-2
+Added Pin To Net: NetName=485_B Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetLED7_2 Pin=RH7-1
+Added Pin To Net: NetName=NetLED8_2 Pin=RH8-1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=TL1-8
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=TL2-8
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R14-2
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED10_2 Pin=R15-2
+Added Net: Name=NetLED10_2
+Added Member To Class: ClassName=电眼主板 Member=Component LED3 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED9 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED10 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component P2 牛角插座
+Added Member To Class: ClassName=电眼主板 Member=Component P4 Header 30X2
+Added Member To Class: ClassName=电眼主板 Member=Component P5 Header 30X2

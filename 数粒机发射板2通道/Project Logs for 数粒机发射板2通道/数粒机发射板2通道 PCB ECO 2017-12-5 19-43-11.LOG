@@ -1,0 +1,76 @@
+Added Component: Designator=D1e(EL-1KL3)
+Added Component: Designator=D1f(EL-1KL3)
+Added Component: Designator=D1g(EL-1KL3)
+Added Component: Designator=D1h(EL-1KL3)
+Added Component: Designator=D2e(EL-1KL3)
+Added Component: Designator=D2f(EL-1KL3)
+Added Component: Designator=D2g(EL-1KL3)
+Added Component: Designator=D2h(EL-1KL3)
+Added Component: Designator=D3e(EL-1KL3)
+Added Component: Designator=D3f(EL-1KL3)
+Added Component: Designator=D3g(EL-1KL3)
+Added Component: Designator=D3h(EL-1KL3)
+Added Component: Designator=D4e(EL-1KL3)
+Added Component: Designator=D4f(EL-1KL3)
+Added Component: Designator=D4g(EL-1KL3)
+Added Component: Designator=D4h(EL-1KL3)
+Added Pin To Net: NetName=VOUT1 Pin=D1e-1
+Added Pin To Net: NetName=GND Pin=D1h-2
+Added Pin To Net: NetName=VOUT2 Pin=D2e-1
+Added Pin To Net: NetName=GND Pin=D2h-2
+Added Pin To Net: NetName=VOUT3 Pin=D3e-1
+Added Pin To Net: NetName=GND Pin=D3h-2
+Added Pin To Net: NetName=VOUT4 Pin=D4e-1
+Added Pin To Net: NetName=GND Pin=D4h-2
+Added Pin To Net: NetName=NetD1e_2 Pin=D1e-2
+Added Pin To Net: NetName=NetD1e_2 Pin=D1f-1
+Added Net: Name=NetD1e_2
+Added Pin To Net: NetName=NetD1f_2 Pin=D1f-2
+Added Pin To Net: NetName=NetD1f_2 Pin=D1g-1
+Added Net: Name=NetD1f_2
+Added Pin To Net: NetName=NetD1g_2 Pin=D1g-2
+Added Pin To Net: NetName=NetD1g_2 Pin=D1h-1
+Added Net: Name=NetD1g_2
+Added Pin To Net: NetName=NetD2e_2 Pin=D2e-2
+Added Pin To Net: NetName=NetD2e_2 Pin=D2f-1
+Added Net: Name=NetD2e_2
+Added Pin To Net: NetName=NetD2f_2 Pin=D2f-2
+Added Pin To Net: NetName=NetD2f_2 Pin=D2g-1
+Added Net: Name=NetD2f_2
+Added Pin To Net: NetName=NetD2g_2 Pin=D2g-2
+Added Pin To Net: NetName=NetD2g_2 Pin=D2h-1
+Added Net: Name=NetD2g_2
+Added Pin To Net: NetName=NetD3e_2 Pin=D3e-2
+Added Pin To Net: NetName=NetD3e_2 Pin=D3f-1
+Added Net: Name=NetD3e_2
+Added Pin To Net: NetName=NetD3f_2 Pin=D3f-2
+Added Pin To Net: NetName=NetD3f_2 Pin=D3g-1
+Added Net: Name=NetD3f_2
+Added Pin To Net: NetName=NetD3g_2 Pin=D3g-2
+Added Pin To Net: NetName=NetD3g_2 Pin=D3h-1
+Added Net: Name=NetD3g_2
+Added Pin To Net: NetName=NetD4e_2 Pin=D4e-2
+Added Pin To Net: NetName=NetD4e_2 Pin=D4f-1
+Added Net: Name=NetD4e_2
+Added Pin To Net: NetName=NetD4f_2 Pin=D4f-2
+Added Pin To Net: NetName=NetD4f_2 Pin=D4g-1
+Added Net: Name=NetD4f_2
+Added Pin To Net: NetName=NetD4g_2 Pin=D4g-2
+Added Pin To Net: NetName=NetD4g_2 Pin=D4h-1
+Added Net: Name=NetD4g_2
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D1e 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D1f 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D1g 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D1h 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D2e 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D2f 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D2g 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D2h 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D3e 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D3f 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D3g 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D3h 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D4e 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D4f 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D4g 红外接收珠子
+Added Member To Class: ClassName=数粒机发射板2通道 Member=Component D4h 红外接收珠子

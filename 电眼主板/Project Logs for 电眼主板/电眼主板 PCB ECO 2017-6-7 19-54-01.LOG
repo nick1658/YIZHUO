@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=VOUT1 Pin=P5-2
+Added Pin To Net: NetName=VOUT1 Pin=P5-4
+Added Pin To Net: NetName=VOUT1 Pin=P5-6
+Added Pin To Net: NetName=VOUT1 Pin=P5-8
+Added Pin To Net: NetName=VOUT1 Pin=P5-10
+Added Pin To Net: NetName=VOUT1 Pin=P5-12
+Added Pin To Net: NetName=VOUT1 Pin=P5-14
+Added Pin To Net: NetName=VOUT1 Pin=P5-16
+Added Pin To Net: NetName=VOUT1 Pin=P5-18
+Added Pin To Net: NetName=VOUT1 Pin=P5-19
+Added Pin To Net: NetName=VOUT1 Pin=P5-20
+Change Net Name : Old Net Name=NetU3_1 New Net Name=VOUTALL

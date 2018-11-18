@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=RESET Pin=D1-1
+Removed Pin From Net: NetName=VCC5V Pin=J2-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=R13-1
+Removed Pin From Net: NetName=VDD33V Pin=R13-2
+Removed Pin From Net: NetName=I2C1_SCL Pin=R14-1
+Removed Pin From Net: NetName=VDD33V Pin=R14-2
+Removed Pin From Net: NetName=SDDATA1 Pin=R15-2
+Removed Pin From Net: NetName=VDD33V Pin=R16-1
+Removed Pin From Net: NetName=SDDATA0 Pin=R16-2
+Removed Pin From Net: NetName=SDCLK Pin=R17-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=R25-1
+Removed Pin From Net: NetName=CAN_TX Pin=R25-2
+Removed Pin From Net: NetName=NetJ2_2 Pin=R27-1
+Removed Pin From Net: NetName=CAN_RX Pin=R27-2
+Removed Pin From Net: NetName=485_A Pin=R28-1
+Removed Pin From Net: NetName=VDD33V Pin=R28-2
+Removed Pin From Net: NetName=VCC5V Pin=R30-1
+Removed Pin From Net: NetName=USART3_RX Pin=R32-1
+Removed Pin From Net: NetName=NetLED4_2 Pin=R32-2
+Removed Pin From Net: NetName=485_B Pin=R33-2
+Removed Pin From Net: NetName=485_B Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R35-2
+Change Component Designator: OldDesignator=R18 NewDesignator=R23
+Change Component Designator: OldDesignator=R19 NewDesignator=R24
+Change Component Designator: OldDesignator=R20 NewDesignator=R25
+Change Component Designator: OldDesignator=R21 NewDesignator=R26
+Change Component Designator: OldDesignator=R22 NewDesignator=R27
+Change Component Designator: OldDesignator=R23 NewDesignator=R28
+Change Component Designator: OldDesignator=R24 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R34
+Change Component Designator: OldDesignator=R31 NewDesignator=R36
+Change Component Designator: OldDesignator=R34 NewDesignator=R39
+Added Component: Designator=JTAG1(niujiaocha20p)
+Added Component: Designator=R18(0603)
+Added Component: Designator=R19(0603)
+Added Component: Designator=R20(0603)
+Added Component: Designator=R21(0603)
+Added Component: Designator=R22(0603)
+Added Component: Designator=R37(0603)
+Added Component: Designator=R38(0603)
+Added Component: Designator=R40(0603)
+Added Pin To Net: NetName=NRESET Pin=D1-1
+Added Pin To Net: NetName=USB_5V1 Pin=J2-1
+Added Pin To Net: NetName=VDD33V Pin=JTAG1-1
+Added Pin To Net: NetName=VDD33V Pin=JTAG1-2
+Added Pin To Net: NetName=RESET Pin=JTAG1-3
+Added Pin To Net: NetName=GND Pin=JTAG1-4
+Added Pin To Net: NetName=GND Pin=JTAG1-6
+Added Pin To Net: NetName=GND Pin=JTAG1-8
+Added Pin To Net: NetName=GND Pin=JTAG1-10
+Added Pin To Net: NetName=GND Pin=JTAG1-12
+Added Pin To Net: NetName=GND Pin=JTAG1-14
+Added Pin To Net: NetName=NRESET Pin=JTAG1-15
+Added Pin To Net: NetName=GND Pin=JTAG1-16
+Added Pin To Net: NetName=GND Pin=JTAG1-18
+Added Pin To Net: NetName=GND Pin=JTAG1-20
+Added Pin To Net: NetName=VDD33V Pin=R13-1
+Added Pin To Net: NetName=RESET Pin=R13-2
+Added Pin To Net: NetName=VDD33V Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=I2C1_SDA Pin=R18-1
+Added Pin To Net: NetName=VDD33V Pin=R18-2
+Added Pin To Net: NetName=I2C1_SCL Pin=R19-1
+Added Pin To Net: NetName=VDD33V Pin=R19-2
+Added Pin To Net: NetName=VDD33V Pin=R20-1
+Added Pin To Net: NetName=SDDATA1 Pin=R20-2
+Added Pin To Net: NetName=VDD33V Pin=R21-1
+Added Pin To Net: NetName=SDDATA0 Pin=R21-2
+Added Pin To Net: NetName=VDD33V Pin=R22-1
+Added Pin To Net: NetName=SDCLK Pin=R22-2
+Added Pin To Net: NetName=NetJ2_3 Pin=R30-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R32-1
+Added Pin To Net: NetName=CAN_RX Pin=R32-2
+Added Pin To Net: NetName=VDD33V Pin=R33-2
+Added Pin To Net: NetName=USB_5V1 Pin=R35-1
+Added Pin To Net: NetName=CAN_TX Pin=R35-2
+Added Pin To Net: NetName=USART3_RX Pin=R37-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R37-2
+Added Pin To Net: NetName=485_A Pin=R38-1
+Added Pin To Net: NetName=485_B Pin=R38-2
+Added Pin To Net: NetName=485_B Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Pin To Net: NetName=RESET Pin=U1-90
+Change Net Name : Old Net Name=NRESET New Net Name=RESET
+Change Net Name : Old Net Name=RESET New Net Name=JTRST
+Added Pin To Net: NetName=JTCK Pin=JTAG1-9
+Added Pin To Net: NetName=JTCK Pin=R16-2
+Added Pin To Net: NetName=JTCK Pin=U1-76
+Added Net: Name=JTCK
+Added Pin To Net: NetName=JTDI Pin=JTAG1-5
+Added Pin To Net: NetName=JTDI Pin=R14-2
+Added Pin To Net: NetName=JTDI Pin=U1-77
+Added Net: Name=JTDI
+Added Pin To Net: NetName=JTDO Pin=JTAG1-13
+Added Pin To Net: NetName=JTDO Pin=R17-2
+Added Pin To Net: NetName=JTDO Pin=U1-89
+Added Net: Name=JTDO
+Added Pin To Net: NetName=JTMS Pin=JTAG1-7
+Added Pin To Net: NetName=JTMS Pin=R15-2
+Added Pin To Net: NetName=JTMS Pin=U1-72
+Added Net: Name=JTMS
+Added Member To Class: ClassName=电眼主板 Member=Component JTAG1 Header 10X2
+Added Member To Class: ClassName=电眼主板 Member=Component R36 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R37 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R38 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R39 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R40 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component U6 集成电路

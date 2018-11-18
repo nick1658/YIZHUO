@@ -1,0 +1,71 @@
+Added Component: Designator=RE1(0603)
+Added Component: Designator=RE2(0603)
+Added Component: Designator=RE3(0603)
+Added Component: Designator=RE4(0603)
+Added Component: Designator=RE5(0603)
+Added Component: Designator=RE6(0603)
+Added Component: Designator=RE7(0603)
+Added Component: Designator=RE8(0603)
+Added Component: Designator=RE9(0603)
+Added Component: Designator=RE10(0603)
+Added Component: Designator=RE11(0603)
+Added Component: Designator=RE12(0603)
+Added Component: Designator=RE13(0603)
+Added Component: Designator=RE14(0603)
+Added Component: Designator=RE15(0603)
+Added Component: Designator=RE16(0603)
+Added Pin To Net: NetName=EXT_OUT_CH0 Pin=RE1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=RE1-2
+Added Pin To Net: NetName=EXT_OUT_CH1 Pin=RE2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=RE2-2
+Added Pin To Net: NetName=EXT_OUT_CH2 Pin=RE3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=RE3-2
+Added Pin To Net: NetName=EXT_OUT_CH3 Pin=RE4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=RE4-2
+Added Pin To Net: NetName=EXT_OUT_CH4 Pin=RE5-1
+Added Pin To Net: NetName=NetLED17_1 Pin=RE5-2
+Added Pin To Net: NetName=EXT_OUT_CH5 Pin=RE6-1
+Added Pin To Net: NetName=NetLED18_1 Pin=RE6-2
+Added Pin To Net: NetName=EXT_OUT_CH6 Pin=RE7-1
+Added Pin To Net: NetName=NetLED19_1 Pin=RE7-2
+Added Pin To Net: NetName=EXT_OUT_CH7 Pin=RE8-1
+Added Pin To Net: NetName=NetLED20_1 Pin=RE8-2
+Added Pin To Net: NetName=EXT_OUT_CH8 Pin=RE9-1
+Added Pin To Net: NetName=NetLED33_1 Pin=RE9-2
+Added Pin To Net: NetName=EXT_OUT_CH9 Pin=RE10-1
+Added Pin To Net: NetName=NetLED34_1 Pin=RE10-2
+Added Pin To Net: NetName=EXT_OUT_CH10 Pin=RE11-1
+Added Pin To Net: NetName=NetLED35_1 Pin=RE11-2
+Added Pin To Net: NetName=EXT_OUT_CH11 Pin=RE12-1
+Added Pin To Net: NetName=NetLED36_1 Pin=RE12-2
+Added Pin To Net: NetName=EXT_OUT_CH12 Pin=RE13-1
+Added Pin To Net: NetName=NetLED37_1 Pin=RE13-2
+Added Pin To Net: NetName=EXT_OUT_CH13 Pin=RE14-1
+Added Pin To Net: NetName=NetLED38_1 Pin=RE14-2
+Added Pin To Net: NetName=EXT_OUT_CH14 Pin=RE15-1
+Added Pin To Net: NetName=NetLED39_1 Pin=RE15-2
+Added Pin To Net: NetName=EXT_OUT_CH15 Pin=RE16-1
+Added Pin To Net: NetName=NetLED40_1 Pin=RE16-2
+Added Member To Class: ClassName=电眼主板 Member=Component LED12 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED20 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED21 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED24 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED26 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component RE1 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE2 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE3 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE4 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE5 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE6 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE7 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE8 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE9 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE10 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE11 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE12 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE13 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE14 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE15 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RE16 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RH13 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RH15 电阻(贴片)

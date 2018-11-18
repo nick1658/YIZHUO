@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=TX3 Pin=P2-8
+Removed Pin From Net: NetName=RX3 Pin=P2-10
+Removed Pin From Net: NetName=GND Pin=U1-6
+Change Component Comment : Designator=R5 Old Comment=22K New Comment=10K
+Change Component Comment : Designator=C17 Old Comment=22p New Comment=104
+Change Component Comment : Designator=C16 Old Comment=22p New Comment=104
+Change Component Comment : Designator=C15 Old Comment=104 New Comment=22p
+Change Component Comment : Designator=C14 Old Comment=104 New Comment=22p
+Change Component Comment : Designator=P8 Old Comment=Header 3 New Comment=3Pin 3.81mm
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=4-Pin 3.81mm
+Change Component Comment : Designator=P2 Old Comment=Header 5X2 New Comment=5X2 Pin 2.54mm
+Change Component Comment : Designator=D8 Old Comment=二极管(贴片) New Comment=1N5822/1206
+Change Component Comment : Designator=D7 Old Comment=二极管(贴片) New Comment=1N5822/1206
+Change Component Comment : Designator=D6 Old Comment=二极管(贴片) New Comment=1N5822/1206
+Change Component Comment : Designator=D5 Old Comment=二极管(贴片) New Comment=1N5822/1206
+Change Component Comment : Designator=POWER1 Old Comment=二极管(贴片发光红色) New Comment=封装0805
+Change Component Comment : Designator=LED3 Old Comment=二极管(贴片发光绿色) New Comment=封装0805
+Change Component Comment : Designator=LED2 Old Comment=二极管(贴片发光绿色) New Comment=封装0805
+Change Component Comment : Designator=LED1 Old Comment=二极管(贴片发光绿色) New Comment=封装0805
+Change Component Comment : Designator=D1 Old Comment=发光二极管 New Comment=封装0805
+Change Component Comment : Designator=RESET_B Old Comment=复位按键 New Comment=3*6*2.5 白色按钮轻触开关 两脚 2P
+Change Component Comment : Designator=D12d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D12c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D12b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D12a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D11d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D11c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D11b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D11a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D10d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D10c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D10b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D10a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D9d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D9c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D9b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D9a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D8d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D8c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D8b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D8a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D7d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D7c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D7b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D7a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D6d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D6c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D6b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D6a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D5d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D5c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D5b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D5a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D4d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D4c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D4b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D4a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D3d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D3c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D3b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D3a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D2d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D2c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D2b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D2a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D1d Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D1c Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D1b Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=D1a Old Comment=红外接收珠子 New Comment=EL-1KL3
+Change Component Comment : Designator=U18 Old Comment=集成电路贴片 New Comment=MAX811T/SOT143 
+Change Component Comment : Designator=Y1 Old Comment=晶体(直插) New Comment=HC-49DIP/32.768KHz
+Change Component Comment : Designator=C9 Old Comment=贴片电解电容 New Comment=10SEV100M6.3X5.5
+Added Pin To Net: NetName=RX3 Pin=P2-8
+Added Pin To Net: NetName=TX3 Pin=P2-10

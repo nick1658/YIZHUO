@@ -1,0 +1,50 @@
+Added Component: Designator=P4(niujiaocha20p)
+Added Component: Designator=P5(niujiaocha20p)
+Added Component: Designator=P6(niujiaocha20p)
+Added Pin To Net: NetName=VOUT1 Pin=P4-1
+Added Pin To Net: NetName=VOUT2 Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=VOUT3 Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=VOUT4 Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-7
+Added Pin To Net: NetName=VOUT5 Pin=P4-8
+Added Pin To Net: NetName=GND Pin=P4-9
+Added Pin To Net: NetName=VOUT6 Pin=P4-10
+Added Pin To Net: NetName=GND Pin=P4-11
+Added Pin To Net: NetName=VOUT7 Pin=P4-12
+Added Pin To Net: NetName=GND Pin=P4-13
+Added Pin To Net: NetName=VOUT8 Pin=P4-14
+Added Pin To Net: NetName=GND Pin=P4-15
+Added Pin To Net: NetName=VOUT9 Pin=P4-16
+Added Pin To Net: NetName=GND Pin=P4-17
+Added Pin To Net: NetName=VOUT10 Pin=P4-18
+Added Pin To Net: NetName=VOUT12 Pin=P4-19
+Added Pin To Net: NetName=VOUT11 Pin=P4-20
+Added Pin To Net: NetName=VOUT1 Pin=P5-1
+Added Pin To Net: NetName=VOUT2 Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=VOUT3 Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=VOUT4 Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P5-7
+Added Pin To Net: NetName=GND Pin=P5-9
+Added Pin To Net: NetName=GND Pin=P5-11
+Added Pin To Net: NetName=GND Pin=P5-13
+Added Pin To Net: NetName=GND Pin=P5-15
+Added Pin To Net: NetName=GND Pin=P5-17
+Added Pin To Net: NetName=VOUT5 Pin=P6-1
+Added Pin To Net: NetName=VOUT6 Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=VOUT7 Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P6-5
+Added Pin To Net: NetName=VOUT8 Pin=P6-6
+Added Pin To Net: NetName=GND Pin=P6-7
+Added Pin To Net: NetName=GND Pin=P6-9
+Added Pin To Net: NetName=GND Pin=P6-11
+Added Pin To Net: NetName=GND Pin=P6-13
+Added Pin To Net: NetName=GND Pin=P6-15
+Added Pin To Net: NetName=GND Pin=P6-17
+Added Member To Class: ClassName=数粒机转接板 Member=Component P4 Header 10X2
+Added Member To Class: ClassName=数粒机转接板 Member=Component P5 Header 10X2
+Added Member To Class: ClassName=数粒机转接板 Member=Component P6 Header 10X2

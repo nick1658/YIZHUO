@@ -1,0 +1,13 @@
+Added Net: Name=VOUT1
+Added Net: Name=VOUT2
+Added Net: Name=VOUT3
+Added Net: Name=VOUT4
+Added Net: Name=VOUT5
+Added Net: Name=VOUT6
+Added Net: Name=VOUT7
+Added Net: Name=VOUT8
+Added Net: Name=VOUT9
+Added Net: Name=VOUT10
+Added Net: Name=VOUT11
+Added Net: Name=VOUT12
+Added Member To Class: ClassName=数粒机转接板 Member=Component P2 牛角插座

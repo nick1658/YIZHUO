@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=FSMC_A7 Pin=U4-32
+Added Pin To Net: NetName=PG15 Pin=U4-32

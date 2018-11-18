@@ -1,0 +1,869 @@
+Removed Pin From Net: NetName=CH3-1 Pin=D17-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D17-2
+Removed Pin From Net: NetName=CH3-2 Pin=D18-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D18-2
+Removed Pin From Net: NetName=CH3-3 Pin=D19-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D19-2
+Removed Pin From Net: NetName=CH3-4 Pin=D20-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D20-2
+Removed Pin From Net: NetName=CH3-5 Pin=D21-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D21-2
+Removed Pin From Net: NetName=CH3-6 Pin=D22-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D22-2
+Removed Pin From Net: NetName=CH3-7 Pin=D23-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D23-2
+Removed Pin From Net: NetName=CH3-8 Pin=D24-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D24-2
+Removed Pin From Net: NetName=CH4-1 Pin=D25-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D25-2
+Removed Pin From Net: NetName=CH4-2 Pin=D26-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D26-2
+Removed Pin From Net: NetName=CH4-3 Pin=D27-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D27-2
+Removed Pin From Net: NetName=CH4-4 Pin=D28-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D28-2
+Removed Pin From Net: NetName=CH4-5 Pin=D29-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D29-2
+Removed Pin From Net: NetName=CH4-6 Pin=D30-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D30-2
+Removed Pin From Net: NetName=CH4-8 Pin=D32-1
+Removed Pin From Net: NetName=VCC3.3 Pin=D32-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=CH3-1 Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=CH3-2 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=CH3-3 Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=CH3-4 Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=CH3-5 Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=CH3-6 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=CH3-7 Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=CH3-8 Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=CH4-1 Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=CH4-2 Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=CH4-3 Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=CH4-4 Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=CH4-5 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=CH4-6 Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=CH4-7 Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=CH4-8 Pin=R32-2
+Removed Pin From Net: NetName=A0 Pin=U4-1
+Removed Pin From Net: NetName=EN Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=CH4-1 Pin=U4-4
+Removed Pin From Net: NetName=CH4-2 Pin=U4-5
+Removed Pin From Net: NetName=CH4-3 Pin=U4-6
+Removed Pin From Net: NetName=CH4-4 Pin=U4-7
+Removed Pin From Net: NetName=CH4 Pin=U4-8
+Removed Pin From Net: NetName=CH4-8 Pin=U4-9
+Removed Pin From Net: NetName=CH4-7 Pin=U4-10
+Removed Pin From Net: NetName=CH4-6 Pin=U4-11
+Removed Pin From Net: NetName=CH4-5 Pin=U4-12
+Removed Pin From Net: NetName=VCC5V Pin=U4-13
+Removed Pin From Net: NetName=GND Pin=U4-14
+Removed Pin From Net: NetName=A2 Pin=U4-15
+Removed Pin From Net: NetName=A1 Pin=U4-16
+Change Component Comment : Designator=U12 Old Comment=ADG708 New Comment=集成电路
+Change Component Comment : Designator=U3 Old Comment=ADG708 New Comment=集成电路
+Change Component Comment : Designator=U1 Old Comment=ADG708 New Comment=集成电路
+Change Component Comment : Designator=U2 Old Comment=ADG708 New Comment=集成电路
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=贴片电容
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=贴片电容
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=贴片电容 10uf
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=贴片电容 10uf
+Change Component Comment : Designator=P1 Old Comment=Header 12X2 New Comment=牛角插座
+Change Component Comment : Designator=R96 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R95 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R94 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R93 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R92 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R91 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R90 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R89 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R88 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R87 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R86 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R85 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R84 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R83 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R82 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R81 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R16 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R15 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R14 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R13 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R12 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R11 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R10 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R9 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R8 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R7 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R6 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R5 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R4 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R3 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R2 Old Comment=Res3 New Comment=贴片电阻
+Change Component Comment : Designator=R1 Old Comment=Res3 New Comment=贴片电阻
+Change Component Designator: OldDesignator=D81 NewDesignator=D17
+Change Component Designator: OldDesignator=D82 NewDesignator=D18
+Change Component Designator: OldDesignator=D83 NewDesignator=D19
+Change Component Designator: OldDesignator=D84 NewDesignator=D20
+Change Component Designator: OldDesignator=D85 NewDesignator=D21
+Change Component Designator: OldDesignator=D86 NewDesignator=D22
+Change Component Designator: OldDesignator=D87 NewDesignator=D23
+Change Component Designator: OldDesignator=D88 NewDesignator=D24
+Change Component Designator: OldDesignator=D89 NewDesignator=D25
+Change Component Designator: OldDesignator=D90 NewDesignator=D26
+Change Component Designator: OldDesignator=D91 NewDesignator=D27
+Change Component Designator: OldDesignator=D92 NewDesignator=D28
+Change Component Designator: OldDesignator=D93 NewDesignator=D29
+Change Component Designator: OldDesignator=D94 NewDesignator=D30
+Change Component Designator: OldDesignator=D95 NewDesignator=D31
+Change Component Designator: OldDesignator=D96 NewDesignator=D32
+Change Component Designator: OldDesignator=R81 NewDesignator=R17
+Change Component Designator: OldDesignator=R82 NewDesignator=R18
+Change Component Designator: OldDesignator=R83 NewDesignator=R19
+Change Component Designator: OldDesignator=R84 NewDesignator=R20
+Change Component Designator: OldDesignator=R85 NewDesignator=R21
+Change Component Designator: OldDesignator=R86 NewDesignator=R22
+Change Component Designator: OldDesignator=R87 NewDesignator=R23
+Change Component Designator: OldDesignator=R88 NewDesignator=R24
+Change Component Designator: OldDesignator=R89 NewDesignator=R25
+Change Component Designator: OldDesignator=R90 NewDesignator=R26
+Change Component Designator: OldDesignator=R91 NewDesignator=R27
+Change Component Designator: OldDesignator=R92 NewDesignator=R28
+Change Component Designator: OldDesignator=R93 NewDesignator=R29
+Change Component Designator: OldDesignator=R94 NewDesignator=R30
+Change Component Designator: OldDesignator=R95 NewDesignator=R31
+Change Component Designator: OldDesignator=R96 NewDesignator=R32
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U12 NewDesignator=U4
+Added Component: Designator=D41(jieshou1206)
+Added Component: Designator=D81(jieshou1206)
+Added Component: Designator=D82(jieshou1206)
+Added Component: Designator=D83(jieshou1206)
+Added Component: Designator=D84(jieshou1206)
+Added Component: Designator=D85(jieshou1206)
+Added Component: Designator=D86(jieshou1206)
+Added Component: Designator=D87(jieshou1206)
+Added Component: Designator=D88(jieshou1206)
+Added Component: Designator=D89(jieshou1206)
+Added Component: Designator=D90(jieshou1206)
+Added Component: Designator=D91(jieshou1206)
+Added Component: Designator=D92(jieshou1206)
+Added Component: Designator=D93(jieshou1206)
+Added Component: Designator=D94(jieshou1206)
+Added Component: Designator=D95(jieshou1206)
+Added Component: Designator=D96(jieshou1206)
+Added Component: Designator=R81(0805r)
+Added Component: Designator=R82(0805r)
+Added Component: Designator=R83(0805r)
+Added Component: Designator=R84(0805r)
+Added Component: Designator=R85(0805r)
+Added Component: Designator=R86(0805r)
+Added Component: Designator=R87(0805r)
+Added Component: Designator=R88(0805r)
+Added Component: Designator=R89(0805r)
+Added Component: Designator=R90(0805r)
+Added Component: Designator=R91(0805r)
+Added Component: Designator=R92(0805r)
+Added Component: Designator=R93(0805r)
+Added Component: Designator=R94(0805r)
+Added Component: Designator=R95(0805r)
+Added Component: Designator=R96(0805r)
+Added Component: Designator=U12(TSSOP16)
+Added Pin To Net: NetName=CH3-1 Pin=D17-1
+Added Pin To Net: NetName=VCC3.3 Pin=D17-2
+Added Pin To Net: NetName=CH3-2 Pin=D18-1
+Added Pin To Net: NetName=VCC3.3 Pin=D18-2
+Added Pin To Net: NetName=CH3-3 Pin=D19-1
+Added Pin To Net: NetName=VCC3.3 Pin=D19-2
+Added Pin To Net: NetName=CH3-4 Pin=D20-1
+Added Pin To Net: NetName=VCC3.3 Pin=D20-2
+Added Pin To Net: NetName=CH3-5 Pin=D21-1
+Added Pin To Net: NetName=VCC3.3 Pin=D21-2
+Added Pin To Net: NetName=CH3-6 Pin=D22-1
+Added Pin To Net: NetName=VCC3.3 Pin=D22-2
+Added Pin To Net: NetName=CH3-7 Pin=D23-1
+Added Pin To Net: NetName=VCC3.3 Pin=D23-2
+Added Pin To Net: NetName=CH3-8 Pin=D24-1
+Added Pin To Net: NetName=VCC3.3 Pin=D24-2
+Added Pin To Net: NetName=CH4-1 Pin=D25-1
+Added Pin To Net: NetName=VCC3.3 Pin=D25-2
+Added Pin To Net: NetName=CH4-2 Pin=D26-1
+Added Pin To Net: NetName=VCC3.3 Pin=D26-2
+Added Pin To Net: NetName=CH4-3 Pin=D27-1
+Added Pin To Net: NetName=VCC3.3 Pin=D27-2
+Added Pin To Net: NetName=CH4-4 Pin=D28-1
+Added Pin To Net: NetName=VCC3.3 Pin=D28-2
+Added Pin To Net: NetName=CH4-5 Pin=D29-1
+Added Pin To Net: NetName=VCC3.3 Pin=D29-2
+Added Pin To Net: NetName=CH4-6 Pin=D30-1
+Added Pin To Net: NetName=VCC3.3 Pin=D30-2
+Added Pin To Net: NetName=CH4-7 Pin=D31-1
+Added Pin To Net: NetName=VCC3.3 Pin=D31-2
+Added Pin To Net: NetName=CH4-8 Pin=D32-1
+Added Pin To Net: NetName=VCC3.3 Pin=D32-2
+Added Pin To Net: NetName=VCC3.3 Pin=D33-2
+Added Pin To Net: NetName=VCC3.3 Pin=D34-2
+Added Pin To Net: NetName=VCC3.3 Pin=D35-2
+Added Pin To Net: NetName=VCC3.3 Pin=D36-2
+Added Pin To Net: NetName=VCC3.3 Pin=D37-2
+Added Pin To Net: NetName=VCC3.3 Pin=D38-2
+Added Pin To Net: NetName=VCC3.3 Pin=D39-2
+Added Pin To Net: NetName=VCC3.3 Pin=D40-2
+Added Pin To Net: NetName=VCC3.3 Pin=D41-2
+Added Pin To Net: NetName=VCC3.3 Pin=D42-2
+Added Pin To Net: NetName=VCC3.3 Pin=D43-2
+Added Pin To Net: NetName=VCC3.3 Pin=D44-2
+Added Pin To Net: NetName=VCC3.3 Pin=D45-2
+Added Pin To Net: NetName=VCC3.3 Pin=D46-2
+Added Pin To Net: NetName=VCC3.3 Pin=D47-2
+Added Pin To Net: NetName=VCC3.3 Pin=D48-2
+Added Pin To Net: NetName=VCC3.3 Pin=D49-2
+Added Pin To Net: NetName=VCC3.3 Pin=D50-2
+Added Pin To Net: NetName=VCC3.3 Pin=D51-2
+Added Pin To Net: NetName=VCC3.3 Pin=D52-2
+Added Pin To Net: NetName=VCC3.3 Pin=D53-2
+Added Pin To Net: NetName=VCC3.3 Pin=D54-2
+Added Pin To Net: NetName=VCC3.3 Pin=D55-2
+Added Pin To Net: NetName=VCC3.3 Pin=D56-2
+Added Pin To Net: NetName=VCC3.3 Pin=D57-2
+Added Pin To Net: NetName=VCC3.3 Pin=D58-2
+Added Pin To Net: NetName=VCC3.3 Pin=D59-2
+Added Pin To Net: NetName=VCC3.3 Pin=D60-2
+Added Pin To Net: NetName=VCC3.3 Pin=D61-2
+Added Pin To Net: NetName=VCC3.3 Pin=D62-2
+Added Pin To Net: NetName=VCC3.3 Pin=D63-2
+Added Pin To Net: NetName=VCC3.3 Pin=D64-2
+Added Pin To Net: NetName=VCC3.3 Pin=D65-2
+Added Pin To Net: NetName=VCC3.3 Pin=D66-2
+Added Pin To Net: NetName=VCC3.3 Pin=D67-2
+Added Pin To Net: NetName=VCC3.3 Pin=D68-2
+Added Pin To Net: NetName=VCC3.3 Pin=D69-2
+Added Pin To Net: NetName=VCC3.3 Pin=D70-2
+Added Pin To Net: NetName=VCC3.3 Pin=D71-2
+Added Pin To Net: NetName=VCC3.3 Pin=D72-2
+Added Pin To Net: NetName=VCC3.3 Pin=D73-2
+Added Pin To Net: NetName=VCC3.3 Pin=D74-2
+Added Pin To Net: NetName=VCC3.3 Pin=D75-2
+Added Pin To Net: NetName=VCC3.3 Pin=D76-2
+Added Pin To Net: NetName=VCC3.3 Pin=D77-2
+Added Pin To Net: NetName=VCC3.3 Pin=D78-2
+Added Pin To Net: NetName=VCC3.3 Pin=D79-2
+Added Pin To Net: NetName=VCC3.3 Pin=D80-2
+Added Pin To Net: NetName=VCC3.3 Pin=D81-2
+Added Pin To Net: NetName=VCC3.3 Pin=D82-2
+Added Pin To Net: NetName=VCC3.3 Pin=D83-2
+Added Pin To Net: NetName=VCC3.3 Pin=D84-2
+Added Pin To Net: NetName=VCC3.3 Pin=D85-2
+Added Pin To Net: NetName=VCC3.3 Pin=D86-2
+Added Pin To Net: NetName=VCC3.3 Pin=D87-2
+Added Pin To Net: NetName=VCC3.3 Pin=D88-2
+Added Pin To Net: NetName=VCC3.3 Pin=D89-2
+Added Pin To Net: NetName=VCC3.3 Pin=D90-2
+Added Pin To Net: NetName=VCC3.3 Pin=D91-2
+Added Pin To Net: NetName=VCC3.3 Pin=D92-2
+Added Pin To Net: NetName=VCC3.3 Pin=D93-2
+Added Pin To Net: NetName=VCC3.3 Pin=D94-2
+Added Pin To Net: NetName=VCC3.3 Pin=D95-2
+Added Pin To Net: NetName=VCC3.3 Pin=D96-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=CH3-1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=CH3-2 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=CH3-3 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=CH3-4 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=CH3-5 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=CH3-6 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=CH3-7 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=CH3-8 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=CH4-1 Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=CH4-2 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=CH4-3 Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=CH4-4 Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=CH4-5 Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=CH4-6 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=CH4-7 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=CH4-8 Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R47-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=GND Pin=R54-1
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=GND Pin=R56-1
+Added Pin To Net: NetName=GND Pin=R57-1
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=GND Pin=R59-1
+Added Pin To Net: NetName=GND Pin=R60-1
+Added Pin To Net: NetName=GND Pin=R61-1
+Added Pin To Net: NetName=GND Pin=R62-1
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=GND Pin=R66-1
+Added Pin To Net: NetName=GND Pin=R67-1
+Added Pin To Net: NetName=GND Pin=R68-1
+Added Pin To Net: NetName=GND Pin=R69-1
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=GND Pin=R71-1
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=GND Pin=R73-1
+Added Pin To Net: NetName=GND Pin=R74-1
+Added Pin To Net: NetName=GND Pin=R75-1
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=GND Pin=R79-1
+Added Pin To Net: NetName=GND Pin=R80-1
+Added Pin To Net: NetName=GND Pin=R81-1
+Added Pin To Net: NetName=GND Pin=R82-1
+Added Pin To Net: NetName=GND Pin=R83-1
+Added Pin To Net: NetName=GND Pin=R84-1
+Added Pin To Net: NetName=GND Pin=R85-1
+Added Pin To Net: NetName=GND Pin=R86-1
+Added Pin To Net: NetName=GND Pin=R87-1
+Added Pin To Net: NetName=GND Pin=R88-1
+Added Pin To Net: NetName=GND Pin=R89-1
+Added Pin To Net: NetName=GND Pin=R90-1
+Added Pin To Net: NetName=GND Pin=R91-1
+Added Pin To Net: NetName=GND Pin=R92-1
+Added Pin To Net: NetName=GND Pin=R93-1
+Added Pin To Net: NetName=GND Pin=R94-1
+Added Pin To Net: NetName=GND Pin=R95-1
+Added Pin To Net: NetName=GND Pin=R96-1
+Added Pin To Net: NetName=A0 Pin=U4-1
+Added Pin To Net: NetName=EN Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=CH4-1 Pin=U4-4
+Added Pin To Net: NetName=CH4-2 Pin=U4-5
+Added Pin To Net: NetName=CH4-3 Pin=U4-6
+Added Pin To Net: NetName=CH4-4 Pin=U4-7
+Added Pin To Net: NetName=CH4 Pin=U4-8
+Added Pin To Net: NetName=CH4-8 Pin=U4-9
+Added Pin To Net: NetName=CH4-7 Pin=U4-10
+Added Pin To Net: NetName=CH4-6 Pin=U4-11
+Added Pin To Net: NetName=CH4-5 Pin=U4-12
+Added Pin To Net: NetName=VCC5V Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=A2 Pin=U4-15
+Added Pin To Net: NetName=A1 Pin=U4-16
+Added Pin To Net: NetName=A0 Pin=U5-1
+Added Pin To Net: NetName=EN Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VCC5V Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-14
+Added Pin To Net: NetName=A2 Pin=U5-15
+Added Pin To Net: NetName=A1 Pin=U5-16
+Added Pin To Net: NetName=A0 Pin=U6-1
+Added Pin To Net: NetName=EN Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=VCC5V Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-14
+Added Pin To Net: NetName=A2 Pin=U6-15
+Added Pin To Net: NetName=A1 Pin=U6-16
+Added Pin To Net: NetName=A0 Pin=U7-1
+Added Pin To Net: NetName=EN Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=VCC5V Pin=U7-13
+Added Pin To Net: NetName=GND Pin=U7-14
+Added Pin To Net: NetName=A2 Pin=U7-15
+Added Pin To Net: NetName=A1 Pin=U7-16
+Added Pin To Net: NetName=A0 Pin=U8-1
+Added Pin To Net: NetName=EN Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=VCC5V Pin=U8-13
+Added Pin To Net: NetName=GND Pin=U8-14
+Added Pin To Net: NetName=A2 Pin=U8-15
+Added Pin To Net: NetName=A1 Pin=U8-16
+Added Pin To Net: NetName=A0 Pin=U9-1
+Added Pin To Net: NetName=EN Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=VCC5V Pin=U9-13
+Added Pin To Net: NetName=GND Pin=U9-14
+Added Pin To Net: NetName=A2 Pin=U9-15
+Added Pin To Net: NetName=A1 Pin=U9-16
+Added Pin To Net: NetName=A0 Pin=U10-1
+Added Pin To Net: NetName=EN Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=VCC5V Pin=U10-13
+Added Pin To Net: NetName=GND Pin=U10-14
+Added Pin To Net: NetName=A2 Pin=U10-15
+Added Pin To Net: NetName=A1 Pin=U10-16
+Added Pin To Net: NetName=A0 Pin=U11-1
+Added Pin To Net: NetName=EN Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=VCC5V Pin=U11-13
+Added Pin To Net: NetName=GND Pin=U11-14
+Added Pin To Net: NetName=A2 Pin=U11-15
+Added Pin To Net: NetName=A1 Pin=U11-16
+Added Pin To Net: NetName=A0 Pin=U12-1
+Added Pin To Net: NetName=EN Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=VCC5V Pin=U12-13
+Added Pin To Net: NetName=GND Pin=U12-14
+Added Pin To Net: NetName=A2 Pin=U12-15
+Added Pin To Net: NetName=A1 Pin=U12-16
+Added Pin To Net: NetName=CH5-1 Pin=D33-1
+Added Pin To Net: NetName=CH5-1 Pin=R33-2
+Added Pin To Net: NetName=CH5-1 Pin=U6-4
+Added Net: Name=CH5-1
+Added Pin To Net: NetName=CH5-2 Pin=D34-1
+Added Pin To Net: NetName=CH5-2 Pin=R34-2
+Added Pin To Net: NetName=CH5-2 Pin=U6-5
+Added Net: Name=CH5-2
+Added Pin To Net: NetName=CH5-3 Pin=D35-1
+Added Pin To Net: NetName=CH5-3 Pin=R35-2
+Added Pin To Net: NetName=CH5-3 Pin=U6-6
+Added Net: Name=CH5-3
+Added Pin To Net: NetName=CH5-4 Pin=D36-1
+Added Pin To Net: NetName=CH5-4 Pin=R36-2
+Added Pin To Net: NetName=CH5-4 Pin=U6-7
+Added Net: Name=CH5-4
+Added Pin To Net: NetName=CH5-5 Pin=D37-1
+Added Pin To Net: NetName=CH5-5 Pin=R37-2
+Added Pin To Net: NetName=CH5-5 Pin=U6-12
+Added Net: Name=CH5-5
+Added Pin To Net: NetName=CH5-6 Pin=D38-1
+Added Pin To Net: NetName=CH5-6 Pin=R38-2
+Added Pin To Net: NetName=CH5-6 Pin=U6-11
+Added Net: Name=CH5-6
+Added Pin To Net: NetName=CH5-7 Pin=D39-1
+Added Pin To Net: NetName=CH5-7 Pin=R39-2
+Added Pin To Net: NetName=CH5-7 Pin=U6-10
+Added Net: Name=CH5-7
+Added Pin To Net: NetName=CH5-8 Pin=D40-1
+Added Pin To Net: NetName=CH5-8 Pin=R40-2
+Added Pin To Net: NetName=CH5-8 Pin=U6-9
+Added Net: Name=CH5-8
+Added Pin To Net: NetName=CH5 Pin=P1-10
+Added Pin To Net: NetName=CH5 Pin=U6-8
+Added Net: Name=CH5
+Added Pin To Net: NetName=CH6-1 Pin=D41-1
+Added Pin To Net: NetName=CH6-1 Pin=R41-2
+Added Pin To Net: NetName=CH6-1 Pin=U5-4
+Added Net: Name=CH6-1
+Added Pin To Net: NetName=CH6-2 Pin=D42-1
+Added Pin To Net: NetName=CH6-2 Pin=R42-2
+Added Pin To Net: NetName=CH6-2 Pin=U5-5
+Added Net: Name=CH6-2
+Added Pin To Net: NetName=CH6-3 Pin=D43-1
+Added Pin To Net: NetName=CH6-3 Pin=R43-2
+Added Pin To Net: NetName=CH6-3 Pin=U5-6
+Added Net: Name=CH6-3
+Added Pin To Net: NetName=CH6-4 Pin=D44-1
+Added Pin To Net: NetName=CH6-4 Pin=R44-2
+Added Pin To Net: NetName=CH6-4 Pin=U5-7
+Added Net: Name=CH6-4
+Added Pin To Net: NetName=CH6-5 Pin=D45-1
+Added Pin To Net: NetName=CH6-5 Pin=R45-2
+Added Pin To Net: NetName=CH6-5 Pin=U5-12
+Added Net: Name=CH6-5
+Added Pin To Net: NetName=CH6-6 Pin=D46-1
+Added Pin To Net: NetName=CH6-6 Pin=R46-2
+Added Pin To Net: NetName=CH6-6 Pin=U5-11
+Added Net: Name=CH6-6
+Added Pin To Net: NetName=CH6-7 Pin=D47-1
+Added Pin To Net: NetName=CH6-7 Pin=R47-2
+Added Pin To Net: NetName=CH6-7 Pin=U5-10
+Added Net: Name=CH6-7
+Added Pin To Net: NetName=CH6-8 Pin=D48-1
+Added Pin To Net: NetName=CH6-8 Pin=R48-2
+Added Pin To Net: NetName=CH6-8 Pin=U5-9
+Added Net: Name=CH6-8
+Added Pin To Net: NetName=CH6 Pin=P1-12
+Added Pin To Net: NetName=CH6 Pin=U5-8
+Added Net: Name=CH6
+Added Pin To Net: NetName=CH7-1 Pin=D49-1
+Added Pin To Net: NetName=CH7-1 Pin=R49-2
+Added Pin To Net: NetName=CH7-1 Pin=U7-4
+Added Net: Name=CH7-1
+Added Pin To Net: NetName=CH7-2 Pin=D50-1
+Added Pin To Net: NetName=CH7-2 Pin=R50-2
+Added Pin To Net: NetName=CH7-2 Pin=U7-5
+Added Net: Name=CH7-2
+Added Pin To Net: NetName=CH7-3 Pin=D51-1
+Added Pin To Net: NetName=CH7-3 Pin=R51-2
+Added Pin To Net: NetName=CH7-3 Pin=U7-6
+Added Net: Name=CH7-3
+Added Pin To Net: NetName=CH7-4 Pin=D52-1
+Added Pin To Net: NetName=CH7-4 Pin=R52-2
+Added Pin To Net: NetName=CH7-4 Pin=U7-7
+Added Net: Name=CH7-4
+Added Pin To Net: NetName=CH7-5 Pin=D53-1
+Added Pin To Net: NetName=CH7-5 Pin=R53-2
+Added Pin To Net: NetName=CH7-5 Pin=U7-12
+Added Net: Name=CH7-5
+Added Pin To Net: NetName=CH7-6 Pin=D54-1
+Added Pin To Net: NetName=CH7-6 Pin=R54-2
+Added Pin To Net: NetName=CH7-6 Pin=U7-11
+Added Net: Name=CH7-6
+Added Pin To Net: NetName=CH7-7 Pin=D55-1
+Added Pin To Net: NetName=CH7-7 Pin=R55-2
+Added Pin To Net: NetName=CH7-7 Pin=U7-10
+Added Net: Name=CH7-7
+Added Pin To Net: NetName=CH7-8 Pin=D56-1
+Added Pin To Net: NetName=CH7-8 Pin=R56-2
+Added Pin To Net: NetName=CH7-8 Pin=U7-9
+Added Net: Name=CH7-8
+Added Pin To Net: NetName=CH7 Pin=P1-14
+Added Pin To Net: NetName=CH7 Pin=U7-8
+Added Net: Name=CH7
+Added Pin To Net: NetName=CH8-1 Pin=D57-1
+Added Pin To Net: NetName=CH8-1 Pin=R57-2
+Added Pin To Net: NetName=CH8-1 Pin=U8-4
+Added Net: Name=CH8-1
+Added Pin To Net: NetName=CH8-2 Pin=D58-1
+Added Pin To Net: NetName=CH8-2 Pin=R58-2
+Added Pin To Net: NetName=CH8-2 Pin=U8-5
+Added Net: Name=CH8-2
+Added Pin To Net: NetName=CH8-3 Pin=D59-1
+Added Pin To Net: NetName=CH8-3 Pin=R59-2
+Added Pin To Net: NetName=CH8-3 Pin=U8-6
+Added Net: Name=CH8-3
+Added Pin To Net: NetName=CH8-4 Pin=D60-1
+Added Pin To Net: NetName=CH8-4 Pin=R60-2
+Added Pin To Net: NetName=CH8-4 Pin=U8-7
+Added Net: Name=CH8-4
+Added Pin To Net: NetName=CH8-5 Pin=D61-1
+Added Pin To Net: NetName=CH8-5 Pin=R61-2
+Added Pin To Net: NetName=CH8-5 Pin=U8-12
+Added Net: Name=CH8-5
+Added Pin To Net: NetName=CH8-6 Pin=D62-1
+Added Pin To Net: NetName=CH8-6 Pin=R62-2
+Added Pin To Net: NetName=CH8-6 Pin=U8-11
+Added Net: Name=CH8-6
+Added Pin To Net: NetName=CH8-7 Pin=D63-1
+Added Pin To Net: NetName=CH8-7 Pin=R63-2
+Added Pin To Net: NetName=CH8-7 Pin=U8-10
+Added Net: Name=CH8-7
+Added Pin To Net: NetName=CH8-8 Pin=D64-1
+Added Pin To Net: NetName=CH8-8 Pin=R64-2
+Added Pin To Net: NetName=CH8-8 Pin=U8-9
+Added Net: Name=CH8-8
+Added Pin To Net: NetName=CH8 Pin=P1-16
+Added Pin To Net: NetName=CH8 Pin=U8-8
+Added Net: Name=CH8
+Added Pin To Net: NetName=CH9-1 Pin=D65-1
+Added Pin To Net: NetName=CH9-1 Pin=R65-2
+Added Pin To Net: NetName=CH9-1 Pin=U10-4
+Added Net: Name=CH9-1
+Added Pin To Net: NetName=CH9-2 Pin=D66-1
+Added Pin To Net: NetName=CH9-2 Pin=R66-2
+Added Pin To Net: NetName=CH9-2 Pin=U10-5
+Added Net: Name=CH9-2
+Added Pin To Net: NetName=CH9-3 Pin=D67-1
+Added Pin To Net: NetName=CH9-3 Pin=R67-2
+Added Pin To Net: NetName=CH9-3 Pin=U10-6
+Added Net: Name=CH9-3
+Added Pin To Net: NetName=CH9-4 Pin=D68-1
+Added Pin To Net: NetName=CH9-4 Pin=R68-2
+Added Pin To Net: NetName=CH9-4 Pin=U10-7
+Added Net: Name=CH9-4
+Added Pin To Net: NetName=CH9-5 Pin=D69-1
+Added Pin To Net: NetName=CH9-5 Pin=R69-2
+Added Pin To Net: NetName=CH9-5 Pin=U10-12
+Added Net: Name=CH9-5
+Added Pin To Net: NetName=CH9-6 Pin=D70-1
+Added Pin To Net: NetName=CH9-6 Pin=R70-2
+Added Pin To Net: NetName=CH9-6 Pin=U10-11
+Added Net: Name=CH9-6
+Added Pin To Net: NetName=CH9-7 Pin=D71-1
+Added Pin To Net: NetName=CH9-7 Pin=R71-2
+Added Pin To Net: NetName=CH9-7 Pin=U10-10
+Added Net: Name=CH9-7
+Added Pin To Net: NetName=CH9-8 Pin=D72-1
+Added Pin To Net: NetName=CH9-8 Pin=R72-2
+Added Pin To Net: NetName=CH9-8 Pin=U10-9
+Added Net: Name=CH9-8
+Added Pin To Net: NetName=CH9 Pin=P1-18
+Added Pin To Net: NetName=CH9 Pin=U10-8
+Added Net: Name=CH9
+Added Pin To Net: NetName=CH10-1 Pin=D73-1
+Added Pin To Net: NetName=CH10-1 Pin=R73-2
+Added Pin To Net: NetName=CH10-1 Pin=U9-4
+Added Net: Name=CH10-1
+Added Pin To Net: NetName=CH10-2 Pin=D74-1
+Added Pin To Net: NetName=CH10-2 Pin=R74-2
+Added Pin To Net: NetName=CH10-2 Pin=U9-5
+Added Net: Name=CH10-2
+Added Pin To Net: NetName=CH10-3 Pin=D75-1
+Added Pin To Net: NetName=CH10-3 Pin=R75-2
+Added Pin To Net: NetName=CH10-3 Pin=U9-6
+Added Net: Name=CH10-3
+Added Pin To Net: NetName=CH10-4 Pin=D76-1
+Added Pin To Net: NetName=CH10-4 Pin=R76-2
+Added Pin To Net: NetName=CH10-4 Pin=U9-7
+Added Net: Name=CH10-4
+Added Pin To Net: NetName=CH10-5 Pin=D77-1
+Added Pin To Net: NetName=CH10-5 Pin=R77-2
+Added Pin To Net: NetName=CH10-5 Pin=U9-12
+Added Net: Name=CH10-5
+Added Pin To Net: NetName=CH10-6 Pin=D78-1
+Added Pin To Net: NetName=CH10-6 Pin=R78-2
+Added Pin To Net: NetName=CH10-6 Pin=U9-11
+Added Net: Name=CH10-6
+Added Pin To Net: NetName=CH10-7 Pin=D79-1
+Added Pin To Net: NetName=CH10-7 Pin=R79-2
+Added Pin To Net: NetName=CH10-7 Pin=U9-10
+Added Net: Name=CH10-7
+Added Pin To Net: NetName=CH10-8 Pin=D80-1
+Added Pin To Net: NetName=CH10-8 Pin=R80-2
+Added Pin To Net: NetName=CH10-8 Pin=U9-9
+Added Net: Name=CH10-8
+Added Pin To Net: NetName=CH10 Pin=P1-20
+Added Pin To Net: NetName=CH10 Pin=U9-8
+Added Net: Name=CH10
+Added Pin To Net: NetName=CH11-1 Pin=D81-1
+Added Pin To Net: NetName=CH11-1 Pin=R81-2
+Added Pin To Net: NetName=CH11-1 Pin=U11-4
+Added Net: Name=CH11-1
+Added Pin To Net: NetName=CH11-2 Pin=D82-1
+Added Pin To Net: NetName=CH11-2 Pin=R82-2
+Added Pin To Net: NetName=CH11-2 Pin=U11-5
+Added Net: Name=CH11-2
+Added Pin To Net: NetName=CH11-3 Pin=D83-1
+Added Pin To Net: NetName=CH11-3 Pin=R83-2
+Added Pin To Net: NetName=CH11-3 Pin=U11-6
+Added Net: Name=CH11-3
+Added Pin To Net: NetName=CH11-4 Pin=D84-1
+Added Pin To Net: NetName=CH11-4 Pin=R84-2
+Added Pin To Net: NetName=CH11-4 Pin=U11-7
+Added Net: Name=CH11-4
+Added Pin To Net: NetName=CH11-5 Pin=D85-1
+Added Pin To Net: NetName=CH11-5 Pin=R85-2
+Added Pin To Net: NetName=CH11-5 Pin=U11-12
+Added Net: Name=CH11-5
+Added Pin To Net: NetName=CH11-6 Pin=D86-1
+Added Pin To Net: NetName=CH11-6 Pin=R86-2
+Added Pin To Net: NetName=CH11-6 Pin=U11-11
+Added Net: Name=CH11-6
+Added Pin To Net: NetName=CH11-7 Pin=D87-1
+Added Pin To Net: NetName=CH11-7 Pin=R87-2
+Added Pin To Net: NetName=CH11-7 Pin=U11-10
+Added Net: Name=CH11-7
+Added Pin To Net: NetName=CH11-8 Pin=D88-1
+Added Pin To Net: NetName=CH11-8 Pin=R88-2
+Added Pin To Net: NetName=CH11-8 Pin=U11-9
+Added Net: Name=CH11-8
+Added Pin To Net: NetName=CH11 Pin=P1-22
+Added Pin To Net: NetName=CH11 Pin=U11-8
+Added Net: Name=CH11
+Added Pin To Net: NetName=CH12-1 Pin=D89-1
+Added Pin To Net: NetName=CH12-1 Pin=R89-2
+Added Pin To Net: NetName=CH12-1 Pin=U12-4
+Added Net: Name=CH12-1
+Added Pin To Net: NetName=CH12-2 Pin=D90-1
+Added Pin To Net: NetName=CH12-2 Pin=R90-2
+Added Pin To Net: NetName=CH12-2 Pin=U12-5
+Added Net: Name=CH12-2
+Added Pin To Net: NetName=CH12-3 Pin=D91-1
+Added Pin To Net: NetName=CH12-3 Pin=R91-2
+Added Pin To Net: NetName=CH12-3 Pin=U12-6
+Added Net: Name=CH12-3
+Added Pin To Net: NetName=CH12-4 Pin=D92-1
+Added Pin To Net: NetName=CH12-4 Pin=R92-2
+Added Pin To Net: NetName=CH12-4 Pin=U12-7
+Added Net: Name=CH12-4
+Added Pin To Net: NetName=CH12-5 Pin=D93-1
+Added Pin To Net: NetName=CH12-5 Pin=R93-2
+Added Pin To Net: NetName=CH12-5 Pin=U12-12
+Added Net: Name=CH12-5
+Added Pin To Net: NetName=CH12-6 Pin=D94-1
+Added Pin To Net: NetName=CH12-6 Pin=R94-2
+Added Pin To Net: NetName=CH12-6 Pin=U12-11
+Added Net: Name=CH12-6
+Added Pin To Net: NetName=CH12-7 Pin=D95-1
+Added Pin To Net: NetName=CH12-7 Pin=R95-2
+Added Pin To Net: NetName=CH12-7 Pin=U12-10
+Added Net: Name=CH12-7
+Added Pin To Net: NetName=CH12-8 Pin=D96-1
+Added Pin To Net: NetName=CH12-8 Pin=R96-2
+Added Pin To Net: NetName=CH12-8 Pin=U12-9
+Added Net: Name=CH12-8
+Added Pin To Net: NetName=CH12 Pin=P1-24
+Added Pin To Net: NetName=CH12 Pin=U12-8
+Added Net: Name=CH12
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D25 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D33 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D34 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D35 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D36 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D37 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D38 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D39 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D40 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D41 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D42 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D43 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D44 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D45 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D46 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D47 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D48 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D49 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D50 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D51 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D52 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D53 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D54 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D55 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D56 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D57 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D58 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D59 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D60 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D61 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D62 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D64 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D65 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D66 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D67 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D68 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D69 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D70 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D71 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D72 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D73 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D74 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D75 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D76 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D77 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D78 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D79 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D80 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D81 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D82 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D83 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D84 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D85 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D86 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D87 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D88 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D89 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D90 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D91 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D92 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D93 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D94 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D95 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component D96 红外接收珠子
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R5 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R33 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R34 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R35 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R36 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R37 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R38 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R39 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R40 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R41 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R42 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R43 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R44 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R45 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R46 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R47 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R48 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R49 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R50 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R51 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R52 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R53 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R54 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R56 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R57 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R58 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R59 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R60 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R61 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R62 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R63 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R64 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R65 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R66 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R67 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R68 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R69 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R70 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R71 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R72 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R73 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R74 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R75 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R76 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R77 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R78 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R79 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R80 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R81 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R82 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R83 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R84 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R85 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R86 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R87 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R88 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R89 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R90 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R91 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R92 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R93 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R94 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R95 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component R96 贴片电阻
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U5 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U6 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U7 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U8 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U9 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U10 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U11 集成电路
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U12 集成电路
+Added Room: Name=数粒机接收板4通道

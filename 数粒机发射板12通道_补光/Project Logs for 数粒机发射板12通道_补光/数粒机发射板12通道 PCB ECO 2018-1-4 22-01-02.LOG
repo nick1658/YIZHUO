@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR3_CCW Pin=R3-CCW
+Removed Pin From Net: NetName=GND Pin=R3-CW
+Removed Pin From Net: NetName=NetR3_W Pin=R3-W
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R3
+Added Component: Designator=R8(VR4)
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR3_W Pin=R8-2
+Added Pin To Net: NetName=NetR3_CCW Pin=R8-3
+Change Net Name : Old Net Name=NetR3_CCW New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR3_W New Net Name=NetR8_2
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R8 3362P

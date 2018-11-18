@@ -1,0 +1,4 @@
+Added Component: Designator=RESET_B(button_2)
+Added Pin To Net: NetName=GND Pin=RESET_B-1
+Added Pin To Net: NetName=RSTIN Pin=RESET_B-2
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component RESET_B 复位按键

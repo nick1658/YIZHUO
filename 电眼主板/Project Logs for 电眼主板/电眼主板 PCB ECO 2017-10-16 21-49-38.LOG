@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FSMC_NWAIT Pin=P9-1
+Removed Pin From Net: NetName=FSMC_NWE Pin=P9-2
+Added Pin To Net: NetName=FSMC_NWE Pin=P9-1
+Added Pin To Net: NetName=FSMC_NWAIT Pin=P9-2

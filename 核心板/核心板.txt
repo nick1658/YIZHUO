@@ -1,0 +1,38 @@
+Field=Comment~String~Comment~209|Field=Description~String~Description~219|Field=Value~String~Value~95|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~87|Field=Quantity~Integer~Quantity~38|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~核心板.PrjPCB|ReportField=ProjectFullPath~D:\伊卓\核心板\核心板.PrjPCB|ReportField=Title~Bill of Materials For Project [核心板.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~96|ReportField=ReportTime~23:36:35|ReportField=ReportDate~2017/6/14|ReportField=ReportDateTime~2017/6/14 23:36:35|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/6/14|ReportField=CurrentTime~23:36:22|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\伊卓\核心板\核心板.SchDoc|ReportField=DocumentName~核心板.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/6/14|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~核心板.PrjPCB|ReportField=DataSourceFullPath~D:\伊卓\核心板\核心板.PrjPCB
+钽电容(贴片)|CAP TANTALUM 100UF 16V 20% SMD|100UF|CT1, CT2|6032|2
+双排插针|2x3 Pin 脚间距2.54mm||CAN_BUS1|HDR2X3|1
+双排插针|2x3 脚间距2.54||BOOT1|HDR2X3|1
+晶体(贴片)|HC-49SMD/12.000MHz|12M|Y3|CRYSTAL_SMD|1
+晶体(贴片)|HC-49SMD/8.000MHz|8M|Y2|CRYSTAL_SMD|1
+晶体(贴片)|HC-49SMD/XTAL 32.768KHz|32.768KHz|Y1|32.768khz|1
+集成电路贴片|AT24C02/SOP08|AT24C02|U5|SOP8|1
+集成电路贴片|MAX811T/SOT143  电源管理芯片|MAX811T|U4|MAX811T|1
+二极管(贴片发光绿色)|LED-0805|GREEN 0805|LED1, LED2, LED3|LED-0805|3
+二极管(贴片发光红色)|LED-0805|GREEN 0805|POWER1|LED-0805|1
+二极管(贴片)|1N4148/1206|1N4148|D1, D2, D3, D4, D5|D1206|5
+电阻(贴片)|RS-03K-100±5%(10)|10|R24, R25|0603|2
+电阻(贴片)|RS-03K-102±5%(1K)|1K|R3, R4, R5, R6, R7, R8, R9, R19|0603|8
+电阻(贴片)|RS-03K-103±5%(10KΩ)|10K 5%|R12, R13, R14, R15, R16, R20, R21, R23|0603|8
+电阻(贴片)|RS-03K-105±5%(1MΩ)|10K|R2|0603|1
+电阻(贴片)|RS-03K-105±5%(1MΩ)|1M|R1, R10, R11|0603|3
+电阻(贴片)|RS-03K-152±5%(1.5K)|1.5K|R26|0603|1
+电阻(贴片)|RS-03K-152±5%(1.5KΩ)|4.7K|R17, R22|0603|2
+电阻(贴片)|RS-03K-471±5%(470Ω)|470Ω|R18|0603|1
+电容(贴片)|0603COG330J500NT(33pF)|33pF|C24, C25|0603|2
+电容(贴片)|0603X7R104J160NT(0.1uF)|0.1uF|C3, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39|0603|27
+电容(贴片)|0603Z5U106J100NT(10uF/10V)|10uF|C26, C27|0603|2
+电容(贴片)|CAP 10PF 50V CERAMIC 0603 SMD|10pF|C1, C2|0603|2
+电容(贴片)|CAP 22PF 50V CERAMIC 0603 SMD|22pF|C4, C5|0603|2
+电容(贴片)|电容(贴片)|10nF|C7, C8|0603|2
+电容(贴片)|电容(贴片)|1uF|C6, C9|0603|2
+W25Q128|W25X16;SST25VF016;MX25L1605||U3|SOIC-8|1
+USB|||USB_232, USB_HOST1|USB/SM0.8-6H5|2
+STM32F103ZET6|STM32F103ZET6||U1|LQFP144|1
+S8550|PNP General Purpose Amplifier||Q2|sot-23|1
+S8050|NPN General Purpose Amplifier||Q1|sot-23|1
+KEY_M|||RESET_B|KEY_M|1
+JTAG|||JTAG1|JTAG_20|1
+Header 30X2|Header, 30-Pin, Dual row||P1, P2|HDR2X30|2
+CH340G|USB2UART||U2|SOP16M|1
+AMS1117-3.3|||U6|AMS1117|1
+0.5A|Fuse||F1|0805|1

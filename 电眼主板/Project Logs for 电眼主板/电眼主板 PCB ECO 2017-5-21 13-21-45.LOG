@@ -1,0 +1,8 @@
+Added Component: Designator=R21(0603)
+Added Component: Designator=R22(0603)
+Added Pin To Net: NetName=VDD33V Pin=R21-1
+Added Pin To Net: NetName=WP_SD_1 Pin=R21-2
+Added Pin To Net: NetName=VDD33V Pin=R22-1
+Added Pin To Net: NetName=NCD_SD Pin=R22-2
+Added Member To Class: ClassName=电眼主板 Member=Component R21 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R22 电阻(贴片)

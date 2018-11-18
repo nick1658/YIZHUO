@@ -1,0 +1,386 @@
+Change Component Comment : Designator=C4 Old Comment=贴片电容 New Comment=贴片电容 0.1uf
+Change Component Comment : Designator=C2 Old Comment=贴片电容 New Comment=贴片电容 0.1uf
+Added Component: Designator=C5(0805c)
+Added Component: Designator=C6(0805c)
+Added Component: Designator=C7(0805c)
+Added Component: Designator=C8(0805c)
+Added Component: Designator=C9(0805c)
+Added Component: Designator=C10(0805c)
+Added Component: Designator=C11(0805c)
+Added Component: Designator=C12(0805c)
+Added Component: Designator=C13(0805c)
+Added Component: Designator=C14(0805c)
+Added Component: Designator=C15(0805c)
+Added Component: Designator=C16(0805c)
+Added Component: Designator=C17(0805c)
+Added Component: Designator=C18(0805c)
+Added Component: Designator=C19(0805c)
+Added Component: Designator=C20(0805c)
+Added Component: Designator=C21(0805c)
+Added Component: Designator=C22(0805c)
+Added Component: Designator=C23(0805c)
+Added Component: Designator=C24(0805c)
+Added Component: Designator=C25(0805c)
+Added Component: Designator=C26(0805c)
+Added Component: Designator=C27(0805c)
+Added Component: Designator=C28(0805c)
+Added Component: Designator=C29(0805c)
+Added Component: Designator=C30(0805c)
+Added Component: Designator=C31(0805c)
+Added Component: Designator=C32(0805c)
+Added Component: Designator=C33(0805c)
+Added Component: Designator=C34(0805c)
+Added Component: Designator=C35(0805c)
+Added Component: Designator=C36(0805c)
+Added Component: Designator=C37(0805c)
+Added Component: Designator=C38(0805c)
+Added Component: Designator=C39(0805c)
+Added Component: Designator=C40(0805c)
+Added Component: Designator=C41(0805c)
+Added Component: Designator=C42(0805c)
+Added Component: Designator=C43(0805c)
+Added Component: Designator=C44(0805c)
+Added Component: Designator=C45(0805c)
+Added Component: Designator=C46(0805c)
+Added Component: Designator=C47(0805c)
+Added Component: Designator=C48(0805c)
+Added Component: Designator=C49(0805c)
+Added Component: Designator=C50(0805c)
+Added Component: Designator=C51(0805c)
+Added Component: Designator=C52(0805c)
+Added Component: Designator=C53(0805c)
+Added Component: Designator=C54(0805c)
+Added Component: Designator=C55(0805c)
+Added Component: Designator=C56(0805c)
+Added Component: Designator=C57(0805c)
+Added Component: Designator=C58(0805c)
+Added Component: Designator=C59(0805c)
+Added Component: Designator=C60(0805c)
+Added Component: Designator=C61(0805c)
+Added Component: Designator=C62(0805c)
+Added Component: Designator=C63(0805c)
+Added Component: Designator=C64(0805c)
+Added Component: Designator=C65(0805c)
+Added Component: Designator=C66(0805c)
+Added Component: Designator=C67(0805c)
+Added Component: Designator=C68(0805c)
+Added Component: Designator=C69(0805c)
+Added Component: Designator=C70(0805c)
+Added Component: Designator=C71(0805c)
+Added Component: Designator=C72(0805c)
+Added Component: Designator=C73(0805c)
+Added Component: Designator=C74(0805c)
+Added Component: Designator=C75(0805c)
+Added Component: Designator=C76(0805c)
+Added Component: Designator=C77(0805c)
+Added Component: Designator=C78(0805c)
+Added Component: Designator=C79(0805c)
+Added Component: Designator=C80(0805c)
+Added Component: Designator=C81(0805c)
+Added Component: Designator=C82(0805c)
+Added Component: Designator=C83(0805c)
+Added Component: Designator=C84(0805c)
+Added Component: Designator=C85(0805c)
+Added Component: Designator=C86(0805c)
+Added Component: Designator=C87(0805c)
+Added Component: Designator=C88(0805c)
+Added Component: Designator=C89(0805c)
+Added Component: Designator=C90(0805c)
+Added Component: Designator=C91(0805c)
+Added Component: Designator=C92(0805c)
+Added Component: Designator=C93(0805c)
+Added Component: Designator=C94(0805c)
+Added Component: Designator=C95(0805c)
+Added Component: Designator=C96(0805c)
+Added Component: Designator=C97(0805c)
+Added Component: Designator=C98(0805c)
+Added Component: Designator=C99(0805c)
+Added Component: Designator=C100(0805c)
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=CH1-1 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=CH1-2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=CH1-3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=CH1-4 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=CH1-5 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=CH1-6 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=CH1-7 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=CH1-8 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=CH2-1 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=CH2-2 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=CH2-3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=CH2-4 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=CH2-5 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=CH2-6 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=CH2-7 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=CH2-8 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=CH3-1 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=CH3-2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=CH3-3 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=CH3-4 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=CH3-5 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=CH3-6 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=CH3-7 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=CH3-8 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=CH4-1 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=CH4-2 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=CH4-3 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=CH4-4 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=CH4-5 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=CH4-6 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=CH4-7 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=CH4-8 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=CH5-1 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=CH5-2 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=CH5-3 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=CH5-4 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=CH5-5 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=CH5-6 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=CH5-7 Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=CH5-8 Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=CH6-1 Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=CH6-2 Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=CH6-3 Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=CH6-4 Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=CH6-5 Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=CH6-6 Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=CH6-7 Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=CH6-8 Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=CH7-1 Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=CH7-2 Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=CH7-3 Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=CH7-4 Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=CH7-5 Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=CH7-6 Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=CH7-7 Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=CH7-8 Pin=C60-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=CH8-1 Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=CH8-2 Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=CH8-3 Pin=C63-2
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=CH8-4 Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=CH8-5 Pin=C65-2
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=CH8-6 Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=CH8-7 Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=CH8-8 Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=CH9-1 Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=CH9-2 Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=CH9-3 Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=CH9-4 Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=CH9-5 Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=CH9-6 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=CH9-7 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=CH9-8 Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=CH10-1 Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=CH10-2 Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=CH10-3 Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=CH10-4 Pin=C80-2
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=CH10-5 Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=CH10-6 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=CH10-7 Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=CH10-8 Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=CH11-1 Pin=C85-2
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=CH11-2 Pin=C86-2
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=CH11-3 Pin=C87-2
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=CH11-4 Pin=C88-2
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=CH11-5 Pin=C89-2
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=CH11-6 Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=CH11-7 Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=CH11-8 Pin=C92-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=CH12-1 Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=CH12-2 Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=CH12-3 Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=CH12-4 Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=CH12-5 Pin=C97-2
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=CH12-6 Pin=C98-2
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=CH12-7 Pin=C99-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=CH12-8 Pin=C100-2
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C5 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C6 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C7 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C8 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C9 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C10 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C11 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C12 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C13 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C14 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C15 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C16 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C17 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C18 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C19 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C20 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C21 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C22 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C23 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C24 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C25 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C26 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C27 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C28 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C29 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C30 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C31 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C32 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C33 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C34 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C35 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C36 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C37 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C38 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C39 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C40 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C41 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C42 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C43 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C44 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C45 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C46 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C47 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C48 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C49 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C50 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C51 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C52 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C53 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C54 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C55 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C56 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C57 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C58 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C59 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C60 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C61 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C62 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C63 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C64 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C65 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C66 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C67 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C68 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C69 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C70 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C71 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C72 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C73 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C74 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C75 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C76 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C77 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C78 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C79 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C80 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C81 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C82 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C83 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C84 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C85 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C86 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C87 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C88 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C89 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C90 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C91 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C92 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C93 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C94 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C95 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C96 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C97 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C98 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C99 贴片电容 0.1uf
+Added Member To Class: ClassName=数粒机接收板12通道 Member=Component C100 贴片电容 0.1uf

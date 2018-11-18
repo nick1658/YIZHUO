@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=VDD33V Pin=P1-13
+Removed Pin From Net: NetName=GND Pin=P1-14
+Removed Pin From Net: NetName=CH11 Pin=P1-21
+Removed Pin From Net: NetName=CH10 Pin=P1-22
+Removed Pin From Net: NetName=CH13 Pin=P1-23
+Removed Pin From Net: NetName=CH12 Pin=P1-24
+Removed Pin From Net: NetName=VDD33V Pin=P1-25
+Removed Pin From Net: NetName=GND Pin=P1-26
+Removed Pin From Net: NetName=CH1 Pin=P1-27
+Removed Pin From Net: NetName=CH0 Pin=P1-28
+Removed Pin From Net: NetName=CH3 Pin=P1-29
+Removed Pin From Net: NetName=CH2 Pin=P1-30
+Removed Pin From Net: NetName=DAC_OUT2 Pin=P1-31
+Removed Pin From Net: NetName=DAC_OUT1 Pin=P1-32
+Removed Pin From Net: NetName=CH7 Pin=P1-33
+Removed Pin From Net: NetName=CH6 Pin=P1-34
+Removed Pin From Net: NetName=CH5 Pin=P1-35
+Removed Pin From Net: NetName=CH4 Pin=P1-36
+Removed Pin From Net: NetName=CH9 Pin=P1-37
+Removed Pin From Net: NetName=CH8 Pin=P1-38
+Removed Pin From Net: NetName=USART3_RX Pin=P1-55
+Removed Pin From Net: NetName=USART3_TX Pin=P1-56
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=VDD33V Pin=P2-2
+Removed Pin From Net: NetName=CAN_RX Pin=P2-3
+Removed Pin From Net: NetName=CAN_TX Pin=P2-4
+Removed Pin From Net: NetName=VDD33V Pin=P2-13
+Removed Pin From Net: NetName=GND Pin=P2-14
+Removed Pin From Net: NetName=GND Pin=P2-23
+Removed Pin From Net: NetName=VDD33V Pin=P2-24
+Removed Pin From Net: NetName=SDCMD Pin=P2-27
+Removed Pin From Net: NetName=FSMC_CLK Pin=P2-28
+Removed Pin From Net: NetName=SDDATA3 Pin=P2-31
+Removed Pin From Net: NetName=SDCLK Pin=P2-32
+Removed Pin From Net: NetName=USART1_RX Pin=P2-33
+Removed Pin From Net: NetName=SDDATA2 Pin=P2-34
+Removed Pin From Net: NetName=SDDATA0 Pin=P2-37
+Removed Pin From Net: NetName=SDDATA1 Pin=P2-38
+Removed Pin From Net: NetName=RS485_RE Pin=P2-41
+Added Pin To Net: NetName=GND Pin=P1-13
+Added Pin To Net: NetName=VDD33V Pin=P1-14
+Added Pin To Net: NetName=CH10 Pin=P1-21
+Added Pin To Net: NetName=CH11 Pin=P1-22
+Added Pin To Net: NetName=CH12 Pin=P1-23
+Added Pin To Net: NetName=CH13 Pin=P1-24
+Added Pin To Net: NetName=GND Pin=P1-25
+Added Pin To Net: NetName=VDD33V Pin=P1-26
+Added Pin To Net: NetName=CH0 Pin=P1-27
+Added Pin To Net: NetName=CH1 Pin=P1-28
+Added Pin To Net: NetName=CH2 Pin=P1-29
+Added Pin To Net: NetName=CH3 Pin=P1-30
+Added Pin To Net: NetName=DAC_OUT1 Pin=P1-31
+Added Pin To Net: NetName=DAC_OUT2 Pin=P1-32
+Added Pin To Net: NetName=CH6 Pin=P1-33
+Added Pin To Net: NetName=CH7 Pin=P1-34
+Added Pin To Net: NetName=CH4 Pin=P1-35
+Added Pin To Net: NetName=CH5 Pin=P1-36
+Added Pin To Net: NetName=CH8 Pin=P1-37
+Added Pin To Net: NetName=CH9 Pin=P1-38
+Added Pin To Net: NetName=USART3_TX Pin=P1-55
+Added Pin To Net: NetName=USART3_RX Pin=P1-56
+Added Pin To Net: NetName=VDD33V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=CAN_TX Pin=P2-3
+Added Pin To Net: NetName=CAN_RX Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-13
+Added Pin To Net: NetName=VDD33V Pin=P2-14
+Added Pin To Net: NetName=VDD33V Pin=P2-23
+Added Pin To Net: NetName=GND Pin=P2-24
+Added Pin To Net: NetName=FSMC_CLK Pin=P2-27
+Added Pin To Net: NetName=SDCMD Pin=P2-28
+Added Pin To Net: NetName=SDCLK Pin=P2-31
+Added Pin To Net: NetName=SDDATA3 Pin=P2-32
+Added Pin To Net: NetName=SDDATA2 Pin=P2-33
+Added Pin To Net: NetName=USART1_RX Pin=P2-34
+Added Pin To Net: NetName=SDDATA1 Pin=P2-37
+Added Pin To Net: NetName=SDDATA0 Pin=P2-38
+Added Pin To Net: NetName=RS485_RE Pin=P2-42
+Change Net Name : Old Net Name=DM9000_INT New Net Name=FSMC_INT3
+Change Net Name : Old Net Name=DM9000_RST New Net Name=FSMC_NWAIT
+Change Net Name : Old Net Name=FSMC_A0 New Net Name=FSMC_A1
+Change Net Name : Old Net Name=FSMC_A1 New Net Name=FSMC_A0
+Change Net Name : Old Net Name=FSMC_A2 New Net Name=FSMC_A3
+Change Net Name : Old Net Name=FSMC_A3 New Net Name=FSMC_A2
+Change Net Name : Old Net Name=FSMC_A4 New Net Name=FSMC_A5
+Change Net Name : Old Net Name=FSMC_A5 New Net Name=FSMC_A4
+Change Net Name : Old Net Name=FSMC_A6 New Net Name=FSMC_NIOS16
+Change Net Name : Old Net Name=FSMC_A7 New Net Name=FSMC_A8
+Change Net Name : Old Net Name=FSMC_A8 New Net Name=FSMC_A7
+Change Net Name : Old Net Name=FSMC_A9 New Net Name=FSMC_A10
+Change Net Name : Old Net Name=FSMC_A10 New Net Name=FSMC_A9
+Change Net Name : Old Net Name=FSMC_A11 New Net Name=FSMC_D4
+Change Net Name : Old Net Name=FSMC_A12 New Net Name=FSMC_A13
+Change Net Name : Old Net Name=FSMC_A13 New Net Name=FSMC_A12
+Change Net Name : Old Net Name=FSMC_A14 New Net Name=FSMC_A15
+Change Net Name : Old Net Name=FSMC_A15 New Net Name=FSMC_A14
+Change Net Name : Old Net Name=FSMC_A16 New Net Name=FSMC_D15
+Change Net Name : Old Net Name=FSMC_A17 New Net Name=FSMC_A18
+Change Net Name : Old Net Name=FSMC_A18 New Net Name=FSMC_A17
+Change Net Name : Old Net Name=FSMC_A19 New Net Name=FSMC_A23
+Change Net Name : Old Net Name=FSMC_A20 New Net Name=FSMC_A21
+Change Net Name : Old Net Name=FSMC_A21 New Net Name=FSMC_A20
+Change Net Name : Old Net Name=FSMC_A22 New Net Name=PC13
+Change Net Name : Old Net Name=FSMC_A23 New Net Name=FSMC_A19
+Change Net Name : Old Net Name=FSMC_A24 New Net Name=FSMC_A25
+Change Net Name : Old Net Name=FSMC_A25 New Net Name=FSMC_A24
+Change Net Name : Old Net Name=FSMC_CD New Net Name=FSMC_NIOWR
+Change Net Name : Old Net Name=FSMC_D0 New Net Name=FSMC_D1
+Change Net Name : Old Net Name=FSMC_D1 New Net Name=FSMC_D0
+Change Net Name : Old Net Name=FSMC_D2 New Net Name=FSMC_D3
+Change Net Name : Old Net Name=FSMC_D3 New Net Name=FSMC_D2
+Change Net Name : Old Net Name=FSMC_D4 New Net Name=FSMC_A11
+Change Net Name : Old Net Name=FSMC_D5 New Net Name=FSMC_D6
+Change Net Name : Old Net Name=FSMC_D6 New Net Name=FSMC_D5
+Change Net Name : Old Net Name=FSMC_D7 New Net Name=FSMC_D8
+Change Net Name : Old Net Name=FSMC_D8 New Net Name=FSMC_D7
+Change Net Name : Old Net Name=FSMC_D9 New Net Name=FSMC_D10
+Change Net Name : Old Net Name=FSMC_D10 New Net Name=FSMC_D9
+Change Net Name : Old Net Name=FSMC_D11 New Net Name=FSMC_D12
+Change Net Name : Old Net Name=FSMC_D12 New Net Name=FSMC_D11
+Change Net Name : Old Net Name=FSMC_D13 New Net Name=FSMC_D14
+Change Net Name : Old Net Name=FSMC_D14 New Net Name=FSMC_D13
+Change Net Name : Old Net Name=FSMC_D15 New Net Name=FSMC_A16
+Change Net Name : Old Net Name=FSMC_INT3 New Net Name=DM9000_INT
+Change Net Name : Old Net Name=FSMC_INTR New Net Name=RESET
+Change Net Name : Old Net Name=FSMC_NBL0 New Net Name=FSMC_NBL1
+Change Net Name : Old Net Name=FSMC_NBL1 New Net Name=FSMC_NBL0
+Change Net Name : Old Net Name=FSMC_NE2 New Net Name=FSMC_NE3
+Change Net Name : Old Net Name=FSMC_NE3 New Net Name=FSMC_NE2
+Change Net Name : Old Net Name=FSMC_NE4 New Net Name=PG11
+Change Net Name : Old Net Name=FSMC_NIORD New Net Name=FSMC_NREG
+Change Net Name : Old Net Name=FSMC_NIOS16 New Net Name=FSMC_A6
+Change Net Name : Old Net Name=FSMC_NIOWR New Net Name=FSMC_CD
+Change Net Name : Old Net Name=FSMC_NOE New Net Name=FSMC_NWE
+Change Net Name : Old Net Name=FSMC_NREG New Net Name=FSMC_NIORD
+Change Net Name : Old Net Name=FSMC_NWAIT New Net Name=DM9000_RST
+Change Net Name : Old Net Name=FSMC_NWE New Net Name=FSMC_NOE
+Change Net Name : Old Net Name=I2C1_SCL New Net Name=I2C1_SDA
+Change Net Name : Old Net Name=I2C1_SDA New Net Name=I2C1_SCL
+Change Net Name : Old Net Name=LED0 New Net Name=LED1
+Change Net Name : Old Net Name=LED1 New Net Name=LED0
+Change Net Name : Old Net Name=LED2 New Net Name=PG15
+Change Net Name : Old Net Name=PA8 New Net Name=USART1_TX
+Change Net Name : Old Net Name=PB12 New Net Name=PB13
+Change Net Name : Old Net Name=PB13 New Net Name=PB12
+Change Net Name : Old Net Name=PB14 New Net Name=PB15
+Change Net Name : Old Net Name=PB15 New Net Name=PB14
+Change Net Name : Old Net Name=PC6 New Net Name=PC7
+Change Net Name : Old Net Name=PC7 New Net Name=PC6
+Change Net Name : Old Net Name=PC13 New Net Name=FSMC_A22
+Change Net Name : Old Net Name=PG11 New Net Name=FSMC_NE4
+Change Net Name : Old Net Name=PG15 New Net Name=LED2
+Change Net Name : Old Net Name=RESET New Net Name=FSMC_INTR
+Change Net Name : Old Net Name=USART1_TX New Net Name=PA8

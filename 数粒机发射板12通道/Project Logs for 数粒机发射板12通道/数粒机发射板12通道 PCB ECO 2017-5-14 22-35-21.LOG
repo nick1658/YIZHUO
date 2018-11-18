@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=VOUT1 Pin=D1a-1
+Removed Pin From Net: NetName=NetD1a_2 Pin=D1a-2
+Removed Pin From Net: NetName=NetD1b_2 Pin=D1c-1
+Removed Pin From Net: NetName=NetD1c_2 Pin=D1c-2
+Removed Pin From Net: NetName=VOUT2 Pin=D2a-1
+Removed Pin From Net: NetName=NetD2a_2 Pin=D2a-2
+Removed Pin From Net: NetName=NetD2b_2 Pin=D2c-1
+Removed Pin From Net: NetName=NetD2c_2 Pin=D2c-2
+Removed Pin From Net: NetName=VOUT3 Pin=D3a-1
+Removed Pin From Net: NetName=NetD3a_2 Pin=D3a-2
+Removed Pin From Net: NetName=NetD3b_2 Pin=D3c-1
+Removed Pin From Net: NetName=NetD3c_2 Pin=D3c-2
+Change Component Footprint: Designator=D11c_1 Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D11d_1 Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12a_1 Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12b_1 Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12c_1 Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12d_1 Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Comment : Designator=D12d_1 Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D12c_1 Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D12b_1 Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D12a_1 Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D11d_1 Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D11c_1 Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Designator: OldDesignator=D11c_1 NewDesignator=D1a
+Change Component Designator: OldDesignator=D11d_1 NewDesignator=D1c
+Change Component Designator: OldDesignator=D12a_1 NewDesignator=D2a
+Change Component Designator: OldDesignator=D12b_1 NewDesignator=D2c
+Change Component Designator: OldDesignator=D12c_1 NewDesignator=D3a
+Change Component Designator: OldDesignator=D12d_1 NewDesignator=D3c
+Added Pin To Net: NetName=VOUT1 Pin=D1a-1
+Added Pin To Net: NetName=NetD1a_2 Pin=D1a-2
+Added Pin To Net: NetName=NetD1b_2 Pin=D1c-1
+Added Pin To Net: NetName=NetD1c_2 Pin=D1c-2
+Added Pin To Net: NetName=VOUT2 Pin=D2a-1
+Added Pin To Net: NetName=NetD2a_2 Pin=D2a-2
+Added Pin To Net: NetName=NetD2b_2 Pin=D2c-1
+Added Pin To Net: NetName=NetD2c_2 Pin=D2c-2
+Added Pin To Net: NetName=VOUT3 Pin=D3a-1
+Added Pin To Net: NetName=NetD3a_2 Pin=D3a-2
+Added Pin To Net: NetName=NetD3b_2 Pin=D3c-1
+Added Pin To Net: NetName=NetD3c_2 Pin=D3c-2

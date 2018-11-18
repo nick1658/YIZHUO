@@ -1,0 +1,8 @@
+Added Component: Designator=U15(LQFP100)
+Added Pin To Net: NetName=GND Pin=U15-10
+Added Pin To Net: NetName=GND Pin=U15-19
+Added Pin To Net: NetName=VCC Pin=U15-26
+Added Pin To Net: NetName=VCC Pin=U15-65
+Added Pin To Net: NetName=VCC Pin=U15-88
+Added Net: Name=VCC
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component U15 STM32F103VxT

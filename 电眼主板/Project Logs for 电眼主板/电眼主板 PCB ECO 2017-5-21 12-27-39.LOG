@@ -1,0 +1,15 @@
+Added Component: Designator=BOOT(HDR2X3H)
+Added Pin To Net: NetName=VDD33V Pin=BOOT-1
+Added Pin To Net: NetName=VDD33V Pin=BOOT-2
+Added Pin To Net: NetName=GND Pin=BOOT-5
+Added Pin To Net: NetName=GND Pin=BOOT-6
+Added Pin To Net: NetName=BOOT0 Pin=R5-2
+Added Pin To Net: NetName=BOOT1 Pin=R6-1
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=NetBOOT_3 Pin=BOOT-3
+Added Pin To Net: NetName=NetBOOT_3 Pin=R5-1
+Added Net: Name=NetBOOT_3
+Added Pin To Net: NetName=NetBOOT_4 Pin=BOOT-4
+Added Pin To Net: NetName=NetBOOT_4 Pin=R6-2
+Added Net: Name=NetBOOT_4
+Added Member To Class: ClassName=µçÑÛÖ÷°å Member=Component BOOT Header 3X2H

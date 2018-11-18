@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=VDD33V Pin=R20-1
+Removed Pin From Net: NetName=SDDATA1 Pin=R20-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=R30-1
+Removed Pin From Net: NetName=CAN_TX Pin=R30-2
+Removed Pin From Net: NetName=NetJ2_2 Pin=R32-1
+Removed Pin From Net: NetName=CAN_RX Pin=R32-2
+Removed Pin From Net: NetName=485_A Pin=R33-1
+Removed Pin From Net: NetName=VDD33V Pin=R33-2
+Removed Pin From Net: NetName=WP_SD_1 Pin=R34-1
+Removed Pin From Net: NetName=WP_SD Pin=R34-2
+Removed Pin From Net: NetName=USB_5V1 Pin=R35-1
+Removed Pin From Net: NetName=CAN_TX Pin=R35-2
+Removed Pin From Net: NetName=NetP3_2 Pin=R39-1
+Removed Pin From Net: NetName=NetP3_1 Pin=R39-2
+Removed Pin From Net: NetName=NetU7_1 Pin=U7-1
+Removed Pin From Net: NetName=NetU7_1 Pin=U7-2
+Removed Pin From Net: NetName=DAC_OUT1 Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=VCC5V Pin=U7-8
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED2
+Change Component Designator: OldDesignator=R16 NewDesignator=R25
+Change Component Designator: OldDesignator=R17 NewDesignator=R26
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R27 NewDesignator=R31
+Change Component Designator: OldDesignator=R28 NewDesignator=R32
+Change Component Designator: OldDesignator=R29 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Change Component Designator: OldDesignator=R36 NewDesignator=R21
+Change Component Designator: OldDesignator=R37 NewDesignator=R22
+Change Component Designator: OldDesignator=R38 NewDesignator=R23
+Change Component Designator: OldDesignator=R40 NewDesignator=R36
+Change Component Designator: OldDesignator=U8 NewDesignator=U5
+Change Component Designator: OldDesignator=U9 NewDesignator=U7
+Added Component: Designator=R24(0603)
+Added Component: Designator=R37(0603)
+Added Component: Designator=R38(0603)
+Added Component: Designator=R40(0603)
+Added Component: Designator=U6(sop8)
+Added Component: Designator=U8(dm9000)
+Added Component: Designator=U9(mTQFP48)
+Added Pin To Net: NetName=485_A Pin=R20-1
+Added Pin To Net: NetName=VDD33V Pin=R20-2
+Added Pin To Net: NetName=VDD33V Pin=R24-1
+Added Pin To Net: NetName=SDDATA1 Pin=R24-2
+Added Pin To Net: NetName=NetJ2_3 Pin=R34-1
+Added Pin To Net: NetName=CAN_TX Pin=R34-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R37-1
+Added Pin To Net: NetName=CAN_RX Pin=R37-2
+Added Pin To Net: NetName=WP_SD_1 Pin=R38-1
+Added Pin To Net: NetName=WP_SD Pin=R38-2
+Added Pin To Net: NetName=USB_5V1 Pin=R39-1
+Added Pin To Net: NetName=CAN_TX Pin=R39-2
+Added Pin To Net: NetName=NetP3_2 Pin=R40-1
+Added Pin To Net: NetName=NetP3_1 Pin=R40-2
+Added Pin To Net: NetName=NetU7_1 Pin=U6-1
+Added Pin To Net: NetName=NetU7_1 Pin=U6-2
+Added Pin To Net: NetName=DAC_OUT1 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=VCC5V Pin=U6-8
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetU7_1 New Net Name=NetU6_1
+Added Member To Class: ClassName=电眼主板 Member=Component U5 集成电路
+Added Member To Class: ClassName=电眼主板 Member=Component U6 集成电路
+Added Member To Class: ClassName=电眼主板 Member=Component U8 集成电路

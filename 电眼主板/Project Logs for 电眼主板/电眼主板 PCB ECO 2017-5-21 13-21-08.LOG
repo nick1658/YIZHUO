@@ -1,0 +1,20 @@
+Added Component: Designator=R15(0603)
+Added Component: Designator=R16(0603)
+Added Component: Designator=R17(0603)
+Added Component: Designator=R19(0603)
+Added Component: Designator=R20(0603)
+Added Pin To Net: NetName=VDD33V Pin=R15-1
+Added Pin To Net: NetName=SDDATA1 Pin=R15-2
+Added Pin To Net: NetName=VDD33V Pin=R16-1
+Added Pin To Net: NetName=SDDATA0 Pin=R16-2
+Added Pin To Net: NetName=VDD33V Pin=R17-1
+Added Pin To Net: NetName=SDCLK Pin=R17-2
+Added Pin To Net: NetName=VDD33V Pin=R19-1
+Added Pin To Net: NetName=SDDATA3 Pin=R19-2
+Added Pin To Net: NetName=VDD33V Pin=R20-1
+Added Pin To Net: NetName=SDDATA2 Pin=R20-2
+Added Member To Class: ClassName=电眼主板 Member=Component R15 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R16 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R17 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R19 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R20 电阻(贴片)

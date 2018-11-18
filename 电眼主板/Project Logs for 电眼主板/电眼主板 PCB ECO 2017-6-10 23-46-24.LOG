@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=INPUT3 Pin=P7-18
+Added Pin To Net: NetName=INPUT2 Pin=P7-36
+Added Pin To Net: NetName=INPUT1 Pin=P7-39
+Added Pin To Net: NetName=INPUT0 Pin=P7-40
+Added Pin To Net: NetName=DM9000_RST Pin=R33-1
+Added Pin To Net: NetName=FSMC_A3 Pin=TL3-10
+Added Pin To Net: NetName=FSMC_A2 Pin=TL3-12
+Added Pin To Net: NetName=FSMC_A1 Pin=TL3-14
+Added Pin To Net: NetName=FSMC_A0 Pin=TL3-16
+Added Pin To Net: NetName=DM9000_RST Pin=U4-40

@@ -1,0 +1,4 @@
+Added Component: Designator=CT2(3528)
+Added Pin To Net: NetName=VCC6 Pin=CT2-1
+Added Pin To Net: NetName=GND Pin=CT2-2
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component CT2 10uF/16V

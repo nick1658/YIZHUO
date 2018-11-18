@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CH5 Pin=P2-2
+Removed Pin From Net: NetName=CH6 Pin=P2-4
+Removed Pin From Net: NetName=CH7 Pin=P2-6
+Removed Pin From Net: NetName=CH8 Pin=P2-8
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Added Pin To Net: NetName=CH1 Pin=P2-2
+Added Pin To Net: NetName=CH2 Pin=P2-4
+Added Pin To Net: NetName=CH3 Pin=P2-6
+Added Pin To Net: NetName=CH4 Pin=P2-8
+Added Pin To Net: NetName=A1 Pin=P3-1
+Added Pin To Net: NetName=CH5 Pin=P3-2
+Added Pin To Net: NetName=A2 Pin=P3-3
+Added Pin To Net: NetName=CH6 Pin=P3-4
+Added Pin To Net: NetName=A3 Pin=P3-5
+Added Pin To Net: NetName=CH7 Pin=P3-6
+Added Pin To Net: NetName=EN Pin=P3-7
+Added Pin To Net: NetName=CH8 Pin=P3-8
+Added Pin To Net: NetName=VCC5V Pin=P3-13
+Added Pin To Net: NetName=VCC5V Pin=P3-15
+Added Pin To Net: NetName=GND Pin=P3-17
+Added Pin To Net: NetName=GND Pin=P3-19
+Added Pin To Net: NetName=VCC3.3 Pin=P3-21
+Added Pin To Net: NetName=VCC3.3 Pin=P3-23
+Added Member To Class: ClassName=数粒机转接板 Member=Component P3 牛角插座

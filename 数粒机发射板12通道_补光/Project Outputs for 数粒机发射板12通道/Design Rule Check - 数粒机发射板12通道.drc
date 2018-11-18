@@ -1,0 +1,14 @@
+Protel Design System Design Rule Check
+PCB File : D:\伊卓\数粒机发射板12通道_补光\数粒机发射板12通道.PcbDoc
+Date     : 2018/6/24
+Time     : 14:24:50
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00

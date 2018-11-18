@@ -1,0 +1,10 @@
+Added Component: Designator=P3(CON3)
+Added Component: Designator=P8(CON3)
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=485_B Pin=P8-1
+Added Pin To Net: NetName=485_A Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Member To Class: ClassName=电眼主板 Member=Component P3 Header 3
+Added Member To Class: ClassName=电眼主板 Member=Component P8 Header 3

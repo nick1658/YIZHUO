@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DAC_OUT2 Pin=U3-3
+Change Component Comment : Designator=C5 Old Comment=220uF 35V New Comment=电解电容(贴片)
+Change Component Comment : Designator=C12 Old Comment=220uF New Comment=电解电容(贴片)
+Change Component Comment : Designator=CT1 Old Comment=220uF/16V New Comment=钽电容
+Change Component Comment : Designator=D2 Old Comment=LED New Comment=17-215-SURC-S530-A3-TR8
+Added Pin To Net: NetName=DAC_OUT1 Pin=U3-3

@@ -1,0 +1,677 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-2
+Removed Pin From Net: NetName=NetLED2_2 Pin=LED2-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=LED3-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=LED4-2
+Removed Pin From Net: NetName=NetLED7_1 Pin=LED7-1
+Removed Pin From Net: NetName=NetLED7_2 Pin=LED7-2
+Removed Pin From Net: NetName=NetLED10_1 Pin=LED10-1
+Removed Pin From Net: NetName=NetLED10_2 Pin=LED10-2
+Removed Pin From Net: NetName=NetLED12_1 Pin=LED12-1
+Removed Pin From Net: NetName=NetLED12_2 Pin=LED12-2
+Removed Pin From Net: NetName=NetLED16_1 Pin=LED16-1
+Removed Pin From Net: NetName=NetLED16_2 Pin=LED16-2
+Removed Pin From Net: NetName=NetLED17_2 Pin=LED17-2
+Removed Pin From Net: NetName=NetLED18_2 Pin=LED18-2
+Removed Pin From Net: NetName=NetLED19_2 Pin=LED19-2
+Removed Pin From Net: NetName=NetLED20_1 Pin=LED20-1
+Removed Pin From Net: NetName=NetLED20_2 Pin=LED20-2
+Removed Pin From Net: NetName=NetLED24_1 Pin=LED24-1
+Removed Pin From Net: NetName=NetLED24_2 Pin=LED24-2
+Removed Pin From Net: NetName=NetLED25_2 Pin=LED25-2
+Removed Pin From Net: NetName=NetLED26_2 Pin=LED26-2
+Removed Pin From Net: NetName=NetP1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetP1_1 Pin=R1-2
+Removed Pin From Net: NetName=VDD33V Pin=R2-1
+Removed Pin From Net: NetName=SDDATA1 Pin=R2-2
+Removed Pin From Net: NetName=VDD33V Pin=R3-1
+Removed Pin From Net: NetName=SDDATA0 Pin=R3-2
+Removed Pin From Net: NetName=VDD33V Pin=R4-1
+Removed Pin From Net: NetName=SDCLK Pin=R4-2
+Removed Pin From Net: NetName=VDD33V Pin=R5-1
+Removed Pin From Net: NetName=SDCMD Pin=R5-2
+Removed Pin From Net: NetName=VDD33V Pin=R6-1
+Removed Pin From Net: NetName=SDDATA3 Pin=R6-2
+Removed Pin From Net: NetName=VDD33V Pin=R7-1
+Removed Pin From Net: NetName=SDDATA2 Pin=R7-2
+Removed Pin From Net: NetName=VDD33V Pin=R8-1
+Removed Pin From Net: NetName=WP_SD_1 Pin=R8-2
+Removed Pin From Net: NetName=VDD33V Pin=R9-1
+Removed Pin From Net: NetName=NCD_SD Pin=R9-2
+Removed Pin From Net: NetName=WP_SD_1 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=WP_SD_1 Pin=R11-1
+Removed Pin From Net: NetName=WP_SD Pin=R11-2
+Removed Pin From Net: NetName=VDD33V Pin=R12-2
+Removed Pin From Net: NetName=485_A Pin=R13-1
+Removed Pin From Net: NetName=485_B Pin=R13-2
+Removed Pin From Net: NetName=USART3_TX Pin=R14-1
+Removed Pin From Net: NetName=NetLED25_2 Pin=R14-2
+Removed Pin From Net: NetName=USART3_RX Pin=R15-1
+Removed Pin From Net: NetName=NetLED26_2 Pin=R15-2
+Removed Pin From Net: NetName=NetR16_1 Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R16-2
+Removed Pin From Net: NetName=FSMC_NE2 Pin=R17-1
+Removed Pin From Net: NetName=VDD33V Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=NetR18_2 Pin=R18-2
+Removed Pin From Net: NetName=NetR19_2 Pin=R19-2
+Removed Pin From Net: NetName=NetR20_2 Pin=R20-2
+Removed Pin From Net: NetName=485_B Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R21-2
+Removed Pin From Net: NetName=NetR22_1 Pin=R22-1
+Removed Pin From Net: NetName=LEDB Pin=R22-2
+Removed Pin From Net: NetName=NetR23_1 Pin=R23-1
+Removed Pin From Net: NetName=LEDA Pin=R23-2
+Removed Pin From Net: NetName=NetC12_2 Pin=R24-1
+Removed Pin From Net: NetName=NetJ1_1 Pin=R24-2
+Removed Pin From Net: NetName=NetC12_2 Pin=R25-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=R25-2
+Removed Pin From Net: NetName=NetC13_2 Pin=R26-1
+Removed Pin From Net: NetName=NetJ1_3 Pin=R26-2
+Removed Pin From Net: NetName=NetC13_2 Pin=R27-1
+Removed Pin From Net: NetName=NetJ1_6 Pin=R27-2
+Removed Pin From Net: NetName=NetLED1_2 Pin=RH1-1
+Removed Pin From Net: NetName=NetLED2_2 Pin=RH2-1
+Removed Pin From Net: NetName=NetLED3_2 Pin=RH3-1
+Removed Pin From Net: NetName=OUTPUT1 Pin=RH3-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=RH4-1
+Removed Pin From Net: NetName=NetLED5_2 Pin=RH5-1
+Removed Pin From Net: NetName=NetLED6_2 Pin=RH6-1
+Removed Pin From Net: NetName=OUTPUT10 Pin=RH6-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=RH7-1
+Removed Pin From Net: NetName=NetLED8_2 Pin=RH8-1
+Removed Pin From Net: NetName=NetLED9_2 Pin=RH9-1
+Removed Pin From Net: NetName=NetLED10_2 Pin=RH10-1
+Removed Pin From Net: NetName=OUTPUT12 Pin=RH10-2
+Removed Pin From Net: NetName=NetLED11_2 Pin=RH11-1
+Removed Pin From Net: NetName=NetLED12_2 Pin=RH12-1
+Removed Pin From Net: NetName=NetLED14_2 Pin=RH14-1
+Removed Pin From Net: NetName=NetLED15_2 Pin=RH15-1
+Removed Pin From Net: NetName=NetLED16_2 Pin=RH16-1
+Removed Pin From Net: NetName=NetLED17_2 Pin=RH17-1
+Removed Pin From Net: NetName=NetLED18_2 Pin=RH18-1
+Removed Pin From Net: NetName=NetLED19_2 Pin=RH19-1
+Removed Pin From Net: NetName=NetLED20_2 Pin=RH20-1
+Removed Pin From Net: NetName=NetLED22_2 Pin=RH22-1
+Removed Pin From Net: NetName=NetLED23_2 Pin=RH23-1
+Removed Pin From Net: NetName=NetLED24_2 Pin=RH24-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=TL1-2
+Removed Pin From Net: NetName=NetLED3_1 Pin=TL1-4
+Removed Pin From Net: NetName=NetLED5_1 Pin=TL1-6
+Removed Pin From Net: NetName=NetLED7_1 Pin=TL1-8
+Removed Pin From Net: NetName=EXT_OUT_CH3 Pin=TL1-10
+Removed Pin From Net: NetName=EXT_OUT_CH2 Pin=TL1-12
+Removed Pin From Net: NetName=EXT_OUT_CH1 Pin=TL1-14
+Removed Pin From Net: NetName=EXT_OUT_CH0 Pin=TL1-16
+Removed Pin From Net: NetName=NetLED2_1 Pin=TL2-2
+Removed Pin From Net: NetName=NetLED4_1 Pin=TL2-4
+Removed Pin From Net: NetName=NetLED6_1 Pin=TL2-6
+Removed Pin From Net: NetName=NetLED8_1 Pin=TL2-8
+Removed Pin From Net: NetName=EXT_OUT_CH11 Pin=TL2-10
+Removed Pin From Net: NetName=EXT_OUT_CH10 Pin=TL2-12
+Removed Pin From Net: NetName=EXT_OUT_CH9 Pin=TL2-14
+Removed Pin From Net: NetName=EXT_OUT_CH8 Pin=TL2-16
+Removed Pin From Net: NetName=NetLED9_1 Pin=TL3-2
+Removed Pin From Net: NetName=NetLED17_1 Pin=TL3-6
+Removed Pin From Net: NetName=EXT_OUT_CH7 Pin=TL3-10
+Removed Pin From Net: NetName=EXT_OUT_CH6 Pin=TL3-12
+Removed Pin From Net: NetName=EXT_OUT_CH5 Pin=TL3-14
+Removed Pin From Net: NetName=EXT_OUT_CH4 Pin=TL3-16
+Removed Pin From Net: NetName=NetLED10_1 Pin=TL4-2
+Removed Pin From Net: NetName=NetLED14_1 Pin=TL4-4
+Removed Pin From Net: NetName=NetLED18_1 Pin=TL4-6
+Removed Pin From Net: NetName=NetLED22_1 Pin=TL4-8
+Removed Pin From Net: NetName=EXT_OUT_CH15 Pin=TL4-10
+Removed Pin From Net: NetName=EXT_OUT_CH14 Pin=TL4-12
+Removed Pin From Net: NetName=EXT_OUT_CH13 Pin=TL4-14
+Removed Pin From Net: NetName=EXT_OUT_CH12 Pin=TL4-16
+Removed Pin From Net: NetName=VCC24V Pin=TL5-1
+Removed Pin From Net: NetName=NetLED11_1 Pin=TL5-2
+Removed Pin From Net: NetName=VCC24V Pin=TL5-3
+Removed Pin From Net: NetName=NetLED15_1 Pin=TL5-4
+Removed Pin From Net: NetName=VCC24V Pin=TL5-5
+Removed Pin From Net: NetName=NetLED19_1 Pin=TL5-6
+Removed Pin From Net: NetName=VCC24V Pin=TL5-7
+Removed Pin From Net: NetName=NetLED23_1 Pin=TL5-8
+Removed Pin From Net: NetName=VCC24V Pin=TL6-1
+Removed Pin From Net: NetName=NetLED12_1 Pin=TL6-2
+Removed Pin From Net: NetName=VCC24V Pin=TL6-3
+Removed Pin From Net: NetName=NetLED16_1 Pin=TL6-4
+Removed Pin From Net: NetName=VCC24V Pin=TL6-5
+Removed Pin From Net: NetName=NetLED20_1 Pin=TL6-6
+Removed Pin From Net: NetName=VCC24V Pin=TL6-7
+Removed Pin From Net: NetName=NetLED24_1 Pin=TL6-8
+Removed Pin From Net: NetName=NetR18_2 Pin=U3-1
+Removed Pin From Net: NetName=NetR20_2 Pin=U3-20
+Removed Pin From Net: NetName=NetR19_2 Pin=U3-21
+Removed Pin From Net: NetName=NetR22_1 Pin=U3-38
+Removed Pin From Net: NetName=NetR23_1 Pin=U3-39
+Removed Pin From Net: NetName=NetR16_1 Pin=U3-40
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED25
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED10
+Change Component Designator: OldDesignator=LED20 NewDesignator=LED13
+Change Component Designator: OldDesignator=LED21 NewDesignator=LED31
+Change Component Designator: OldDesignator=LED24 NewDesignator=LED16
+Change Component Designator: OldDesignator=LED25 NewDesignator=LED41
+Change Component Designator: OldDesignator=LED26 NewDesignator=LED42
+Change Component Designator: OldDesignator=RH9 NewDesignator=RH14
+Change Component Designator: OldDesignator=RH12 NewDesignator=RH3
+Change Component Designator: OldDesignator=RH13 NewDesignator=RH17
+Change Component Designator: OldDesignator=RH14 NewDesignator=RH18
+Change Component Designator: OldDesignator=RH15 NewDesignator=RH16
+Change Component Designator: OldDesignator=RH16 NewDesignator=RH6
+Change Component Designator: OldDesignator=RH17 NewDesignator=RH20
+Change Component Designator: OldDesignator=RH18 NewDesignator=RH21
+Change Component Designator: OldDesignator=RH20 NewDesignator=RH9
+Change Component Designator: OldDesignator=RH21 NewDesignator=RH23
+Change Component Designator: OldDesignator=RH22 NewDesignator=RH24
+Change Component Designator: OldDesignator=RH23 NewDesignator=RH22
+Change Component Designator: OldDesignator=RH24 NewDesignator=RH12
+Change Component Designator: OldDesignator=TL3 NewDesignator=TL4
+Change Component Designator: OldDesignator=TL4 NewDesignator=TL5
+Change Component Designator: OldDesignator=TL5 NewDesignator=TL6
+Change Component Designator: OldDesignator=TL6 NewDesignator=TL3
+Added Component: Designator=DE1(D1206)
+Added Component: Designator=DE2(D1206)
+Added Component: Designator=DE3(D1206)
+Added Component: Designator=DE4(D1206)
+Added Component: Designator=DE5(D1206)
+Added Component: Designator=DE6(D1206)
+Added Component: Designator=DE7(D1206)
+Added Component: Designator=DE8(D1206)
+Added Component: Designator=DE9(D1206)
+Added Component: Designator=DE10(D1206)
+Added Component: Designator=DE11(D1206)
+Added Component: Designator=DE12(D1206)
+Added Component: Designator=DE13(D1206)
+Added Component: Designator=DE14(D1206)
+Added Component: Designator=DE15(D1206)
+Added Component: Designator=DE16(D1206)
+Added Component: Designator=LED12(LED-0805)
+Added Component: Designator=LED20(LED-0805)
+Added Component: Designator=LED21(LED-0805)
+Added Component: Designator=LED24(LED-0805)
+Added Component: Designator=LED26(LED-0805)
+Added Component: Designator=LED27(LED-0805)
+Added Component: Designator=LED28(LED-0805)
+Added Component: Designator=LED29(LED-0805)
+Added Component: Designator=LED30(LED-0805)
+Added Component: Designator=LED32(LED-0805)
+Added Component: Designator=LED33(LED-0805)
+Added Component: Designator=LED34(LED-0805)
+Added Component: Designator=LED35(LED-0805)
+Added Component: Designator=LED36(LED-0805)
+Added Component: Designator=LED37(LED-0805)
+Added Component: Designator=LED38(LED-0805)
+Added Component: Designator=LED39(LED-0805)
+Added Component: Designator=LED40(LED-0805)
+Added Component: Designator=QE1(TO-220)
+Added Component: Designator=QE2(TO-220)
+Added Component: Designator=QE3(TO-220)
+Added Component: Designator=QE4(TO-220)
+Added Component: Designator=QE5(TO-220)
+Added Component: Designator=QE6(TO-220)
+Added Component: Designator=QE7(TO-220)
+Added Component: Designator=QE8(TO-220)
+Added Component: Designator=QE9(TO-220)
+Added Component: Designator=QE10(TO-220)
+Added Component: Designator=QE11(TO-220)
+Added Component: Designator=QE12(TO-220)
+Added Component: Designator=QE13(TO-220)
+Added Component: Designator=QE14(TO-220)
+Added Component: Designator=QE15(TO-220)
+Added Component: Designator=QE16(TO-220)
+Added Component: Designator=R28(0603)
+Added Component: Designator=R29(0603)
+Added Component: Designator=R30(0603)
+Added Component: Designator=R31(0603)
+Added Component: Designator=R32(0603)
+Added Component: Designator=R33(0603)
+Added Component: Designator=R34(0603)
+Added Component: Designator=R35(0603)
+Added Component: Designator=R36(0603)
+Added Component: Designator=R37(0603)
+Added Component: Designator=R38(0603)
+Added Component: Designator=R39(0603)
+Added Component: Designator=R40(0603)
+Added Component: Designator=R41(0603)
+Added Component: Designator=R42(0603)
+Added Component: Designator=R43(0603)
+Added Component: Designator=RH13(0805)
+Added Component: Designator=RH15(0805)
+Added Pin To Net: NetName=EXT_OUT_CH0 Pin=DE1-2
+Added Pin To Net: NetName=EXT_OUT_CH1 Pin=DE2-2
+Added Pin To Net: NetName=EXT_OUT_CH2 Pin=DE3-2
+Added Pin To Net: NetName=EXT_OUT_CH3 Pin=DE4-2
+Added Pin To Net: NetName=EXT_OUT_CH4 Pin=DE5-2
+Added Pin To Net: NetName=EXT_OUT_CH5 Pin=DE6-2
+Added Pin To Net: NetName=EXT_OUT_CH6 Pin=DE7-2
+Added Pin To Net: NetName=EXT_OUT_CH7 Pin=DE8-2
+Added Pin To Net: NetName=EXT_OUT_CH8 Pin=DE9-2
+Added Pin To Net: NetName=EXT_OUT_CH9 Pin=DE10-2
+Added Pin To Net: NetName=EXT_OUT_CH10 Pin=DE11-2
+Added Pin To Net: NetName=EXT_OUT_CH11 Pin=DE12-2
+Added Pin To Net: NetName=EXT_OUT_CH12 Pin=DE13-2
+Added Pin To Net: NetName=EXT_OUT_CH13 Pin=DE14-2
+Added Pin To Net: NetName=EXT_OUT_CH14 Pin=DE15-2
+Added Pin To Net: NetName=EXT_OUT_CH15 Pin=DE16-2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED16_1 Pin=LED16-1
+Added Pin To Net: NetName=NetLED16_2 Pin=LED16-2
+Added Pin To Net: NetName=NetLED20_1 Pin=LED20-1
+Added Pin To Net: NetName=NetLED24_1 Pin=LED24-1
+Added Pin To Net: NetName=NetLED24_2 Pin=LED24-2
+Added Pin To Net: NetName=NetLED26_2 Pin=LED26-2
+Added Pin To Net: NetName=EXT_OUT_CH0 Pin=QE1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE1-3
+Added Pin To Net: NetName=EXT_OUT_CH1 Pin=QE2-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE2-3
+Added Pin To Net: NetName=EXT_OUT_CH2 Pin=QE3-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE3-3
+Added Pin To Net: NetName=EXT_OUT_CH3 Pin=QE4-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE4-3
+Added Pin To Net: NetName=EXT_OUT_CH4 Pin=QE5-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE5-3
+Added Pin To Net: NetName=EXT_OUT_CH5 Pin=QE6-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE6-3
+Added Pin To Net: NetName=EXT_OUT_CH6 Pin=QE7-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE7-3
+Added Pin To Net: NetName=EXT_OUT_CH7 Pin=QE8-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE8-3
+Added Pin To Net: NetName=EXT_OUT_CH8 Pin=QE9-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE9-3
+Added Pin To Net: NetName=EXT_OUT_CH9 Pin=QE10-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE10-3
+Added Pin To Net: NetName=EXT_OUT_CH10 Pin=QE11-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE11-3
+Added Pin To Net: NetName=EXT_OUT_CH11 Pin=QE12-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE12-3
+Added Pin To Net: NetName=EXT_OUT_CH12 Pin=QE13-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE13-3
+Added Pin To Net: NetName=EXT_OUT_CH13 Pin=QE14-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE14-3
+Added Pin To Net: NetName=EXT_OUT_CH14 Pin=QE15-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE15-3
+Added Pin To Net: NetName=EXT_OUT_CH15 Pin=QE16-2
+Added Pin To Net: NetName=NetLED1_2 Pin=QE16-3
+Added Pin To Net: NetName=VCC24V Pin=R1-1
+Added Pin To Net: NetName=OUTPUT10 Pin=R2-1
+Added Pin To Net: NetName=OUTPUT1 Pin=R3-1
+Added Pin To Net: NetName=NetR23_1 Pin=R4-1
+Added Pin To Net: NetName=NetR22_1 Pin=R5-1
+Added Pin To Net: NetName=NetR20_2 Pin=R6-1
+Added Pin To Net: NetName=NetR19_2 Pin=R7-1
+Added Pin To Net: NetName=NetR18_2 Pin=R8-1
+Added Pin To Net: NetName=NetR16_1 Pin=R9-1
+Added Pin To Net: NetName=NetLED25_2 Pin=R10-1
+Added Pin To Net: NetName=NetLED20_2 Pin=R11-1
+Added Pin To Net: NetName=NetLED19_2 Pin=R12-1
+Added Pin To Net: NetName=NetLED18_2 Pin=R13-1
+Added Pin To Net: NetName=NetLED17_2 Pin=R14-1
+Added Pin To Net: NetName=NetLED4_2 Pin=R15-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R16-1
+Added Pin To Net: NetName=NetP1_1 Pin=R17-1
+Added Pin To Net: NetName=NetP1_1 Pin=R17-2
+Added Pin To Net: NetName=VDD33V Pin=R18-1
+Added Pin To Net: NetName=SDDATA1 Pin=R18-2
+Added Pin To Net: NetName=SDDATA0 Pin=R19-2
+Added Pin To Net: NetName=SDCLK Pin=R20-2
+Added Pin To Net: NetName=VDD33V Pin=R21-1
+Added Pin To Net: NetName=SDCMD Pin=R21-2
+Added Pin To Net: NetName=VDD33V Pin=R22-1
+Added Pin To Net: NetName=SDDATA3 Pin=R22-2
+Added Pin To Net: NetName=VDD33V Pin=R23-1
+Added Pin To Net: NetName=SDDATA2 Pin=R23-2
+Added Pin To Net: NetName=VDD33V Pin=R24-1
+Added Pin To Net: NetName=WP_SD_1 Pin=R24-2
+Added Pin To Net: NetName=VDD33V Pin=R25-1
+Added Pin To Net: NetName=NCD_SD Pin=R25-2
+Added Pin To Net: NetName=WP_SD_1 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=WP_SD_1 Pin=R27-1
+Added Pin To Net: NetName=WP_SD Pin=R27-2
+Added Pin To Net: NetName=VDD33V Pin=R28-2
+Added Pin To Net: NetName=485_A Pin=R29-1
+Added Pin To Net: NetName=485_B Pin=R29-2
+Added Pin To Net: NetName=USART3_TX Pin=R30-1
+Added Pin To Net: NetName=USART3_RX Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=FSMC_NE2 Pin=R33-1
+Added Pin To Net: NetName=VDD33V Pin=R33-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=VDD33V Pin=R35-1
+Added Pin To Net: NetName=VDD33V Pin=R36-1
+Added Pin To Net: NetName=485_B Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Pin To Net: NetName=LEDB Pin=R38-2
+Added Pin To Net: NetName=LEDA Pin=R39-2
+Added Pin To Net: NetName=NetC12_2 Pin=R40-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R40-2
+Added Pin To Net: NetName=NetC12_2 Pin=R41-1
+Added Pin To Net: NetName=NetJ1_2 Pin=R41-2
+Added Pin To Net: NetName=NetC13_2 Pin=R42-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R42-2
+Added Pin To Net: NetName=NetC13_2 Pin=R43-1
+Added Pin To Net: NetName=NetJ1_6 Pin=R43-2
+Added Pin To Net: NetName=NetLED5_2 Pin=RH1-1
+Added Pin To Net: NetName=NetLED6_2 Pin=RH2-1
+Added Pin To Net: NetName=NetLED7_1 Pin=RH3-1
+Added Pin To Net: NetName=NetLED8_2 Pin=RH4-1
+Added Pin To Net: NetName=NetLED9_2 Pin=RH5-1
+Added Pin To Net: NetName=NetLED2_2 Pin=RH5-2
+Added Pin To Net: NetName=NetLED10_1 Pin=RH6-1
+Added Pin To Net: NetName=NetLED11_2 Pin=RH7-1
+Added Pin To Net: NetName=NetLED12_2 Pin=RH8-1
+Added Pin To Net: NetName=NetLED14_2 Pin=RH10-1
+Added Pin To Net: NetName=NetLED15_2 Pin=RH11-1
+Added Pin To Net: NetName=NetLED16_1 Pin=RH12-1
+Added Pin To Net: NetName=NetLED22_2 Pin=RH14-1
+Added Pin To Net: NetName=NetLED23_2 Pin=RH15-1
+Added Pin To Net: NetName=OUTPUT12 Pin=RH15-2
+Added Pin To Net: NetName=NetLED24_1 Pin=RH16-1
+Added Pin To Net: NetName=NetLED26_2 Pin=RH18-1
+Added Pin To Net: NetName=NetLED5_1 Pin=TL1-2
+Added Pin To Net: NetName=NetLED8_1 Pin=TL1-4
+Added Pin To Net: NetName=NetLED11_1 Pin=TL1-6
+Added Pin To Net: NetName=NetLED14_1 Pin=TL1-8
+Added Pin To Net: NetName=NetR23_1 Pin=TL1-10
+Added Pin To Net: NetName=OUTPUT1 Pin=TL1-12
+Added Pin To Net: NetName=OUTPUT10 Pin=TL1-14
+Added Pin To Net: NetName=VCC24V Pin=TL1-16
+Added Pin To Net: NetName=NetLED6_1 Pin=TL2-2
+Added Pin To Net: NetName=NetLED9_1 Pin=TL2-4
+Added Pin To Net: NetName=NetLED12_1 Pin=TL2-6
+Added Pin To Net: NetName=NetLED15_1 Pin=TL2-8
+Added Pin To Net: NetName=NetLED19_2 Pin=TL2-10
+Added Pin To Net: NetName=NetLED20_2 Pin=TL2-12
+Added Pin To Net: NetName=NetLED25_2 Pin=TL2-14
+Added Pin To Net: NetName=NetR16_1 Pin=TL2-16
+Added Pin To Net: NetName=NetLED7_2 Pin=TL3-1
+Added Pin To Net: NetName=NetLED10_2 Pin=TL3-3
+Added Pin To Net: NetName=NetLED16_2 Pin=TL3-7
+Added Pin To Net: NetName=NetLED22_1 Pin=TL4-2
+Added Pin To Net: NetName=NetR18_2 Pin=TL4-10
+Added Pin To Net: NetName=NetR19_2 Pin=TL4-12
+Added Pin To Net: NetName=NetR20_2 Pin=TL4-14
+Added Pin To Net: NetName=NetR22_1 Pin=TL4-16
+Added Pin To Net: NetName=NetLED23_1 Pin=TL5-2
+Added Pin To Net: NetName=NetLED3_2 Pin=TL5-10
+Added Pin To Net: NetName=NetLED4_2 Pin=TL5-12
+Added Pin To Net: NetName=NetLED17_2 Pin=TL5-14
+Added Pin To Net: NetName=NetLED18_2 Pin=TL5-16
+Added Pin To Net: NetName=NetLED24_2 Pin=TL6-3
+Change Net Name : Old Net Name=EXT_IN_CH3 New Net Name=OUTPUT11
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=P24
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=OUTPUT9
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=OUT_CH15
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=OUT_CH14
+Change Net Name : Old Net Name=NetLED13_1 New Net Name=NetLED25_1
+Change Net Name : Old Net Name=NetLED13_2 New Net Name=NetLED25_2
+Change Net Name : Old Net Name=NetLED17_2 New Net Name=OUT_CH13
+Change Net Name : Old Net Name=NetLED18_2 New Net Name=OUT_CH12
+Change Net Name : Old Net Name=NetLED19_2 New Net Name=OUT_CH11
+Change Net Name : Old Net Name=NetLED20_2 New Net Name=OUT_CH10
+Change Net Name : Old Net Name=NetLED21_1 New Net Name=NetLED31_1
+Change Net Name : Old Net Name=NetLED21_2 New Net Name=NetLED31_2
+Change Net Name : Old Net Name=NetLED25_2 New Net Name=OUT_CH9
+Change Net Name : Old Net Name=NetR16_1 New Net Name=OUT_CH8
+Change Net Name : Old Net Name=NetR18_2 New Net Name=OUT_CH7
+Change Net Name : Old Net Name=NetR19_2 New Net Name=OUT_CH6
+Change Net Name : Old Net Name=NetR20_2 New Net Name=OUT_CH5
+Change Net Name : Old Net Name=NetR22_1 New Net Name=OUT_CH4
+Change Net Name : Old Net Name=NetR23_1 New Net Name=OUT_CH3
+Change Net Name : Old Net Name=OUTPUT1 New Net Name=OUT_CH2
+Change Net Name : Old Net Name=OUTPUT9 New Net Name=OUTPUT1
+Change Net Name : Old Net Name=OUTPUT10 New Net Name=OUT_CH1
+Change Net Name : Old Net Name=OUTPUT11 New Net Name=OUTPUT10
+Change Net Name : Old Net Name=VCC24V New Net Name=OUT_CH0
+Added Pin To Net: NetName=EXT_IN_CH3 Pin=RH13-2
+Added Net: Name=EXT_IN_CH3
+Added Pin To Net: NetName=N24V Pin=DE1-1
+Added Pin To Net: NetName=N24V Pin=DE2-1
+Added Pin To Net: NetName=N24V Pin=DE3-1
+Added Pin To Net: NetName=N24V Pin=DE4-1
+Added Pin To Net: NetName=N24V Pin=DE5-1
+Added Pin To Net: NetName=N24V Pin=DE6-1
+Added Pin To Net: NetName=N24V Pin=DE7-1
+Added Pin To Net: NetName=N24V Pin=DE8-1
+Added Pin To Net: NetName=N24V Pin=DE9-1
+Added Pin To Net: NetName=N24V Pin=DE10-1
+Added Pin To Net: NetName=N24V Pin=DE11-1
+Added Pin To Net: NetName=N24V Pin=DE12-1
+Added Pin To Net: NetName=N24V Pin=DE13-1
+Added Pin To Net: NetName=N24V Pin=DE14-1
+Added Pin To Net: NetName=N24V Pin=DE15-1
+Added Pin To Net: NetName=N24V Pin=DE16-1
+Added Pin To Net: NetName=N24V Pin=LED1-2
+Added Pin To Net: NetName=N24V Pin=LED2-2
+Added Pin To Net: NetName=N24V Pin=LED3-2
+Added Pin To Net: NetName=N24V Pin=LED4-2
+Added Pin To Net: NetName=N24V Pin=LED17-2
+Added Pin To Net: NetName=N24V Pin=LED18-2
+Added Pin To Net: NetName=N24V Pin=LED19-2
+Added Pin To Net: NetName=N24V Pin=LED20-2
+Added Pin To Net: NetName=N24V Pin=LED33-2
+Added Pin To Net: NetName=N24V Pin=LED34-2
+Added Pin To Net: NetName=N24V Pin=LED35-2
+Added Pin To Net: NetName=N24V Pin=LED36-2
+Added Pin To Net: NetName=N24V Pin=LED37-2
+Added Pin To Net: NetName=N24V Pin=LED38-2
+Added Pin To Net: NetName=N24V Pin=LED39-2
+Added Pin To Net: NetName=N24V Pin=LED40-2
+Added Pin To Net: NetName=N24V Pin=TL3-2
+Added Pin To Net: NetName=N24V Pin=TL3-4
+Added Pin To Net: NetName=N24V Pin=TL3-6
+Added Pin To Net: NetName=N24V Pin=TL3-8
+Added Pin To Net: NetName=N24V Pin=TL6-2
+Added Pin To Net: NetName=N24V Pin=TL6-4
+Added Pin To Net: NetName=N24V Pin=TL6-6
+Added Pin To Net: NetName=N24V Pin=TL6-8
+Added Net: Name=N24V
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_1 Pin=RH9-1
+Added Net: Name=NetLED13_1
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=TL3-5
+Added Net: Name=NetLED13_2
+Added Pin To Net: NetName=NetLED21_1 Pin=LED21-1
+Added Pin To Net: NetName=NetLED21_1 Pin=RH13-1
+Added Net: Name=NetLED21_1
+Added Pin To Net: NetName=NetLED21_2 Pin=LED21-2
+Added Pin To Net: NetName=NetLED21_2 Pin=TL6-1
+Added Net: Name=NetLED21_2
+Added Pin To Net: NetName=NetLED26_1 Pin=LED26-1
+Added Pin To Net: NetName=NetLED26_1 Pin=TL5-4
+Added Net: Name=NetLED26_1
+Added Pin To Net: NetName=NetLED27_1 Pin=LED27-1
+Added Pin To Net: NetName=NetLED27_1 Pin=RH19-1
+Added Net: Name=NetLED27_1
+Added Pin To Net: NetName=NetLED27_2 Pin=LED27-2
+Added Pin To Net: NetName=NetLED27_2 Pin=TL6-5
+Added Net: Name=NetLED27_2
+Added Pin To Net: NetName=NetLED28_1 Pin=LED28-1
+Added Pin To Net: NetName=NetLED28_1 Pin=TL4-6
+Added Net: Name=NetLED28_1
+Added Pin To Net: NetName=NetLED28_2 Pin=LED28-2
+Added Pin To Net: NetName=NetLED28_2 Pin=RH20-1
+Added Net: Name=NetLED28_2
+Added Pin To Net: NetName=NetLED29_1 Pin=LED29-1
+Added Pin To Net: NetName=NetLED29_1 Pin=TL5-6
+Added Net: Name=NetLED29_1
+Added Pin To Net: NetName=NetLED29_2 Pin=LED29-2
+Added Pin To Net: NetName=NetLED29_2 Pin=RH21-1
+Added Net: Name=NetLED29_2
+Added Pin To Net: NetName=NetLED30_1 Pin=LED30-1
+Added Pin To Net: NetName=NetLED30_1 Pin=RH22-1
+Added Net: Name=NetLED30_1
+Added Pin To Net: NetName=NetLED30_2 Pin=LED30-2
+Added Pin To Net: NetName=NetLED30_2 Pin=TL6-7
+Added Net: Name=NetLED30_2
+Added Pin To Net: NetName=NetLED32_1 Pin=LED32-1
+Added Pin To Net: NetName=NetLED32_1 Pin=TL5-8
+Added Net: Name=NetLED32_1
+Added Pin To Net: NetName=NetLED32_2 Pin=LED32-2
+Added Pin To Net: NetName=NetLED32_2 Pin=RH24-1
+Added Net: Name=NetLED32_2
+Added Pin To Net: NetName=NetLED33_1 Pin=LED33-1
+Added Net: Name=NetLED33_1
+Added Pin To Net: NetName=NetLED34_1 Pin=LED34-1
+Added Net: Name=NetLED34_1
+Added Pin To Net: NetName=NetLED35_1 Pin=LED35-1
+Added Net: Name=NetLED35_1
+Added Pin To Net: NetName=NetLED36_1 Pin=LED36-1
+Added Net: Name=NetLED36_1
+Added Pin To Net: NetName=NetLED37_1 Pin=LED37-1
+Added Net: Name=NetLED37_1
+Added Pin To Net: NetName=NetLED38_1 Pin=LED38-1
+Added Net: Name=NetLED38_1
+Added Pin To Net: NetName=NetLED39_1 Pin=LED39-1
+Added Net: Name=NetLED39_1
+Added Pin To Net: NetName=NetLED40_1 Pin=LED40-1
+Added Net: Name=NetLED40_1
+Added Pin To Net: NetName=NetLED41_2 Pin=LED41-2
+Added Pin To Net: NetName=NetLED41_2 Pin=R30-2
+Added Net: Name=NetLED41_2
+Added Pin To Net: NetName=NetLED42_2 Pin=LED42-2
+Added Pin To Net: NetName=NetLED42_2 Pin=R31-2
+Added Net: Name=NetLED42_2
+Added Pin To Net: NetName=NetQE1_1 Pin=QE1-1
+Added Pin To Net: NetName=NetQE1_1 Pin=R1-2
+Added Net: Name=NetQE1_1
+Added Pin To Net: NetName=NetQE2_1 Pin=QE2-1
+Added Pin To Net: NetName=NetQE2_1 Pin=R2-2
+Added Net: Name=NetQE2_1
+Added Pin To Net: NetName=NetQE3_1 Pin=QE3-1
+Added Pin To Net: NetName=NetQE3_1 Pin=R3-2
+Added Net: Name=NetQE3_1
+Added Pin To Net: NetName=NetQE4_1 Pin=QE4-1
+Added Pin To Net: NetName=NetQE4_1 Pin=R4-2
+Added Net: Name=NetQE4_1
+Added Pin To Net: NetName=NetQE5_1 Pin=QE5-1
+Added Pin To Net: NetName=NetQE5_1 Pin=R5-2
+Added Net: Name=NetQE5_1
+Added Pin To Net: NetName=NetQE6_1 Pin=QE6-1
+Added Pin To Net: NetName=NetQE6_1 Pin=R6-2
+Added Net: Name=NetQE6_1
+Added Pin To Net: NetName=NetQE7_1 Pin=QE7-1
+Added Pin To Net: NetName=NetQE7_1 Pin=R7-2
+Added Net: Name=NetQE7_1
+Added Pin To Net: NetName=NetQE8_1 Pin=QE8-1
+Added Pin To Net: NetName=NetQE8_1 Pin=R8-2
+Added Net: Name=NetQE8_1
+Added Pin To Net: NetName=NetQE9_1 Pin=QE9-1
+Added Pin To Net: NetName=NetQE9_1 Pin=R9-2
+Added Net: Name=NetQE9_1
+Added Pin To Net: NetName=NetQE10_1 Pin=QE10-1
+Added Pin To Net: NetName=NetQE10_1 Pin=R10-2
+Added Net: Name=NetQE10_1
+Added Pin To Net: NetName=NetQE11_1 Pin=QE11-1
+Added Pin To Net: NetName=NetQE11_1 Pin=R11-2
+Added Net: Name=NetQE11_1
+Added Pin To Net: NetName=NetQE12_1 Pin=QE12-1
+Added Pin To Net: NetName=NetQE12_1 Pin=R12-2
+Added Net: Name=NetQE12_1
+Added Pin To Net: NetName=NetQE13_1 Pin=QE13-1
+Added Pin To Net: NetName=NetQE13_1 Pin=R13-2
+Added Net: Name=NetQE13_1
+Added Pin To Net: NetName=NetQE14_1 Pin=QE14-1
+Added Pin To Net: NetName=NetQE14_1 Pin=R14-2
+Added Net: Name=NetQE14_1
+Added Pin To Net: NetName=NetQE15_1 Pin=QE15-1
+Added Pin To Net: NetName=NetQE15_1 Pin=R15-2
+Added Net: Name=NetQE15_1
+Added Pin To Net: NetName=NetQE16_1 Pin=QE16-1
+Added Pin To Net: NetName=NetQE16_1 Pin=R16-2
+Added Net: Name=NetQE16_1
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR32_1 Pin=U3-40
+Added Net: Name=NetR32_1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U3-1
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U3-21
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U3-20
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U3-38
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U3-39
+Added Net: Name=NetR39_1
+Added Member To Class: ClassName=电眼主板 Member=Component C5 电容(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE1 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE2 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE3 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE4 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE5 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE6 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE7 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE8 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE9 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE10 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE11 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE12 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE13 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE14 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE15 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component DE16 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component LED27 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED28 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED29 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED30 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED31 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED32 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED33 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED34 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED35 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED36 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED37 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED38 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED39 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED40 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED41 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED42 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component QE1 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE2 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE3 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE4 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE5 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE6 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE7 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE8 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE9 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE10 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE11 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE12 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE13 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE14 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE15 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component QE16 三极管(直插)
+Added Member To Class: ClassName=电眼主板 Member=Component R21 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R22 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R28 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R29 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R30 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R31 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R32 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R33 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R34 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R35 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R36 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R37 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R38 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R39 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R40 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R41 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R42 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R43 电阻(贴片)
+Added Room: Name=电眼主板

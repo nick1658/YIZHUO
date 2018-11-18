@@ -1,0 +1,11 @@
+Change Component Comment : Designator=FB1 Old Comment=120E 2A New Comment=220R 2A
+Added Pin To Net: NetName=TPRX+ Pin=J1-1
+Added Pin To Net: NetName=TPRX- Pin=J1-2
+Added Pin To Net: NetName=TPTX+ Pin=J1-3
+Added Pin To Net: NetName=TPTX- Pin=J1-6
+Added Pin To Net: NetName=VDD33V Pin=J1-9
+Added Pin To Net: NetName=VDD33V Pin=J1-12
+Added Pin To Net: NetName=TPRX+ Pin=R42-2
+Added Pin To Net: NetName=TPRX- Pin=R43-2
+Added Pin To Net: NetName=TPTX+ Pin=R44-2
+Added Pin To Net: NetName=TPTX- Pin=R45-2

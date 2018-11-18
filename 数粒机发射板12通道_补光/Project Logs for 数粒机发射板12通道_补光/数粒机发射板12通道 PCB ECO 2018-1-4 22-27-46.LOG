@@ -1,0 +1,10 @@
+Added Component: Designator=C9(CC6.56.5)
+Added Component: Designator=U17(AMS1117)
+Added Pin To Net: NetName=VDD33V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=VDD33V Pin=U17-2
+Added Pin To Net: NetName=VCC5V Pin=U17-3
+Added Pin To Net: NetName=VDD33V Pin=U17-4
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C9 贴片电解电容
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component U17 AMS1117-3.3

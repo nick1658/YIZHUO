@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=VDD33V Pin=JTAG1-1
+Removed Pin From Net: NetName=VDD33V Pin=JTAG1-2
+Removed Pin From Net: NetName=JTRST Pin=JTAG1-3
+Removed Pin From Net: NetName=GND Pin=JTAG1-4
+Removed Pin From Net: NetName=JTDI Pin=JTAG1-5
+Removed Pin From Net: NetName=GND Pin=JTAG1-6
+Removed Pin From Net: NetName=JTMS Pin=JTAG1-7
+Removed Pin From Net: NetName=GND Pin=JTAG1-8
+Removed Pin From Net: NetName=JTCK Pin=JTAG1-9
+Removed Pin From Net: NetName=GND Pin=JTAG1-10
+Removed Pin From Net: NetName=GND Pin=JTAG1-12
+Removed Pin From Net: NetName=JTDO Pin=JTAG1-13
+Removed Pin From Net: NetName=GND Pin=JTAG1-14
+Removed Pin From Net: NetName=RESET Pin=JTAG1-15
+Removed Pin From Net: NetName=GND Pin=JTAG1-16
+Removed Pin From Net: NetName=GND Pin=JTAG1-18
+Removed Pin From Net: NetName=GND Pin=JTAG1-20
+Removed Member From Class: ClassName=电眼主板 Member=JTAG1
+Added Component: Designator=JTAG(STM32JTAG)
+Added Pin To Net: NetName=VDD33V Pin=JTAG-1
+Added Pin To Net: NetName=VDD33V Pin=JTAG-2
+Added Pin To Net: NetName=JTRST Pin=JTAG-3
+Added Pin To Net: NetName=GND Pin=JTAG-4
+Added Pin To Net: NetName=JTDI Pin=JTAG-5
+Added Pin To Net: NetName=GND Pin=JTAG-6
+Added Pin To Net: NetName=JTMS Pin=JTAG-7
+Added Pin To Net: NetName=GND Pin=JTAG-8
+Added Pin To Net: NetName=JTCK Pin=JTAG-9
+Added Pin To Net: NetName=GND Pin=JTAG-10
+Added Pin To Net: NetName=GND Pin=JTAG-12
+Added Pin To Net: NetName=JTDO Pin=JTAG-13
+Added Pin To Net: NetName=GND Pin=JTAG-14
+Added Pin To Net: NetName=RESET Pin=JTAG-15
+Added Pin To Net: NetName=GND Pin=JTAG-16
+Added Pin To Net: NetName=GND Pin=JTAG-18
+Added Pin To Net: NetName=GND Pin=JTAG-20
+Added Member To Class: ClassName=电眼主板 Member=Component JTAG Stm32Jtag

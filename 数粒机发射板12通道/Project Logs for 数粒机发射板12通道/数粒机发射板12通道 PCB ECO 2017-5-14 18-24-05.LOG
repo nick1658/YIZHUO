@@ -1,0 +1,211 @@
+Removed Pin From Net: NetName=A-VOUT1_0 Pin=D1a-1
+Removed Pin From Net: NetName=A-VOUT2_0 Pin=D2a-1
+Removed Pin From Net: NetName=A-VOUT3_0 Pin=D3a-1
+Removed Pin From Net: NetName=A-VOUT4_0 Pin=D4a-1
+Removed Pin From Net: NetName=A-VOUT1_0 Pin=P1-1
+Removed Pin From Net: NetName=A-VOUT2_0 Pin=P1-2
+Removed Pin From Net: NetName=A-VOUT3_0 Pin=P1-4
+Removed Pin From Net: NetName=A-VOUT4_0 Pin=P1-6
+Removed Pin From Net: NetName=A-VOUT5_0 Pin=P1-8
+Removed Pin From Net: NetName=A-VOUT6_0 Pin=P1-10
+Removed Pin From Net: NetName=GND Pin=P1-11
+Removed Pin From Net: NetName=A-VOUT7_0 Pin=P1-12
+Removed Pin From Net: NetName=GND Pin=P1-13
+Removed Pin From Net: NetName=A-VOUT8_0 Pin=P1-14
+Removed Pin From Net: NetName=GND Pin=P1-15
+Removed Pin From Net: NetName=GND Pin=P1-17
+Change Component Footprint: Designator=D1a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D1b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D1c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D1d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D2a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D2b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D2c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D2d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D3a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D3b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D3c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D3d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D4a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D4b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D4c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D4d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D5a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D5b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D5c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D5d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D6a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D6b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D6c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D6d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D7a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D7b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D7c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D7d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D8a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D8b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D8c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D8d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D9a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D9b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D9c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D9d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D10a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D10b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D10c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D10d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D11a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D11b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D11c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D11d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12a Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12b Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12c Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Footprint: Designator=D12d Old Footprint=SEND-LED New Footprint=EL-1KL3
+Change Component Comment : Designator=D12d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D12c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D12b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D12a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D11d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D11c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D11b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D11a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D10d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D10c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D10b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D10a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D9d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D9c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D9b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D9a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D8d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D8c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D8b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D8a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D7d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D7c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D7b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D7a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D6d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D6c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D6b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D6a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D5d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D5c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D5b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D5a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D4d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D4c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D4b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D4a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D3d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D3c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D3b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D3a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D2d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D2c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D2b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D2a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D1d Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D1c Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D1b Old Comment=红外发射珠子 New Comment=红外接收珠子
+Change Component Comment : Designator=D1a Old Comment=红外发射珠子 New Comment=红外接收珠子
+Added Component: Designator=P(niujiaocha20p)
+Added Pin To Net: NetName=A-VOUT8_0 Pin=D1a-1
+Added Pin To Net: NetName=A-VOUT7_0 Pin=D2a-1
+Added Pin To Net: NetName=A-VOUT6_0 Pin=D3a-1
+Added Pin To Net: NetName=A-VOUT5_0 Pin=D4a-1
+Added Pin To Net: NetName=A-VOUT4_0 Pin=D5a-1
+Added Pin To Net: NetName=NetD5a_2 Pin=D5a-2
+Added Pin To Net: NetName=NetD5a_2 Pin=D5b-1
+Added Pin To Net: NetName=NetD5b_2 Pin=D5b-2
+Added Pin To Net: NetName=NetD5b_2 Pin=D5c-1
+Added Pin To Net: NetName=NetD5c_2 Pin=D5c-2
+Added Pin To Net: NetName=NetD5c_2 Pin=D5d-1
+Added Pin To Net: NetName=GND Pin=D5d-2
+Added Pin To Net: NetName=A-VOUT3_0 Pin=D6a-1
+Added Pin To Net: NetName=NetD6a_2 Pin=D6a-2
+Added Pin To Net: NetName=NetD6a_2 Pin=D6b-1
+Added Pin To Net: NetName=NetD6b_2 Pin=D6b-2
+Added Pin To Net: NetName=NetD6b_2 Pin=D6c-1
+Added Pin To Net: NetName=NetD6c_2 Pin=D6c-2
+Added Pin To Net: NetName=NetD6c_2 Pin=D6d-1
+Added Pin To Net: NetName=GND Pin=D6d-2
+Added Pin To Net: NetName=A-VOUT2_0 Pin=D7a-1
+Added Pin To Net: NetName=NetD7a_2 Pin=D7a-2
+Added Pin To Net: NetName=NetD7a_2 Pin=D7b-1
+Added Pin To Net: NetName=NetD7b_2 Pin=D7b-2
+Added Pin To Net: NetName=NetD7b_2 Pin=D7c-1
+Added Pin To Net: NetName=NetD7c_2 Pin=D7c-2
+Added Pin To Net: NetName=NetD7c_2 Pin=D7d-1
+Added Pin To Net: NetName=GND Pin=D7d-2
+Added Pin To Net: NetName=A-VOUT1_0 Pin=D8a-1
+Added Pin To Net: NetName=NetD8a_2 Pin=D8a-2
+Added Pin To Net: NetName=NetD8a_2 Pin=D8b-1
+Added Pin To Net: NetName=NetD8b_2 Pin=D8b-2
+Added Pin To Net: NetName=NetD8b_2 Pin=D8c-1
+Added Pin To Net: NetName=NetD8c_2 Pin=D8c-2
+Added Pin To Net: NetName=NetD8c_2 Pin=D8d-1
+Added Pin To Net: NetName=GND Pin=D8d-2
+Added Pin To Net: NetName=A-PA6_0 Pin=D9a-1
+Added Pin To Net: NetName=NetD9a_2 Pin=D9a-2
+Added Pin To Net: NetName=NetD9a_2 Pin=D9b-1
+Added Pin To Net: NetName=NetD9b_2 Pin=D9b-2
+Added Pin To Net: NetName=NetD9b_2 Pin=D9c-1
+Added Pin To Net: NetName=NetD9c_2 Pin=D9c-2
+Added Pin To Net: NetName=NetD9c_2 Pin=D9d-1
+Added Pin To Net: NetName=GND Pin=D9d-2
+Added Pin To Net: NetName=A-PA5_0 Pin=D10a-1
+Added Pin To Net: NetName=NetD10a_2 Pin=D10a-2
+Added Pin To Net: NetName=NetD10a_2 Pin=D10b-1
+Added Pin To Net: NetName=NetD10b_2 Pin=D10b-2
+Added Pin To Net: NetName=NetD10b_2 Pin=D10c-1
+Added Pin To Net: NetName=NetD10c_2 Pin=D10c-2
+Added Pin To Net: NetName=NetD10c_2 Pin=D10d-1
+Added Pin To Net: NetName=GND Pin=D10d-2
+Added Pin To Net: NetName=A-PA4_0 Pin=D11a-1
+Added Pin To Net: NetName=NetD11a_2 Pin=D11a-2
+Added Pin To Net: NetName=NetD11a_2 Pin=D11b-1
+Added Pin To Net: NetName=NetD11b_2 Pin=D11b-2
+Added Pin To Net: NetName=NetD11b_2 Pin=D11c-1
+Added Pin To Net: NetName=NetD11c_2 Pin=D11c-2
+Added Pin To Net: NetName=NetD11c_2 Pin=D11d-1
+Added Pin To Net: NetName=GND Pin=D11d-2
+Added Pin To Net: NetName=A-PA4'_0 Pin=D12a-1
+Added Pin To Net: NetName=NetD12a_2 Pin=D12a-2
+Added Pin To Net: NetName=NetD12a_2 Pin=D12b-1
+Added Pin To Net: NetName=NetD12b_2 Pin=D12b-2
+Added Pin To Net: NetName=NetD12b_2 Pin=D12c-1
+Added Pin To Net: NetName=NetD12c_2 Pin=D12c-2
+Added Pin To Net: NetName=NetD12c_2 Pin=D12d-1
+Added Pin To Net: NetName=GND Pin=D12d-2
+Added Pin To Net: NetName=A-VOUT8_0 Pin=P-1
+Added Pin To Net: NetName=A-VOUT7_0 Pin=P-2
+Added Pin To Net: NetName=A-VOUT6_0 Pin=P-4
+Added Pin To Net: NetName=A-VOUT5_0 Pin=P-6
+Added Pin To Net: NetName=A-VOUT4_0 Pin=P-8
+Added Pin To Net: NetName=A-VOUT3_0 Pin=P-10
+Added Pin To Net: NetName=GND Pin=P-11
+Added Pin To Net: NetName=A-VOUT2_0 Pin=P-12
+Added Pin To Net: NetName=GND Pin=P-13
+Added Pin To Net: NetName=A-VOUT1_0 Pin=P-14
+Added Pin To Net: NetName=GND Pin=P-15
+Added Pin To Net: NetName=A-PA6_0 Pin=P-16
+Added Pin To Net: NetName=GND Pin=P-17
+Added Pin To Net: NetName=A-PA5_0 Pin=P-18
+Added Pin To Net: NetName=A-PA4'_0 Pin=P-19
+Added Pin To Net: NetName=A-PA4_0 Pin=P-20
+Change Net Name : Old Net Name=A-PA4'_0 New Net Name=VOUT12
+Change Net Name : Old Net Name=A-PA4_0 New Net Name=VOUT11
+Change Net Name : Old Net Name=A-PA5_0 New Net Name=VOUT10
+Change Net Name : Old Net Name=A-PA6_0 New Net Name=VOUT9
+Change Net Name : Old Net Name=A-VOUT1_0 New Net Name=VOUT8
+Change Net Name : Old Net Name=A-VOUT2_0 New Net Name=VOUT7
+Change Net Name : Old Net Name=A-VOUT3_0 New Net Name=VOUT6
+Change Net Name : Old Net Name=A-VOUT4_0 New Net Name=VOUT5
+Change Net Name : Old Net Name=A-VOUT5_0 New Net Name=VOUT4
+Change Net Name : Old Net Name=A-VOUT6_0 New Net Name=VOUT3
+Change Net Name : Old Net Name=A-VOUT7_0 New Net Name=VOUT2
+Change Net Name : Old Net Name=A-VOUT8_0 New Net Name=VOUT1
+Added Class: Name=数粒机发射板12通道
+Added Room: Name=数粒机发射板12通道

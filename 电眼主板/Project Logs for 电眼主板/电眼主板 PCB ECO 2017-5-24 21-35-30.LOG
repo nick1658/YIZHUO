@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=电眼主板 Member=U8
+Change Component Footprint: Designator=U8 Old Footprint=mTQFP48 New Footprint=dm9000
+Change Component Footprint: Designator=U8 Old Footprint=dm9000 New Footprint=sop8
+Change Component Comment : Designator=U8 Old Comment=DM9000 New Comment=集成电路

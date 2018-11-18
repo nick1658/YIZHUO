@@ -1,0 +1,9 @@
+Added Component: Designator=D6(D1206)
+Added Component: Designator=D7(D1206)
+Added Pin To Net: NetName=VCC5V Pin=D6-2
+Added Pin To Net: NetName=VCC6 Pin=D7-1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D7-2
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component D6 二极管(贴片)
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component D7 二极管(贴片)

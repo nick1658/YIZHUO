@@ -1,0 +1,234 @@
+Removed Pin From Net: NetName=VCC6 Pin=C6-2
+Removed Pin From Net: NetName=VCC6 Pin=CT2-1
+Removed Pin From Net: NetName=VOUT1 Pin=D1a-1
+Removed Pin From Net: NetName=VOUT2 Pin=D2a-1
+Removed Pin From Net: NetName=VOUT3 Pin=D3a-1
+Removed Pin From Net: NetName=VOUT4 Pin=D4a-1
+Removed Pin From Net: NetName=VOUT5 Pin=D5a-1
+Removed Pin From Net: NetName=VOUT6 Pin=D6a-1
+Removed Pin From Net: NetName=VOUT7 Pin=D7a-1
+Removed Pin From Net: NetName=VOUT8 Pin=D8a-1
+Removed Pin From Net: NetName=VOUT9 Pin=D9a-1
+Removed Pin From Net: NetName=VOUT10 Pin=D10a-1
+Removed Pin From Net: NetName=VOUT11 Pin=D11a-1
+Removed Pin From Net: NetName=VOUT12 Pin=D12a-1
+Removed Pin From Net: NetName=VOUT1 Pin=R3-2
+Removed Pin From Net: NetName=NetR6_1 Pin=R8-3
+Removed Pin From Net: NetName=VOUT2 Pin=R9-2
+Removed Pin From Net: NetName=VOUT3 Pin=R10-2
+Removed Pin From Net: NetName=VOUT4 Pin=R11-2
+Removed Pin From Net: NetName=VOUT5 Pin=R12-2
+Removed Pin From Net: NetName=VOUT6 Pin=R13-2
+Removed Pin From Net: NetName=VOUT7 Pin=R14-2
+Removed Pin From Net: NetName=VOUT8 Pin=R15-2
+Removed Pin From Net: NetName=VOUT9 Pin=R16-2
+Removed Pin From Net: NetName=VOUT10 Pin=R17-2
+Removed Pin From Net: NetName=VOUT11 Pin=R18-2
+Removed Pin From Net: NetName=VOUT12 Pin=R19-2
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-1
+Removed Pin From Net: NetName=VCC6 Pin=U2-20
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R3
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R9
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R10
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R11
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R12
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R13
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R14
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R15
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R16
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R17
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R18
+Removed Member From Class: ClassName=数粒机发射板12通道 Member=R19
+Change Component Comment : Designator=R2 Old Comment=4K %1 New Comment=3.87K %1
+Added Component: Designator=C21(0805C)
+Added Component: Designator=C22(0805C)
+Added Component: Designator=C23(0805C)
+Added Component: Designator=C24(0805C)
+Added Component: Designator=C25(0805C)
+Added Component: Designator=C26(0805C)
+Added Component: Designator=C27(0805C)
+Added Component: Designator=C28(0805C)
+Added Component: Designator=C29(0805C)
+Added Component: Designator=C30(0805C)
+Added Component: Designator=C31(0805C)
+Added Component: Designator=C32(0805C)
+Added Component: Designator=C33(0805C)
+Added Component: Designator=C34(0805C)
+Added Component: Designator=C35(0805C)
+Added Component: Designator=C36(0805C)
+Added Component: Designator=C37(0805C)
+Added Component: Designator=C38(0805C)
+Added Component: Designator=C39(0805C)
+Added Component: Designator=C40(0805C)
+Added Component: Designator=C41(0805C)
+Added Component: Designator=C42(0805C)
+Added Component: Designator=C43(0805C)
+Added Component: Designator=C44(0805C)
+Added Component: Designator=R41(0805R)
+Added Component: Designator=R42(0805R)
+Added Component: Designator=R43(0805R)
+Added Component: Designator=R44(0805R)
+Added Component: Designator=R45(0805R)
+Added Component: Designator=R46(0805R)
+Added Component: Designator=R47(0805R)
+Added Component: Designator=R48(0805R)
+Added Component: Designator=R49(0805R)
+Added Component: Designator=R50(0805R)
+Added Component: Designator=R51(0805R)
+Added Component: Designator=R52(0805R)
+Added Component: Designator=R53(0805R)
+Added Component: Designator=R54(0805R)
+Added Component: Designator=R55(0805R)
+Added Component: Designator=R56(0805R)
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VOUT1 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=VOUT2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VOUT3 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=VOUT4 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=VOUT5 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VOUT6 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=VOUT7 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VOUT8 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VOUT9 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VOUT10 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=VOUT11 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=VOUT12 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=VOUT1 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=VOUT2 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=VOUT3 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=VOUT4 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=VOUT5 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VOUT6 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=VOUT7 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=VOUT8 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=VOUT9 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=VOUT10 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=VOUT11 Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=VOUT12 Pin=C44-2
+Added Pin To Net: NetName=NetR6_1 Pin=R41-2
+Added Pin To Net: NetName=NetR6_1 Pin=R43-1
+Added Pin To Net: NetName=VOUT1 Pin=R45-2
+Added Pin To Net: NetName=VOUT2 Pin=R46-2
+Added Pin To Net: NetName=VOUT3 Pin=R47-2
+Added Pin To Net: NetName=VOUT4 Pin=R48-2
+Added Pin To Net: NetName=VOUT5 Pin=R49-2
+Added Pin To Net: NetName=VOUT6 Pin=R50-2
+Added Pin To Net: NetName=VOUT7 Pin=R51-2
+Added Pin To Net: NetName=VOUT8 Pin=R52-2
+Added Pin To Net: NetName=VOUT9 Pin=R53-2
+Added Pin To Net: NetName=VOUT10 Pin=R54-2
+Added Pin To Net: NetName=VOUT11 Pin=R55-2
+Added Pin To Net: NetName=VOUT12 Pin=R56-2
+Added Pin To Net: NetName=NetD1a_1 Pin=D1a-1
+Added Pin To Net: NetName=NetD1a_1 Pin=R45-1
+Added Net: Name=NetD1a_1
+Added Pin To Net: NetName=NetD2a_1 Pin=D2a-1
+Added Pin To Net: NetName=NetD2a_1 Pin=R46-1
+Added Net: Name=NetD2a_1
+Added Pin To Net: NetName=NetD3a_1 Pin=D3a-1
+Added Pin To Net: NetName=NetD3a_1 Pin=R47-1
+Added Net: Name=NetD3a_1
+Added Pin To Net: NetName=NetD4a_1 Pin=D4a-1
+Added Pin To Net: NetName=NetD4a_1 Pin=R48-1
+Added Net: Name=NetD4a_1
+Added Pin To Net: NetName=NetD5a_1 Pin=D5a-1
+Added Pin To Net: NetName=NetD5a_1 Pin=R49-1
+Added Net: Name=NetD5a_1
+Added Pin To Net: NetName=NetD6a_1 Pin=D6a-1
+Added Pin To Net: NetName=NetD6a_1 Pin=R50-1
+Added Net: Name=NetD6a_1
+Added Pin To Net: NetName=NetD7a_1 Pin=D7a-1
+Added Pin To Net: NetName=NetD7a_1 Pin=R51-1
+Added Net: Name=NetD7a_1
+Added Pin To Net: NetName=NetD8a_1 Pin=D8a-1
+Added Pin To Net: NetName=NetD8a_1 Pin=R52-1
+Added Net: Name=NetD8a_1
+Added Pin To Net: NetName=NetD9a_1 Pin=D9a-1
+Added Pin To Net: NetName=NetD9a_1 Pin=R53-1
+Added Net: Name=NetD9a_1
+Added Pin To Net: NetName=NetD10a_1 Pin=D10a-1
+Added Pin To Net: NetName=NetD10a_1 Pin=R54-1
+Added Net: Name=NetD10a_1
+Added Pin To Net: NetName=NetD11a_1 Pin=D11a-1
+Added Pin To Net: NetName=NetD11a_1 Pin=R55-1
+Added Net: Name=NetD11a_1
+Added Pin To Net: NetName=NetD12a_1 Pin=D12a-1
+Added Pin To Net: NetName=NetD12a_1 Pin=R56-1
+Added Net: Name=NetD12a_1
+Added Pin To Net: NetName=NetR8_3 Pin=R8-3
+Added Pin To Net: NetName=NetR8_3 Pin=R41-1
+Added Pin To Net: NetName=NetR8_3 Pin=R42-1
+Added Net: Name=NetR8_3
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Pin To Net: NetName=NetR43_2 Pin=U2-1
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=VCC5 Pin=C6-2
+Added Pin To Net: NetName=VCC5 Pin=CT2-1
+Added Pin To Net: NetName=VCC5 Pin=R42-2
+Added Pin To Net: NetName=VCC5 Pin=R44-2
+Added Pin To Net: NetName=VCC5 Pin=U2-20
+Added Net: Name=VCC5
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C21 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C22 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C23 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C24 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C25 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C26 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C27 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C28 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C29 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C30 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C31 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C32 10uf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C33 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C34 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C35 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C36 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C37 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C38 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C39 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C40 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C41 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C42 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C43 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C44 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R41 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R42 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R43 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R44 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R45 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R46 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R47 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R48 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R49 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R50 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R51 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R52 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R53 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R54 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R55 0K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R56 0K

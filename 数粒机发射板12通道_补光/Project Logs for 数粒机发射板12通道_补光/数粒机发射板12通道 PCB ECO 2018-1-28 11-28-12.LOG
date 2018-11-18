@@ -1,0 +1,12 @@
+Added Component: Designator=R20(0805R)
+Added Component: Designator=R21(0805R)
+Added Component: Designator=R22(0805R)
+Added Pin To Net: NetName=SWO Pin=R20-1
+Added Pin To Net: NetName=VDD33V Pin=R20-2
+Added Pin To Net: NetName=SWCLK Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=SWDIO Pin=R22-1
+Added Pin To Net: NetName=VDD33V Pin=R22-2
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R20 10K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R21 10K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R22 10K

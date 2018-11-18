@@ -1,0 +1,6 @@
+Added Component: Designator=P?(con4)
+Added Pin To Net: NetName=FSMC_NWE Pin=P?-1
+Added Pin To Net: NetName=FSMC_NWAIT Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=VCC5V Pin=P?-4
+Added Member To Class: ClassName=µçÑÛÖ÷°å Member=Component P? Header 4

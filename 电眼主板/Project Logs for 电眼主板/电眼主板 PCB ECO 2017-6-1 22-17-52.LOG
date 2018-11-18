@@ -1,0 +1,271 @@
+Removed Pin From Net: NetName=VCC5V Pin=P1-13
+Removed Pin From Net: NetName=CH7 Pin=P1-14
+Removed Pin From Net: NetName=VCC5V Pin=P1-15
+Removed Pin From Net: NetName=GND Pin=P1-17
+Removed Pin From Net: NetName=GND Pin=P1-19
+Removed Pin From Net: NetName=VCC3.3 Pin=P1-21
+Removed Pin From Net: NetName=CH11 Pin=P1-22
+Removed Pin From Net: NetName=VCC3.3 Pin=P1-23
+Removed Pin From Net: NetName=VOUT1 Pin=P2-1
+Removed Pin From Net: NetName=VOUT2 Pin=P2-2
+Removed Pin From Net: NetName=VOUT3 Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-11
+Removed Pin From Net: NetName=GND Pin=P2-13
+Removed Pin From Net: NetName=VOUT8 Pin=P2-14
+Removed Pin From Net: NetName=GND Pin=P2-15
+Removed Pin From Net: NetName=GND Pin=P2-17
+Removed Pin From Net: NetName=NetP3_1 Pin=P3-1
+Removed Pin From Net: NetName=NetP3_2 Pin=P3-2
+Removed Pin From Net: NetName=NetP3_2 Pin=U2-6
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X2 New Footprint=niujiaocha24P
+Change Component Footprint: Designator=P2 Old Footprint=niujiaocha20p New Footprint=HDR2X30
+Change Component Footprint: Designator=P1 Old Footprint=niujiaocha24P New Footprint=HDR2X30
+Change Component Comment : Designator=P3 Old Comment=Header 2 New Comment=Å£½Ç²å×ù
+Change Component Comment : Designator=P2 Old Comment=Å£½Ç²å×ù New Comment=Header 30X2
+Change Component Comment : Designator=P1 Old Comment=Å£½Ç²å×ù New Comment=Header 30X2
+Added Component: Designator=P4(niujiaocha20p)
+Added Component: Designator=P5(HDR1X2)
+Added Pin To Net: NetName=VDD33V Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=CH11 Pin=P1-21
+Added Pin To Net: NetName=VDD33V Pin=P1-25
+Added Pin To Net: NetName=GND Pin=P1-26
+Added Pin To Net: NetName=DAC_OUT1 Pin=P1-32
+Added Pin To Net: NetName=CH7 Pin=P1-33
+Added Pin To Net: NetName=USART3_RX Pin=P1-55
+Added Pin To Net: NetName=USART3_TX Pin=P1-56
+Added Pin To Net: NetName=GND Pin=P1-57
+Added Pin To Net: NetName=GND Pin=P1-58
+Added Pin To Net: NetName=VCC5V Pin=P1-59
+Added Pin To Net: NetName=VCC5V Pin=P1-60
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=VDD33V Pin=P2-2
+Added Pin To Net: NetName=CAN_RX Pin=P2-3
+Added Pin To Net: NetName=CAN_TX Pin=P2-4
+Added Pin To Net: NetName=VDD33V Pin=P2-13
+Added Pin To Net: NetName=GND Pin=P2-14
+Added Pin To Net: NetName=GND Pin=P2-23
+Added Pin To Net: NetName=VDD33V Pin=P2-24
+Added Pin To Net: NetName=SDCMD Pin=P2-27
+Added Pin To Net: NetName=SDDATA3 Pin=P2-31
+Added Pin To Net: NetName=SDCLK Pin=P2-32
+Added Pin To Net: NetName=SDDATA2 Pin=P2-34
+Added Pin To Net: NetName=SDDATA0 Pin=P2-37
+Added Pin To Net: NetName=SDDATA1 Pin=P2-38
+Added Pin To Net: NetName=RS485_RE Pin=P2-41
+Added Pin To Net: NetName=VCC5V Pin=P3-13
+Added Pin To Net: NetName=CH7 Pin=P3-14
+Added Pin To Net: NetName=VCC5V Pin=P3-15
+Added Pin To Net: NetName=GND Pin=P3-17
+Added Pin To Net: NetName=GND Pin=P3-19
+Added Pin To Net: NetName=VCC3.3 Pin=P3-21
+Added Pin To Net: NetName=CH11 Pin=P3-22
+Added Pin To Net: NetName=VCC3.3 Pin=P3-23
+Added Pin To Net: NetName=CH12 Pin=P3-24
+Added Pin To Net: NetName=VOUT1 Pin=P4-1
+Added Pin To Net: NetName=VOUT2 Pin=P4-2
+Added Pin To Net: NetName=VOUT3 Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-11
+Added Pin To Net: NetName=GND Pin=P4-13
+Added Pin To Net: NetName=VOUT8 Pin=P4-14
+Added Pin To Net: NetName=GND Pin=P4-15
+Added Pin To Net: NetName=GND Pin=P4-17
+Added Pin To Net: NetName=NetP3_2 Pin=P4-19
+Added Pin To Net: NetName=NetP3_1 Pin=P5-1
+Change Net Name : Old Net Name=A0 New Net Name=FSMC_A19
+Change Net Name : Old Net Name=A1 New Net Name=FSMC_A21
+Change Net Name : Old Net Name=A2 New Net Name=PC13
+Change Net Name : Old Net Name=CH1 New Net Name=FSMC_A23
+Change Net Name : Old Net Name=CH2 New Net Name=FSMC_A20
+Change Net Name : Old Net Name=CH3 New Net Name=FSMC_A22
+Change Net Name : Old Net Name=CH4 New Net Name=FSMC_A0
+Change Net Name : Old Net Name=CH5 New Net Name=FSMC_A2
+Change Net Name : Old Net Name=CH6 New Net Name=FSMC_A4
+Change Net Name : Old Net Name=CH8 New Net Name=FSMC_NIORD
+Change Net Name : Old Net Name=CH9 New Net Name=FSMC_NIOWR
+Change Net Name : Old Net Name=CH10 New Net Name=FSMC_INTR
+Change Net Name : Old Net Name=EN New Net Name=FSMC_A1
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetP5_1
+Change Net Name : Old Net Name=NetP3_2 New Net Name=VOUT12
+Change Net Name : Old Net Name=VOUT4 New Net Name=FSMC_NBL1
+Change Net Name : Old Net Name=VOUT5 New Net Name=LED1
+Change Net Name : Old Net Name=VOUT6 New Net Name=I2C1_SDA
+Change Net Name : Old Net Name=VOUT7 New Net Name=LED2
+Change Net Name : Old Net Name=VOUT9 New Net Name=FSMC_A25
+Change Net Name : Old Net Name=VOUT10 New Net Name=FSMC_NE4
+Change Net Name : Old Net Name=VOUT11 New Net Name=FSMC_NE3
+Change Net Name : Old Net Name=VOUT12 New Net Name=FSMC_NE2
+Added Pin To Net: NetName=A0 Pin=P3-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=P3-3
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=P3-5
+Added Net: Name=A2
+Added Pin To Net: NetName=CH0 Pin=P1-28
+Added Net: Name=CH0
+Added Pin To Net: NetName=CH1 Pin=P1-27
+Added Pin To Net: NetName=CH1 Pin=P3-2
+Added Net: Name=CH1
+Added Pin To Net: NetName=CH2 Pin=P1-30
+Added Pin To Net: NetName=CH2 Pin=P3-4
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=P1-29
+Added Pin To Net: NetName=CH3 Pin=P3-6
+Added Net: Name=CH3
+Added Pin To Net: NetName=CH4 Pin=P1-36
+Added Pin To Net: NetName=CH4 Pin=P3-8
+Added Net: Name=CH4
+Added Pin To Net: NetName=CH5 Pin=P1-35
+Added Pin To Net: NetName=CH5 Pin=P3-10
+Added Net: Name=CH5
+Added Pin To Net: NetName=CH6 Pin=P1-34
+Added Pin To Net: NetName=CH6 Pin=P3-12
+Added Net: Name=CH6
+Added Pin To Net: NetName=CH8 Pin=P1-38
+Added Pin To Net: NetName=CH8 Pin=P3-16
+Added Net: Name=CH8
+Added Pin To Net: NetName=CH9 Pin=P1-37
+Added Pin To Net: NetName=CH9 Pin=P3-18
+Added Net: Name=CH9
+Added Pin To Net: NetName=CH10 Pin=P1-22
+Added Pin To Net: NetName=CH10 Pin=P3-20
+Added Net: Name=CH10
+Added Pin To Net: NetName=CH13 Pin=P1-23
+Added Net: Name=CH13
+Added Pin To Net: NetName=DAC_OUT2 Pin=P1-31
+Added Net: Name=DAC_OUT2
+Added Pin To Net: NetName=DM9000_INT Pin=P2-43
+Added Net: Name=DM9000_INT
+Added Pin To Net: NetName=DM9000_RST Pin=P2-22
+Added Net: Name=DM9000_RST
+Added Pin To Net: NetName=EN Pin=P3-7
+Added Net: Name=EN
+Added Pin To Net: NetName=FSMC_A3 Pin=P1-9
+Added Net: Name=FSMC_A3
+Added Pin To Net: NetName=FSMC_A5 Pin=P1-11
+Added Net: Name=FSMC_A5
+Added Pin To Net: NetName=FSMC_A6 Pin=P1-39
+Added Net: Name=FSMC_A6
+Added Pin To Net: NetName=FSMC_A7 Pin=P1-42
+Added Net: Name=FSMC_A7
+Added Pin To Net: NetName=FSMC_A8 Pin=P1-41
+Added Net: Name=FSMC_A8
+Added Pin To Net: NetName=FSMC_A9 Pin=P1-44
+Added Net: Name=FSMC_A9
+Added Pin To Net: NetName=FSMC_A10 Pin=P1-43
+Added Net: Name=FSMC_A10
+Added Pin To Net: NetName=FSMC_A11 Pin=P1-46
+Added Net: Name=FSMC_A11
+Added Pin To Net: NetName=FSMC_A12 Pin=P2-47
+Added Net: Name=FSMC_A12
+Added Pin To Net: NetName=FSMC_A13 Pin=P2-48
+Added Net: Name=FSMC_A13
+Added Pin To Net: NetName=FSMC_A14 Pin=P2-45
+Added Net: Name=FSMC_A14
+Added Pin To Net: NetName=FSMC_A15 Pin=P2-46
+Added Net: Name=FSMC_A15
+Added Pin To Net: NetName=FSMC_A16 Pin=P2-54
+Added Net: Name=FSMC_A16
+Added Pin To Net: NetName=FSMC_A17 Pin=P2-51
+Added Net: Name=FSMC_A17
+Added Pin To Net: NetName=FSMC_A18 Pin=P2-52
+Added Net: Name=FSMC_A18
+Added Pin To Net: NetName=FSMC_A24 Pin=P2-15
+Added Net: Name=FSMC_A24
+Added Pin To Net: NetName=FSMC_CD Pin=P1-17
+Added Net: Name=FSMC_CD
+Added Pin To Net: NetName=FSMC_CLK Pin=P2-28
+Added Net: Name=FSMC_CLK
+Added Pin To Net: NetName=FSMC_D0 Pin=P2-49
+Added Net: Name=FSMC_D0
+Added Pin To Net: NetName=FSMC_D1 Pin=P2-50
+Added Net: Name=FSMC_D1
+Added Pin To Net: NetName=FSMC_D2 Pin=P2-29
+Added Net: Name=FSMC_D2
+Added Pin To Net: NetName=FSMC_D3 Pin=P2-30
+Added Net: Name=FSMC_D3
+Added Pin To Net: NetName=FSMC_D4 Pin=P1-45
+Added Net: Name=FSMC_D4
+Added Pin To Net: NetName=FSMC_D5 Pin=P1-48
+Added Net: Name=FSMC_D5
+Added Pin To Net: NetName=FSMC_D6 Pin=P1-47
+Added Net: Name=FSMC_D6
+Added Pin To Net: NetName=FSMC_D7 Pin=P1-50
+Added Net: Name=FSMC_D7
+Added Pin To Net: NetName=FSMC_D8 Pin=P1-49
+Added Net: Name=FSMC_D8
+Added Pin To Net: NetName=FSMC_D9 Pin=P1-52
+Added Net: Name=FSMC_D9
+Added Pin To Net: NetName=FSMC_D10 Pin=P1-51
+Added Net: Name=FSMC_D10
+Added Pin To Net: NetName=FSMC_D11 Pin=P1-54
+Added Net: Name=FSMC_D11
+Added Pin To Net: NetName=FSMC_D12 Pin=P1-53
+Added Net: Name=FSMC_D12
+Added Pin To Net: NetName=FSMC_D13 Pin=P2-55
+Added Net: Name=FSMC_D13
+Added Pin To Net: NetName=FSMC_D14 Pin=P2-56
+Added Net: Name=FSMC_D14
+Added Pin To Net: NetName=FSMC_D15 Pin=P2-53
+Added Net: Name=FSMC_D15
+Added Pin To Net: NetName=FSMC_INT3 Pin=P2-44
+Added Net: Name=FSMC_INT3
+Added Pin To Net: NetName=FSMC_NBL0 Pin=P2-5
+Added Net: Name=FSMC_NBL0
+Added Pin To Net: NetName=FSMC_NIOS16 Pin=P1-40
+Added Net: Name=FSMC_NIOS16
+Added Pin To Net: NetName=FSMC_NOE Pin=P2-25
+Added Net: Name=FSMC_NOE
+Added Pin To Net: NetName=FSMC_NREG Pin=P1-15
+Added Net: Name=FSMC_NREG
+Added Pin To Net: NetName=FSMC_NWAIT Pin=P2-21
+Added Net: Name=FSMC_NWAIT
+Added Pin To Net: NetName=FSMC_NWE Pin=P2-26
+Added Net: Name=FSMC_NWE
+Added Pin To Net: NetName=I2C1_SCL Pin=P2-9
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=LED0 Pin=P2-7
+Added Net: Name=LED0
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=U2-6
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=PA8 Pin=P2-35
+Added Net: Name=PA8
+Added Pin To Net: NetName=PB12 Pin=P2-59
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=P2-60
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=P2-57
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=P2-58
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC6 Pin=P2-39
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=P2-40
+Added Net: Name=PC7
+Added Pin To Net: NetName=PG11 Pin=P2-17
+Added Net: Name=PG11
+Added Pin To Net: NetName=PG15 Pin=P2-11
+Added Net: Name=PG15
+Added Pin To Net: NetName=RESET Pin=P1-19
+Added Net: Name=RESET
+Added Pin To Net: NetName=USART1_RX Pin=P2-33
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=P2-36
+Added Net: Name=USART1_TX
+Added Pin To Net: NetName=VOUT4 Pin=P4-6
+Added Net: Name=VOUT4
+Added Pin To Net: NetName=VOUT5 Pin=P4-8
+Added Net: Name=VOUT5
+Added Pin To Net: NetName=VOUT6 Pin=P4-10
+Added Net: Name=VOUT6
+Added Pin To Net: NetName=VOUT7 Pin=P4-12
+Added Net: Name=VOUT7
+Added Pin To Net: NetName=VOUT9 Pin=P4-16
+Added Net: Name=VOUT9
+Added Pin To Net: NetName=VOUT10 Pin=P4-18
+Added Net: Name=VOUT10
+Added Pin To Net: NetName=VOUT11 Pin=P4-20
+Added Net: Name=VOUT11
+Added Member To Class: ClassName=µçÑÛÖ÷°å Member=Component P4 Å£½Ç²å×ù
+Added Member To Class: ClassName=µçÑÛÖ÷°å Member=Component P5 Header 2

@@ -1,0 +1,4 @@
+Added Component: Designator=D2(D1206)
+Added Pin To Net: NetName=RSTIN Pin=D2-1
+Added Pin To Net: NetName=VDD33V Pin=D2-2
+Added Member To Class: ClassName=电眼主板 Member=Component D2 二极管(贴片)

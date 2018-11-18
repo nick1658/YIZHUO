@@ -1,0 +1,18 @@
+Added Component: Designator=D8(D1206)
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VDD33V Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VDD33V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=VDD33V Pin=D8-1
+Added Pin To Net: NetName=GND Pin=U19-18
+Added Pin To Net: NetName=VDD33V Pin=U19-19
+Added Pin To Net: NetName=GND Pin=U19-31
+Added Pin To Net: NetName=VDD33V Pin=U19-32
+Added Pin To Net: NetName=GND Pin=U19-47
+Added Pin To Net: NetName=GND Pin=U19-63
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=U19-1
+Added Net: Name=NetD8_2
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component D8 二极管(贴片)

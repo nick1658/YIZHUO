@@ -1,0 +1,14 @@
+Added Component: Designator=P1(niujiaocha24p)
+Added Pin To Net: NetName=CH2-1 Pin=U2-8
+Added Pin To Net: NetName=CH3-1 Pin=U3-8
+Added Pin To Net: NetName=CH4-1 Pin=U4-8
+Added Pin To Net: NetName=CH1 Pin=P1-1
+Added Pin To Net: NetName=CH1 Pin=U1-8
+Added Net: Name=CH1
+Added Pin To Net: NetName=CH2 Pin=P1-2
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=P1-4
+Added Net: Name=CH3
+Added Pin To Net: NetName=CH4 Pin=P1-6
+Added Net: Name=CH4
+Added Member To Class: ClassName=数粒机接收板4通道 Member=Component P1 Header 24X2

@@ -1,0 +1,4 @@
+Added Component: Designator=Y1(32.768khz)
+Added Pin To Net: NetName=NetC12_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC13_2 Pin=Y1-2
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component Y1 晶体(直插)

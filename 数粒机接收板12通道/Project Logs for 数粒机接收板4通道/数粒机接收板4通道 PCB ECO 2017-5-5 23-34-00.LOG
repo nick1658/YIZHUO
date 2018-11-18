@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P1 Old Footprint=niujiaocha24p New Footprint=HDR2X12
+Change Component Comment : Designator=P1 Old Comment=Header 24X2 New Comment=Header 12X2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=VCC5V Pin=P1-11
+Added Pin To Net: NetName=VCC5V Pin=P1-13
+Added Pin To Net: NetName=VCC3.3 Pin=P1-17
+Added Pin To Net: NetName=VCC3.3 Pin=P1-19

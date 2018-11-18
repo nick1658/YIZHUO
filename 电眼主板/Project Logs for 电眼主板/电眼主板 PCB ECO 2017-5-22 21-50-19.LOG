@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=BOOT1 Old Footprint=HDR2X3H New Footprint=HDR2X3
+Change Component Comment : Designator=BOOT1 Old Comment=Header 3X2H New Comment=Header 3X2
+Added Member To Class: ClassName=电眼主板 Member=Component R29 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R31 电阻(贴片)

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VOUT1 Pin=U3-1
+Removed Pin From Net: NetName=VOUT1 Pin=U3-2
+Removed Pin From Net: NetName=DAC_OUT1 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=VCC5V Pin=U3-8
+Removed Member From Class: ClassName=电眼主板 Member=U3
+Removed Member From Class: ClassName=电眼主板 Member=U3
+Removed Member From Class: ClassName=电眼主板 Member=U3
+Removed Member From Class: ClassName=电眼主板 Member=U3
+Removed Member From Class: ClassName=电眼主板 Member=U3
+Removed Member From Class: ClassName=电眼主板 Member=U3
+Added Component: Designator=D4(D1206)
+Added Component: Designator=D5(D1206)
+Added Pin To Net: NetName=VCC5V Pin=D4-1
+Added Pin To Net: NetName=VOUT1 Pin=D4-2
+Added Pin To Net: NetName=VCC5V Pin=D5-1
+Added Pin To Net: NetName=VOUT1 Pin=D5-2
+Added Member To Class: ClassName=电眼主板 Member=Component D4 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component D5 二极管(贴片)

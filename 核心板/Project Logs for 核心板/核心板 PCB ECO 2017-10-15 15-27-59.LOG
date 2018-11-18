@@ -1,0 +1,4 @@
+Added Component: Designator=Y1(32.768khz)
+Added Pin To Net: NetName=OSC32_IN Pin=Y1-1
+Added Pin To Net: NetName=OSC32_OUT Pin=Y1-2
+Added Member To Class: ClassName=ºËÐÄ°å Member=Component Y1 ¾§Ìå(Ö±²å)

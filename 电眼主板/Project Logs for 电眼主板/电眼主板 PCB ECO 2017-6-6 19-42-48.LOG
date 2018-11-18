@@ -1,0 +1,8 @@
+Added Component: Designator=CT1(CT7343)
+Added Component: Designator=R28(0603)
+Added Pin To Net: NetName=VCC5V Pin=CT1-1
+Added Pin To Net: NetName=GND Pin=CT1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R28-1
+Added Pin To Net: NetName=VCC5V Pin=R28-2
+Added Member To Class: ClassName=电眼主板 Member=Component CT1 220uF/16V
+Added Member To Class: ClassName=电眼主板 Member=Component R28 2K

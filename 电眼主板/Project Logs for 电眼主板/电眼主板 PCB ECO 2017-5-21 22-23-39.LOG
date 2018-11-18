@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=VDD33V Pin=R15-1
+Removed Pin From Net: NetName=SDDATA1 Pin=R15-2
+Removed Pin From Net: NetName=VDD33V Pin=R16-1
+Removed Pin From Net: NetName=SDDATA0 Pin=R16-2
+Removed Pin From Net: NetName=LED1 Pin=R23-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R23-2
+Removed Pin From Net: NetName=LED2 Pin=R24-1
+Removed Pin From Net: NetName=NetLED2_2 Pin=R24-2
+Removed Pin From Net: NetName=WP_SD_1 Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=WP_SD_1 Pin=R26-1
+Removed Pin From Net: NetName=WP_SD Pin=R26-2
+Change Component Designator: OldDesignator=D NewDesignator=D3
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Added Component: Designator=LED3(LED-0805)
+Added Component: Designator=LED4(LED-0805)
+Added Component: Designator=R17(0603)
+Added Component: Designator=R18(0603)
+Added Component: Designator=R27(0603)
+Added Component: Designator=R28(0603)
+Added Pin To Net: NetName=VDD33V Pin=LED3-1
+Added Pin To Net: NetName=VDD33V Pin=LED4-1
+Added Pin To Net: NetName=USART3_TX Pin=R15-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R15-2
+Added Pin To Net: NetName=USART3_RX Pin=R16-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R16-2
+Added Pin To Net: NetName=VDD33V Pin=R17-1
+Added Pin To Net: NetName=SDDATA1 Pin=R17-2
+Added Pin To Net: NetName=VDD33V Pin=R18-1
+Added Pin To Net: NetName=SDDATA0 Pin=R18-2
+Added Pin To Net: NetName=LED1 Pin=R25-1
+Added Pin To Net: NetName=LED2 Pin=R26-1
+Added Pin To Net: NetName=WP_SD_1 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=WP_SD_1 Pin=R28-1
+Added Pin To Net: NetName=WP_SD Pin=R28-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R25-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R26-2
+Added Net: Name=NetLED4_2
+Added Member To Class: ClassName=电眼主板 Member=Component LED3 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED4 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component R27 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R28 电阻(贴片)

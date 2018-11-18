@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=WP_SD_1 Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=485_A Pin=R26-1
+Removed Pin From Net: NetName=VDD33V Pin=R26-2
+Removed Pin From Net: NetName=WP_SD_1 Pin=R27-1
+Removed Pin From Net: NetName=WP_SD Pin=R27-2
+Removed Pin From Net: NetName=USART3_TX Pin=R28-1
+Removed Pin From Net: NetName=NetLED3_2 Pin=R28-2
+Removed Pin From Net: NetName=485_A Pin=R30-1
+Removed Pin From Net: NetName=485_B Pin=R30-2
+Removed Pin From Net: NetName=USB_5V1 Pin=V1-1
+Removed Pin From Net: NetName=D- Pin=V1-2
+Removed Pin From Net: NetName=D+ Pin=V1-3
+Removed Pin From Net: NetName=GND Pin=V1-4
+Removed Member From Class: ClassName=电眼主板 Member=V1
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Added Component: Designator=C17(0603)
+Added Component: Designator=J1(miniusb)
+Added Component: Designator=J2(miniusb)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=R26(0603)
+Added Component: Designator=R29(0603)
+Added Component: Designator=R31(0603)
+Added Component: Designator=R33(0603)
+Added Component: Designator=R34(0603)
+Added Component: Designator=U6(sop8)
+Added Pin To Net: NetName=VDD33V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=USB_5V1 Pin=J1-1
+Added Pin To Net: NetName=D- Pin=J1-2
+Added Pin To Net: NetName=D+ Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=VCC5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=WP_SD_1 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=485_A Pin=R28-1
+Added Pin To Net: NetName=VDD33V Pin=R28-2
+Added Pin To Net: NetName=WP_SD_1 Pin=R29-1
+Added Pin To Net: NetName=WP_SD Pin=R29-2
+Added Pin To Net: NetName=VCC5V Pin=R30-1
+Added Pin To Net: NetName=USART3_TX Pin=R31-1
+Added Pin To Net: NetName=NetLED3_2 Pin=R31-2
+Added Pin To Net: NetName=485_A Pin=R33-1
+Added Pin To Net: NetName=485_B Pin=R33-2
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=VDD33V Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=CAN_RX Pin=R27-2
+Added Pin To Net: NetName=CAN_RX Pin=U1-70
+Added Pin To Net: NetName=CAN_RX Pin=U6-4
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TX Pin=R25-2
+Added Pin To Net: NetName=CAN_TX Pin=R30-2
+Added Pin To Net: NetName=CAN_TX Pin=U1-71
+Added Pin To Net: NetName=CAN_TX Pin=U6-1
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R27-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=R25-1
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R34-2
+Added Pin To Net: NetName=NetP3_1 Pin=U6-7
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=R34-1
+Added Pin To Net: NetName=NetP3_2 Pin=U6-6
+Added Net: Name=NetP3_2
+Added Member To Class: ClassName=电眼主板 Member=Component C17 电容(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component J1 miniusb
+Added Member To Class: ClassName=电眼主板 Member=Component J2 miniusb
+Added Member To Class: ClassName=电眼主板 Member=Component LED3 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component LED4 二极管(贴片发光绿色)
+Added Member To Class: ClassName=电眼主板 Member=Component P3 Header 2
+Added Member To Class: ClassName=电眼主板 Member=Component R28 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R32 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R33 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R34 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R35 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component U6 集成电路

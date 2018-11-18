@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=PG15 Pin=U4-32
+Change Component Comment : Designator=R39 Old Comment=1M New Comment=电阻(贴片)
+Change Component Comment : Designator=R29 Old Comment=2K New Comment=
+Change Component Comment : Designator=D2 Old Comment=17-215-SURC-S530-A3-TR8 New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=C11 Old Comment=104 New Comment=电容(贴片)
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=电容(贴片)
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=电容(贴片)
+Change Component Comment : Designator=P7 Old Comment=Header 30X2 New Comment=双排针插座（孔型）
+Change Component Comment : Designator=P6 Old Comment=Header 30X2 New Comment=双排针插座（孔型）
+Change Component Comment : Designator=LED40 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED39 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED38 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED37 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED36 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED35 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED34 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED33 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED20 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED19 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED18 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED17 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED4 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED3 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED2 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED1 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光红色)
+Change Component Comment : Designator=LED32 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED31 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED29 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED28 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED26 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED25 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED23 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED22 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED15 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED14 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED12 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED11 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED9 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED8 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED6 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=LED5 Old Comment=二极管(贴片发光绿色) New Comment=二极管(贴片发光黄色)
+Change Component Comment : Designator=C18 Old Comment=贴片电容 22p New Comment=电容(贴片)
+Change Component Comment : Designator=C17 Old Comment=贴片电容 22p New Comment=电容(贴片)
+Change Component Comment : Designator=CT2 Old Comment=钽电容(贴片) New Comment=钽电容
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=GND Pin=P5-7
+Added Pin To Net: NetName=GND Pin=P5-9
+Added Pin To Net: NetName=FSMC_A7 Pin=U4-32

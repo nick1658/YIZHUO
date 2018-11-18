@@ -1,0 +1,67 @@
+Added Component: Designator=C1(0805C)
+Added Component: Designator=C2(0805CC)
+Added Component: Designator=C3(0805C)
+Added Component: Designator=C4(0805C)
+Added Component: Designator=C5(0805C)
+Added Component: Designator=CT1(CT7343)
+Added Component: Designator=D1(LED_SML-LX0603GW)
+Added Component: Designator=L1(6045)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R4(0805R)
+Added Component: Designator=R5(0603R)
+Added Component: Designator=U1(TO-263)
+Added Component: Designator=V1(1812DT)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=CT1-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=V1-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R1-2
+Added Pin To Net: NetName=NetC5_2 Pin=R2-1
+Added Pin To Net: NetName=NetC5_2 Pin=U1-4
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R5-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-2
+Added Pin To Net: NetName=NetL1_1 Pin=V1-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=PG Pin=C2-1
+Added Pin To Net: NetName=PG Pin=C2-1
+Added Pin To Net: NetName=PG Pin=R4-2
+Added Net: Name=PG
+Added Pin To Net: NetName=VCC6 Pin=C3-1
+Added Pin To Net: NetName=VCC6 Pin=C4-2
+Added Pin To Net: NetName=VCC6 Pin=C5-1
+Added Pin To Net: NetName=VCC6 Pin=CT1-1
+Added Pin To Net: NetName=VCC6 Pin=L1-2
+Added Pin To Net: NetName=VCC6 Pin=R2-2
+Added Pin To Net: NetName=VCC6 Pin=R5-2
+Added Net: Name=VCC6
+Added Pin To Net: NetName=VCC24V Pin=C1-1
+Added Pin To Net: NetName=VCC24V Pin=U1-1
+Added Net: Name=VCC24V
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C1 0.1uF
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C2 102/2KV
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C3 10uF
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C4 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C5 3.3nf
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component CT1 100uF/16V
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component D1 发光二极管
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component L1 33uH2A
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R1 1K %1
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R2 3.87K %1
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R4 1M
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component R5 22K
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component U1 LM2596S-ADJ
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component V1 SK210B

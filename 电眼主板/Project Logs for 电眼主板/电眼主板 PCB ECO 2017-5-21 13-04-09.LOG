@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=CH3 Pin=U1-66
+Removed Pin From Net: NetName=GND Pin=U1-67
+Removed Pin From Net: NetName=VDD33V Pin=U1-68
+Removed Pin From Net: NetName=CH4 Pin=U1-69
+Removed Pin From Net: NetName=CH5 Pin=U1-70
+Removed Pin From Net: NetName=CH6 Pin=U1-71
+Removed Pin From Net: NetName=CH7 Pin=U1-72
+Removed Pin From Net: NetName=CH14 Pin=U1-73
+Removed Pin From Net: NetName=CH15 Pin=U1-74
+Removed Pin From Net: NetName=CH8 Pin=U1-75
+Added Pin To Net: NetName=CH3 Pin=U1-26
+Added Pin To Net: NetName=CH4 Pin=U1-29
+Added Pin To Net: NetName=CH5 Pin=U1-30
+Added Pin To Net: NetName=CH6 Pin=U1-31
+Added Pin To Net: NetName=CH7 Pin=U1-32
+Added Pin To Net: NetName=CH14 Pin=U1-33
+Added Pin To Net: NetName=CH15 Pin=U1-34
+Added Pin To Net: NetName=CH8 Pin=U1-35
+Added Pin To Net: NetName=CH9 Pin=U1-36
+Added Pin To Net: NetName=BOOT1 Pin=U1-37
+Added Pin To Net: NetName=USART1_TX Pin=U1-68
+Added Pin To Net: NetName=USART1_RX Pin=U1-69
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=VDD33V Pin=U1-75
+Added Pin To Net: NetName=BOOT0 Pin=U1-94
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=VDD33V Pin=U1-100
+Added Member To Class: ClassName=电眼主板 Member=Component R8 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R9 电阻(贴片)

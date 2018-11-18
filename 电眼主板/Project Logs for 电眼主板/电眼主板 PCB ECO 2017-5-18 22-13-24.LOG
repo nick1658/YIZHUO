@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=U1-34
+Removed Pin From Net: NetName=DVDD Pin=U1-35
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=CRYSTAL_SMD
+Change Component Footprint: Designator=Y2 Old Footprint=R38 New Footprint=CRYSTAL_SMD
+Added Component: Designator=CRS10(0603)
+Added Component: Designator=OC5(0603)
+Added Component: Designator=OC6(0603)
+Added Component: Designator=OR3(0603)
+Added Component: Designator=RRS1(0603)
+Added Component: Designator=U9(SSOP20)
+Added Pin To Net: NetName=GND Pin=CRS10-1
+Added Pin To Net: NetName=DVDD Pin=CRS10-2
+Added Pin To Net: NetName=GND Pin=OC5-1
+Added Pin To Net: NetName=GND Pin=OC6-1
+Added Pin To Net: NetName=GND Pin=RRS1-2
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=DVDD Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=DVDD Pin=U1-50
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=DVDD Pin=U1-75
+Added Pin To Net: NetName=DVDD Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=DVDD Pin=U9-19
+Change Net Name : Old Net Name=DVDD New Net Name=VDD33V
+Added Pin To Net: NetName=D+ Pin=U9-6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=RRS1-1
+Added Pin To Net: NetName=D- Pin=U9-7
+Added Net: Name=D-
+Added Pin To Net: NetName=NetOC5_2 Pin=OC5-2
+Added Pin To Net: NetName=NetOC5_2 Pin=OR3-1
+Added Pin To Net: NetName=NetOC5_2 Pin=U9-9
+Added Net: Name=NetOC5_2
+Added Pin To Net: NetName=NetOC6_2 Pin=OC6-2
+Added Pin To Net: NetName=NetOC6_2 Pin=OR3-2
+Added Pin To Net: NetName=NetOC6_2 Pin=U9-10
+Added Net: Name=NetOC6_2
+Added Pin To Net: NetName=RXD0 Pin=U9-3
+Added Net: Name=RXD0
+Added Pin To Net: NetName=TXD0 Pin=U9-4
+Added Net: Name=TXD0
+Added Net: Name=USB_5V1
+Added Member To Class: ClassName=电眼主板 Member=Component C1 贴片电容10pF
+Added Member To Class: ClassName=电眼主板 Member=Component C2 贴片电容10pF
+Added Member To Class: ClassName=电眼主板 Member=Component CRS10 电容(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component OC5 电容(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component OC6 电容(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component OR3 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component RRS1 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component U9 集成电路贴片

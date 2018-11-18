@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=U1-74
+Removed Pin From Net: NetName=VDD33V Pin=U1-75
+Removed Pin From Net: NetName=CH3 Pin=U1-76
+Removed Pin From Net: NetName=GND Pin=U1-77
+Removed Pin From Net: NetName=VDD33V Pin=U1-78
+Removed Pin From Net: NetName=CH4 Pin=U1-79
+Removed Pin From Net: NetName=CH5 Pin=U1-80
+Removed Pin From Net: NetName=CH6 Pin=U1-81
+Removed Pin From Net: NetName=CH7 Pin=U1-82
+Removed Pin From Net: NetName=CH14 Pin=U1-83
+Removed Pin From Net: NetName=CH15 Pin=U1-84
+Removed Pin From Net: NetName=CH8 Pin=U1-85
+Removed Pin From Net: NetName=CH9 Pin=U1-86
+Removed Pin From Net: NetName=GND Pin=U1-99
+Removed Pin From Net: NetName=VDD33V Pin=U1-100
+Change Component Designator: OldDesignator=CRS7 NewDesignator=CRS2
+Change Component Designator: OldDesignator=CRS10 NewDesignator=CRS1
+Change Component Designator: OldDesignator=OC5 NewDesignator=OC1
+Change Component Designator: OldDesignator=OC6 NewDesignator=OC2
+Change Component Designator: OldDesignator=OR3 NewDesignator=OR1
+Change Component Designator: OldDesignator=U9 NewDesignator=U2
+Change Component Designator: OldDesignator=V232 NewDesignator=V1
+Added Component: Designator=D1(D1206)
+Added Component: Designator=Q1(sot-23)
+Added Component: Designator=Q2(sot-23)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0603)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R5(0603)
+Added Pin To Net: NetName=VDD33V Pin=Q2-1
+Added Pin To Net: NetName=VDD33V Pin=R2-2
+Added Pin To Net: NetName=CH3 Pin=U1-66
+Added Pin To Net: NetName=GND Pin=U1-67
+Added Pin To Net: NetName=VDD33V Pin=U1-68
+Added Pin To Net: NetName=CH4 Pin=U1-69
+Added Pin To Net: NetName=CH5 Pin=U1-70
+Added Pin To Net: NetName=CH6 Pin=U1-71
+Added Pin To Net: NetName=CH7 Pin=U1-72
+Added Pin To Net: NetName=CH14 Pin=U1-73
+Added Pin To Net: NetName=CH15 Pin=U1-74
+Added Pin To Net: NetName=CH8 Pin=U1-75
+Change Net Name : Old Net Name=NetOC5_2 New Net Name=NetOC1_2
+Change Net Name : Old Net Name=NetOC6_2 New Net Name=NetOC2_2
+Change Net Name : Old Net Name=RXD0 New Net Name=USART1_RX
+Change Net Name : Old Net Name=TXD0 New Net Name=USART1_TX
+Added Pin To Net: NetName=BOOT0 Pin=R5-1
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_2 Pin=R2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-16
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R4-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R5-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-15
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=RESET Pin=D1-1
+Added Net: Name=RESET
+Added Member To Class: ClassName=电眼主板 Member=Component D1 二极管(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component Q1 S8050
+Added Member To Class: ClassName=电眼主板 Member=Component Q2 S8550
+Added Member To Class: ClassName=电眼主板 Member=Component R2 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R3 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R4 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R5 电阻(贴片)

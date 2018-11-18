@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=JTAG1 Old Footprint=niujiaocha20p New Footprint=Stm32Jtag
+Added Component: Designator=P2(niujiaocha20p)
+Added Pin To Net: NetName=VOUT1 Pin=P2-1
+Added Pin To Net: NetName=VOUT2 Pin=P2-2
+Added Pin To Net: NetName=VOUT3 Pin=P2-4
+Added Pin To Net: NetName=VOUT4 Pin=P2-6
+Added Pin To Net: NetName=VOUT5 Pin=P2-8
+Added Pin To Net: NetName=VOUT6 Pin=P2-10
+Added Pin To Net: NetName=GND Pin=P2-11
+Added Pin To Net: NetName=VOUT7 Pin=P2-12
+Added Pin To Net: NetName=GND Pin=P2-13
+Added Pin To Net: NetName=VOUT8 Pin=P2-14
+Added Pin To Net: NetName=GND Pin=P2-15
+Added Pin To Net: NetName=VOUT9 Pin=P2-16
+Added Pin To Net: NetName=GND Pin=P2-17
+Added Pin To Net: NetName=VOUT10 Pin=P2-18
+Added Pin To Net: NetName=VOUT12 Pin=P2-19
+Added Pin To Net: NetName=VOUT11 Pin=P2-20
+Added Member To Class: ClassName=电眼主板 Member=Component P2 牛角插座
+Added Member To Class: ClassName=电眼主板 Member=Component R18 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R19 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R20 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R21 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R22 电阻(贴片)

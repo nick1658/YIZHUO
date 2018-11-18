@@ -1,0 +1,5 @@
+Added Component: Designator=P9(CON3)
+Added Pin To Net: NetName=FSMC_NWAIT Pin=P9-1
+Added Pin To Net: NetName=FSMC_NWE Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Member To Class: ClassName=µçÑÛÖ÷°å Member=Component P9 Header 3

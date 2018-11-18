@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=INPUT3 Pin=P7-18
+Removed Pin From Net: NetName=INPUT2 Pin=P7-36
+Removed Pin From Net: NetName=INPUT1 Pin=P7-39
+Removed Pin From Net: NetName=INPUT0 Pin=P7-40
+Removed Pin From Net: NetName=FSMC_A13 Pin=TL3-10
+Removed Pin From Net: NetName=FSMC_A12 Pin=TL3-12
+Removed Pin From Net: NetName=FSMC_A11 Pin=TL3-14
+Removed Pin From Net: NetName=FSMC_A10 Pin=TL3-16
+Change Component Footprint: Designator=R31 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R32 Old Footprint=0603 New Footprint=0805
+Added Component: Designator=R46(0603)
+Added Component: Designator=R47(0603)
+Added Component: Designator=R48(0603)
+Added Component: Designator=R49(0603)
+Added Component: Designator=R50(0603)
+Added Component: Designator=R51(0603)
+Added Component: Designator=R52(0603)
+Added Component: Designator=R53(0603)
+Added Pin To Net: NetName=INPUT0 Pin=R46-2
+Added Pin To Net: NetName=INPUT1 Pin=R47-2
+Added Pin To Net: NetName=INPUT2 Pin=R48-2
+Added Pin To Net: NetName=INPUT3 Pin=R49-2
+Added Pin To Net: NetName=FSMC_A10 Pin=R50-1
+Added Pin To Net: NetName=FSMC_A11 Pin=R51-1
+Added Pin To Net: NetName=FSMC_A12 Pin=R52-1
+Added Pin To Net: NetName=FSMC_A13 Pin=R53-1
+Added Pin To Net: NetName=INPUT4 Pin=R50-2
+Added Pin To Net: NetName=INPUT4 Pin=TL3-16
+Added Net: Name=INPUT4
+Added Pin To Net: NetName=INPUT5 Pin=R51-2
+Added Pin To Net: NetName=INPUT5 Pin=TL3-14
+Added Net: Name=INPUT5
+Added Pin To Net: NetName=INPUT6 Pin=R52-2
+Added Pin To Net: NetName=INPUT6 Pin=TL3-12
+Added Net: Name=INPUT6
+Added Pin To Net: NetName=INPUT7 Pin=R53-2
+Added Pin To Net: NetName=INPUT7 Pin=TL3-10
+Added Net: Name=INPUT7
+Added Pin To Net: NetName=PA8 Pin=P7-36
+Added Pin To Net: NetName=PA8 Pin=R48-1
+Added Net: Name=PA8
+Added Pin To Net: NetName=PC6 Pin=P7-40
+Added Pin To Net: NetName=PC6 Pin=R46-1
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=P7-39
+Added Pin To Net: NetName=PC7 Pin=R47-1
+Added Net: Name=PC7
+Added Pin To Net: NetName=PG11 Pin=P7-18
+Added Pin To Net: NetName=PG11 Pin=R49-1
+Added Net: Name=PG11
+Added Member To Class: ClassName=电眼主板 Member=Component R46 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R47 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R48 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R49 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R50 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R51 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R52 电阻(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component R53 电阻(贴片)

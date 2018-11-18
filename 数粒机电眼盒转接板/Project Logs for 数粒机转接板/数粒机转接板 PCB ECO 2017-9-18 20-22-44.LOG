@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=A1 Pin=P2-1
+Removed Pin From Net: NetName=A2 Pin=P2-3
+Removed Pin From Net: NetName=A1 Pin=P3-1
+Removed Pin From Net: NetName=A2 Pin=P3-3
+Change Component Description : Designator=P4 Old Description=Header, 10-Pin, Dua New Description=Header, 10-Pin, Dual row
+Change Component Description : Designator=P5 Old Description=Header, 10-Pin, Dua New Description=Header, 10-Pin, Dual row
+Change Component Description : Designator=P6 Old Description=Header, 10-Pin, Dua New Description=Header, 10-Pin, Dual row
+Added Pin To Net: NetName=A0 Pin=P2-1
+Added Pin To Net: NetName=A1 Pin=P2-3
+Added Pin To Net: NetName=A2 Pin=P2-5
+Added Pin To Net: NetName=A0 Pin=P3-1
+Added Pin To Net: NetName=A1 Pin=P3-3
+Added Pin To Net: NetName=A2 Pin=P3-5
+Added Member To Class: ClassName=数粒机转接板 Member=Component P1 牛角插座
+Added Member To Class: ClassName=数粒机转接板 Member=Component P2 牛角插座

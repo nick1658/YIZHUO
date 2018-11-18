@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R8 Old Comment=3362P New Comment=3362P-1-103
+Change Component Description : Designator=R8 Old Description= New Description=电位器 10K
+Added Component: Designator=C7(0805C)
+Added Component: Designator=C8(0805C)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC5V Pin=C8-2
+Added Net: Name=VCC5V
+Added Pin To Net: NetName=VDD33V Pin=C7-2
+Added Net: Name=VDD33V
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C7 104
+Added Member To Class: ClassName=数粒机发射板12通道 Member=Component C8 104

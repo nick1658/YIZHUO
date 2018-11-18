@@ -1,0 +1,10 @@
+Added Component: Designator=CRS7(6032)
+Added Component: Designator=V232(usb3)
+Added Pin To Net: NetName=VDD33V Pin=CRS7-1
+Added Pin To Net: NetName=GND Pin=CRS7-2
+Added Pin To Net: NetName=USB_5V1 Pin=V232-1
+Added Pin To Net: NetName=D- Pin=V232-2
+Added Pin To Net: NetName=D+ Pin=V232-3
+Added Pin To Net: NetName=GND Pin=V232-4
+Added Member To Class: ClassName=电眼主板 Member=Component CRS7 钽电容(贴片)
+Added Member To Class: ClassName=电眼主板 Member=Component V232 接插件(带卡扣白色)

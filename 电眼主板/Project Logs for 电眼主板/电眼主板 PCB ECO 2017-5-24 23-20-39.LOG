@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USART3_TX Pin=R21-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R21-2
+Removed Pin From Net: NetName=VDD33V Pin=R22-1
+Removed Pin From Net: NetName=SDCLK Pin=R22-2

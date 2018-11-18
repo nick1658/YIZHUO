@@ -1,0 +1,9 @@
+Added Component: Designator=C38(0603)
+Added Component: Designator=C39(0603)
+Added Pin To Net: NetName=VDDA Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=VDDA Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=U1-120
+Added Member To Class: ClassName=ºËĞÄ°å Member=Component C38 µçÈİ(ÌùÆ¬)
+Added Member To Class: ClassName=ºËĞÄ°å Member=Component C39 µçÈİ(ÌùÆ¬)
